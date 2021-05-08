@@ -1,0 +1,2 @@
+Enhancement effect of refractive index phase shift modulation near guided-wave band edge of line-defect photonic crystal waveguides
+['Line-defect waveguides', 'Phase shift modulation', 'Photonic crystals']

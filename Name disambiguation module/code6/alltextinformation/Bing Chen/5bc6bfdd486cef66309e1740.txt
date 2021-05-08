@@ -1,0 +1,2 @@
+Fuzzy controller design based on sampled-data under time-varying sampling
+['linear matrix inequality(LMI)', 'Sampled-data feedback', 'Takagi-Sugeno (T-S) fuzzy model']

@@ -1,0 +1,2 @@
+Adsorption of nucleic acid bases and amino acids on single-walled carbon and boron nitride nanotubes: A first-principles study
+['Adsorption', 'Amino acid', 'Density functional theory', 'Nanotube nucleic acid base']

@@ -1,0 +1,2 @@
+Burst capacity solutions for submarine pipeline with long corrosion defects
+['Burst capacity', 'Failure behavior', 'Long corrosion defects', 'Submarine pipeline']

@@ -1,0 +1,2 @@
+A critical chain based uncertain production scheduling method for remanufacturing systems
+['Critical chain', 'Production scheduling', 'Remanufacturing', 'Uncertainty']

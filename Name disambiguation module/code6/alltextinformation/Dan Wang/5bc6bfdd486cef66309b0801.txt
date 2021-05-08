@@ -1,0 +1,2 @@
+Impacts of land-use types on soil C mineralization and temperature sensitivity of forests in Qianyanzhou, Jiangxi Province, China
+['Humidity', 'Land-use type', 'Soil respiration', 'Temperature']

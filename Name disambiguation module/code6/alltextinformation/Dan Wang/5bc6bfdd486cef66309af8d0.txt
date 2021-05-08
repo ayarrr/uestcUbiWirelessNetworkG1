@@ -1,0 +1,2 @@
+A demand response and battery storage coordination algorithm for providing microgrid Tie-Line smoothing services
+['Demand response (DR)', 'heat pump', 'load balancing', 'load control', 'microgrid', 'power quality', 'renewable integration', 'thermostatically controlled appliances (TCAs)']

@@ -1,0 +1,2 @@
+Pharmacokinetics of pazufloxacin mesilate in Chinese healthy volunteers
+['HPLC', 'Pazufloxacin mesilate', 'Pharmacokinetics']

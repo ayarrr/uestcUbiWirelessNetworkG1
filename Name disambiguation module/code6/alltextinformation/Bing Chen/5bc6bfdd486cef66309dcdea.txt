@@ -1,0 +1,2 @@
+Fuzzy adaptive control for a class of non-strict-feedback nonlinear systems
+['Adaptive control', 'Fuzzy logical systems', 'Nonlinear systems']

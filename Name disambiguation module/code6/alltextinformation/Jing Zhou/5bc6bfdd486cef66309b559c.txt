@@ -1,0 +1,2 @@
+Exploring link-based algorithm for web spam detection
+['Reversibility', 'Seed Selection', 'Spam Web', 'TDRank Algorithm']

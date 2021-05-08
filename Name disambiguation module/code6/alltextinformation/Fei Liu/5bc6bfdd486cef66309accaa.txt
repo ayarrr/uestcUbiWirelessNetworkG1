@@ -1,0 +1,2 @@
+Robust receding horizon dual-mode control for Markov jump systems
+['Constraints on input and state', 'Dual-mode control', 'Markov jump systems', 'Receding horizon control', 'Semi-definite programming', 'Terminal invariant set']

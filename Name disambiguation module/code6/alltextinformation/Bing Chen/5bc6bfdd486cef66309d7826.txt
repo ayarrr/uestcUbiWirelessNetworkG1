@@ -1,0 +1,2 @@
+Adaptive fuzzy tracking control of nonlinear MIMO systems with time-varying delays
+['Adaptive fuzzy control', 'Nonlinear system', 'Time delay', 'Uncertainty']

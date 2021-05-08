@@ -1,0 +1,2 @@
+Temperature control system of gene-type gain amplifier
+['C51 program design', 'Chip microprocessor', 'Fuzzy control', 'Fuzzy PID control', 'PID control', 'Simulation']

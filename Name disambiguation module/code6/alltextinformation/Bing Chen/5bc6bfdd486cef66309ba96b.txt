@@ -1,0 +1,2 @@
+NANOGP8 is a retrogene expressed in cancers
+['Nanog', 'NANOGP8', 'Pseudogene', 'Retrogene', 'Tumorigenesis']

@@ -1,0 +1,2 @@
+Single neural network approximation based adaptive control for a class of uncertain strict-feedback nonlinear systems
+['Adaptive control', 'Complexity growing problem', 'Single neural network', 'Strict-feedback nonlinear systems']

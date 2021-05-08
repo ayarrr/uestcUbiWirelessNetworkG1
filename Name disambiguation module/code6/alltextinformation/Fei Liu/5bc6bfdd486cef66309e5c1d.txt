@@ -1,0 +1,2 @@
+Fuzzy pole placement design with H∞ disturbance attenuation for uncertain nonlinear systems
+['Fuzzy control', 'H∞ design', 'Nonlinear system', 'Pole placement', 'Robustness']

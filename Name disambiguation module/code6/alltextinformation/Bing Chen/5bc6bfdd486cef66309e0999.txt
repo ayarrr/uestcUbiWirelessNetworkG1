@@ -1,0 +1,2 @@
+Robust adaptive fuzzy control for hyperchaotic Chen systems
+['Adaptive control', 'Fuzzy control', 'Hyperchaotic Chen system']

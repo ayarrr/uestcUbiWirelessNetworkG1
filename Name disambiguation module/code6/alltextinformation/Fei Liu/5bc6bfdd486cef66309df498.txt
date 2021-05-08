@@ -1,0 +1,2 @@
+Energy survey of machine tools: Separating power information of the main transmission system during machining process
+['Energy consumption', 'Information separating', 'Machine tools', 'Machining', 'Main transmission system']

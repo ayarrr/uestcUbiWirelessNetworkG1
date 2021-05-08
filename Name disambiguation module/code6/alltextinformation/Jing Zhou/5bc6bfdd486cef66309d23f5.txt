@@ -1,0 +1,2 @@
+Modal parameter identification of free spanning submarine pipeline under non-white noise excitation
+['Free spanning pipeline', 'Free vibration signal', 'Modal parameters identification', 'Model experiment', 'Non-white noise']

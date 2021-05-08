@@ -1,0 +1,2 @@
+Finite-time stabilization for Markov jump systems via state feedback
+['Finite time stabilization', 'Finite-time boundedness', 'Linear matrix inequalities', 'Markov jump systems']

@@ -1,0 +1,2 @@
+Reliability-growth Bayesian analysis for solid rocket motor based on Dirichlet prior distribution
+['Bayesian analysis', 'Dirichlet distribution', 'Posterior distribution', 'Reliability growth', 'Solid rocket motor']

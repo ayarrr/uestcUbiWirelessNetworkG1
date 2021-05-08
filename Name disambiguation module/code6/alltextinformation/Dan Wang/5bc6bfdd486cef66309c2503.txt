@@ -1,0 +1,2 @@
+Robust adaptive neural control of uncertain pure-feedback nonlinear systems
+['robust adaptive control', 'single neural network', 'uncertain pure-feedback nonlinear systems']

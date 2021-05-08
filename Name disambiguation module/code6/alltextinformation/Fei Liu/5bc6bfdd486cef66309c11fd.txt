@@ -1,0 +1,2 @@
+Failure analysis based on J-integral values: A case study of hydrogen blistering defect
+['Crack', 'Finite element method', 'Hydrogen blistering', 'J-integral', 'Liquefied natural gas tank']

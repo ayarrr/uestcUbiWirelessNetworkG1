@@ -1,0 +1,2 @@
+Semi-analytical analysis of the response of the air temperature over the land surface to the global vegetation distribution
+['Air temperature', 'Global vegetation distribution', 'Radiation balance', 'Semi-analytic', 'The land surface']

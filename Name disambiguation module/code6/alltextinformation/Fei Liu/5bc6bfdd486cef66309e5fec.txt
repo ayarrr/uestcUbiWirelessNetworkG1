@@ -1,0 +1,2 @@
+ASP platform for regional information-based manufacturing and its applications
+['ASP', 'Information-based manufacturing', 'Platform', 'Regional']

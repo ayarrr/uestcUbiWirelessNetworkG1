@@ -1,0 +1,2 @@
+Nonlinear seismic analysis of free spanning submarine pipelines under spatially varying earthquake ground motions
+['Free spanning submarine pipeline', 'Nonlinear seismic analysis', 'Spatially varying earthquake']

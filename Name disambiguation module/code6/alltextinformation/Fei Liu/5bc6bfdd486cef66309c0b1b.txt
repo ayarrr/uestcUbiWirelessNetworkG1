@@ -1,0 +1,2 @@
+Finite-time H∞ control for Markov jump systems with non-homogeneous transition probabilities
+['Linear matrix inequalities (LMIs)', 'Markovian jump systems', 'Non-homogeneous transition probabilities']

@@ -1,0 +1,2 @@
+Hierarchical charging management strategy of plug-in hybrid electric vehicles to provide regulation service
+['ancillary service', 'charging management strategy', 'charging model', 'Plug-in Hybrid Electric Vehicle (PHEV)']

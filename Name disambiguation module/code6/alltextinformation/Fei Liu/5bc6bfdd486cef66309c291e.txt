@@ -1,0 +1,2 @@
+In vivo validation of dual-modality system for simultaneous positron emission tomography and optical tomographic imaging
+['Dual-modality imaging', 'fluorescence molecular tomography', 'positron emission tomography']

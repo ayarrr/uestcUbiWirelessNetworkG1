@@ -1,0 +1,2 @@
+Quantitative secretome analysis reveals the interactions between epithelia and tumor cells by in vitro modulating colon cancer microenvironment
+['Co-culture', 'Quantitative proteomics', 'Secretome', 'Tumor microenvironment']

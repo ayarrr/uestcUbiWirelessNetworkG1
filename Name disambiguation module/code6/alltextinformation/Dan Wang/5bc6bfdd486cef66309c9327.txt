@@ -1,0 +1,2 @@
+Fluorescent glutathione probe based on MnO
+['Glutathione', 'MnO2', 'Phenol formaldehyde resin']

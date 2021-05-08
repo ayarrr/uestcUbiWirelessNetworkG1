@@ -1,0 +1,2 @@
+Investigation of effects of aggregate size on the fracture behavior of high performance concrete by acoustic emission
+['Acoustic emission (AE)', 'Aggregate', 'Fracture energy (Gf)']

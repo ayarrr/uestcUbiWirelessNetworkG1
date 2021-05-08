@@ -1,0 +1,2 @@
+Effect of sample thickness on the tensile behaviors of Fe-30Mn-3Si-3Al twinning-induced plasticity steel
+['Microstructure', 'Sample thickness', 'Tensile properties', 'Twinning-induced plasticity steel']

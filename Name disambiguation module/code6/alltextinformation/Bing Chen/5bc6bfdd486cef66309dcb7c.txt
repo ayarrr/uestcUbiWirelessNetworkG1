@@ -1,0 +1,2 @@
+Adaptive fuzzy backstepping position tracking control for permanent magnet synchronous motor
+['Adaptive control', 'Backstepping', 'Fuzzy control', 'Nonlinear system', 'Permanent magnet synchronous motor', 'Position tracking']

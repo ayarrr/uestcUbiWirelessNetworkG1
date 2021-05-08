@@ -1,0 +1,2 @@
+Networked management system for outsourcing of motorcycle parts factory
+['Application service provider', 'Manufacturing enterprises', 'Motorcycle', 'Networked manufacturing', 'Outsourcing production', 'Parts']

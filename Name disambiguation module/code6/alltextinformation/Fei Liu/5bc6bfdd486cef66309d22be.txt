@@ -1,0 +1,2 @@
+Grouping optimization method of large-scale parts supporting centralized cutting stock
+['Centralized cutting stock', 'Optimization', 'Parts grouping', 'Parts samples']

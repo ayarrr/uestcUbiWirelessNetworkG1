@@ -1,0 +1,2 @@
+Comparison on staircase, PWM and partial PWM scheme for hybrid cascaded multilevel inverter
+['Hybrid cascaded multilevel inverter', 'Partial PWM', 'PWM', 'Staircase modulation', 'THD']

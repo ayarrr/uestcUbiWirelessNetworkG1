@@ -1,0 +1,2 @@
+The influence of various genotypes on the metabolic activity of NAT2 in a Chinese population
+['Chinese', 'Genotype', 'N-acetyltransferase2 (NAT2)', 'Phenotype', 'Polymorphism']

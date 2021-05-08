@@ -1,0 +1,2 @@
+A dual modality system for simultaneous fluorescence and positron emission tomography imaging of small animals
+['Dual-modality imaging', 'fluorescence molecular tomography', 'positron emission tomography']

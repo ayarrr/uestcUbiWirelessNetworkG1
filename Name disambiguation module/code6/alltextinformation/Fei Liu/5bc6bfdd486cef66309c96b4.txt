@@ -1,0 +1,2 @@
+Establishment and implement of distributed numerical control system model based on three-view
+['Class model', 'DNC', 'Formalized model', 'Three-view']

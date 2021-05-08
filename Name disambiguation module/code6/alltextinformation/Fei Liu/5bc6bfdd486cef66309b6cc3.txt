@@ -1,0 +1,2 @@
+Adaptive level set image segmentation using the Mumford and Shah functional
+['Adaptive image segmentation', 'Gain estimation', 'Level set method', 'Mumford-Shah functional']

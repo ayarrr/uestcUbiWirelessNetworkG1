@@ -1,0 +1,2 @@
+Fuzzy continuous gain scheduled H∞ controller for biological and chemical process
+['Biological and chemical process', 'Fuzzy continuous gain scheduled', 'Gradient linear method', 'H∞ controller', 'Linear matrix inequality', 'Pole placement']

@@ -1,0 +1,2 @@
+Property and phase transition character of the 0.6PMnS-0.4PZN ceramics
+['0.6PMnS-0.4PZN', 'Ba2+, Sr2+ substitute', 'Disperse phase transition', 'Piezoelectric properties']

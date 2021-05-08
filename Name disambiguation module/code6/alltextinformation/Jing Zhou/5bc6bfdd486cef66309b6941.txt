@@ -1,0 +1,2 @@
+Ultimate flexural capacity of pipe with corrosion defects subject to combined loadings
+['Closed-form solution', 'Corroded pipe', 'General solution', 'Ultimate bending capacity']

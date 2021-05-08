@@ -1,0 +1,2 @@
+The effects of substrate temperature on the structural and electrical properties of ITO films from X-ray diffraction techniques
+['ITO films', 'Magnetron sputtering', 'Substrate temperature']

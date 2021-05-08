@@ -1,0 +1,2 @@
+Model-based intelligent fault detection and diagnosis for mating electric connectors in robotic wiring harness assembly systems
+['Fault detection and diagnosis', 'Fuzzy pattern matching', 'Modeling', 'Robotic wiring harness assembly']

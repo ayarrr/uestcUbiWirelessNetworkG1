@@ -1,0 +1,2 @@
+Echo state network-based internal model control for pneumatic muscle system
+['Echo state network', 'Internal model control', 'Pneumatic muscle']

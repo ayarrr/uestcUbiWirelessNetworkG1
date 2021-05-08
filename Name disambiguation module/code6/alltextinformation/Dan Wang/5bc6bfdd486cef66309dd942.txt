@@ -1,0 +1,2 @@
+Adaptive dynamic surface control for cooperative path following of underactuated marine surface vehicles via low frequency learning
+['Cooperative Path Following', 'Dynamic Surface Control', 'Low Frequency Learning', 'Marine Surface Vehicles', 'Neural Networks']

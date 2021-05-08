@@ -1,0 +1,2 @@
+Chronic ethanol feeding impairs AMPK and MEF2 expression and is associated with GLUT4 decrease in rat myocardium
+['AMP-activated protein kinases', 'Ethanol', 'Glucose transporter type 4', 'Myocardium', 'Myocytespecific enhancer-binding factor 2']

@@ -1,0 +1,2 @@
+Multi-objective optimization of cutting parameters in sculptured parts machining based on neural network
+['CNC engraving and milling', 'Cutting parameter optimization', 'Multi-objective optimization', 'Neural network', 'Sculptured parts']

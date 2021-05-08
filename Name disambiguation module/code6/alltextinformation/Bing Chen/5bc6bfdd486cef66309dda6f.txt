@@ -1,0 +1,2 @@
+Mechanism study of simulated annealing algorithm
+['Annealing scheme', 'Efficiency', 'Optimization', 'Simulated annealing algorithm']

@@ -1,0 +1,2 @@
+A cutter screening method for high performance tool sequence optimization of pocket rough machining
+['Cutter screening', 'Pocket', 'Rough machining', 'Tool sequence']

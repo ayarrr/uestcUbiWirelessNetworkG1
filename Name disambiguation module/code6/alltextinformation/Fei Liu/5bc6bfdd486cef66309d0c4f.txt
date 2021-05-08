@@ -1,0 +1,2 @@
+An integrated method for evaluating the remanufacturability of used machine tool
+['Machine tool', 'Remanufacturability', 'Remanufacturing']

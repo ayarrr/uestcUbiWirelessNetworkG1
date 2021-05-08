@@ -1,0 +1,2 @@
+Tone recognition of REZ-1 multi-channel unilateral cochlear implants for profoundly postlingual deaf
+['Cochlear implantation', 'Mandarin', 'Postlingual adults', 'Tone recognition']

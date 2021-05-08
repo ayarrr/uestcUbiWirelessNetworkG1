@@ -1,0 +1,2 @@
+Effect of gap on plasma and molten pool dynamics during laser lap welding for T-joints
+['Gap', 'Instability', 'Laser lap welding', 'Molten pool', 'Plasma plume', 'Porosity']

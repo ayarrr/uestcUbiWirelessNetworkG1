@@ -1,0 +1,2 @@
+Test and analysis of operation voltage and time resolution of resistive plate chamber
+['Avalanche signal', 'Resistive plate chamber', 'Streamer signal', 'Time resolution']

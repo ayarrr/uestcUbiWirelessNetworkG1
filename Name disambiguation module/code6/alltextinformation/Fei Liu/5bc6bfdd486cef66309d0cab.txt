@@ -1,0 +1,2 @@
+Function interoperation method of heterogeneous systems in discrete manufacturing process
+['Discrete manufacturing process', 'Function interface', 'Heterogeneous systems', 'Interoperability', 'System integration']

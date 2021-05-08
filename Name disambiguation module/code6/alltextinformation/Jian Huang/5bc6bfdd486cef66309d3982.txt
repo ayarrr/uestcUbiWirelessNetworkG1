@@ -1,0 +1,2 @@
+Reduction in dynamin-2 is implicated in ischaemic cardiac arrhythmias
+['Dynamin-2', 'Ion channels', 'Ischaemic cardiac arrhythmias', 'Kir2.1', 'Nav1.5']

@@ -1,0 +1,2 @@
+The feasibility and safety of high-intensity focused ultrasound combined with low-dose external beam radiotherapy as supplemental therapy for advanced prostate cancer following hormonal therapy
+['complication', 'high-intensity focused ultrasound', 'hormonal therapy', 'low-dose external beam radiotherapy', 'prostate cancer', 'survival rate']

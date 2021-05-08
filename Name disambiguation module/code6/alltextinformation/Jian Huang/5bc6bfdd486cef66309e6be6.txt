@@ -1,0 +1,2 @@
+Effects of the substrate temperature on the structure and properties of Cd1-xMnxTe films
+['CdMnTe Film', 'CSS', 'Electrical properties', 'Structure']

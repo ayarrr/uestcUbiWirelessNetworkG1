@@ -1,0 +1,2 @@
+Fast and continuous on-load voltage regulator based on electronic power transformer
+['']

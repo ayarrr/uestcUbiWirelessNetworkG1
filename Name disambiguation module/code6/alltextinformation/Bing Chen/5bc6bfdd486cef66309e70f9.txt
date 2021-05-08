@@ -1,0 +1,2 @@
+Damage in carbon fiber-reinforced concrete, monitored by both electrical resistance measurement and acoustic emission analysis
+['Acoustic emission', 'Carbon fiber', 'Concrete', 'Damage', 'Electrical resistance']

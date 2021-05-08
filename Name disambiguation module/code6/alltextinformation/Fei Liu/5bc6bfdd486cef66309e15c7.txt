@@ -1,0 +1,2 @@
+Decision-making framework model for networked outsourcing resources selection
+['Framework model', 'Grey correlation', 'Networked outsourcing', 'Resource selection']

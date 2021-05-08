@@ -1,0 +1,2 @@
+Signal integrity design and validation for multi-GHz differential channels in SiP packaging system with eye diagram parameters
+['']

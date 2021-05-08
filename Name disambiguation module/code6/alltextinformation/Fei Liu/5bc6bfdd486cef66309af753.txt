@@ -1,0 +1,2 @@
+AHP based SWOT analysis for Green Manufacturing strategy selection
+['Analytic hierarchy process (AHP)', 'Green Manufacturing strategy', 'SWOT analysis']

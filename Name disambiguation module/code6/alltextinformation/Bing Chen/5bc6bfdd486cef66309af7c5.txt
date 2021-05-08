@@ -1,0 +1,2 @@
+Effect of CYP3A5 and MDR1 gene polymorphism on concentration/dose ratios of tacrolimus in Chinese liver transplant patients
+['CYP3A5', 'Liver transplantation', 'MDR1', 'Polymorphism', 'Tacrolimus']

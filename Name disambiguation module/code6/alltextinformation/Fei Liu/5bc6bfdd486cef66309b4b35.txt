@@ -1,0 +1,2 @@
+Stable equilibrium state analysis of the differential ring oscillator with even number of stages
+['Even-stage', 'Ring oscillator', 'Start-up', 'Voltage-Controlled Oscillator (VCO)']

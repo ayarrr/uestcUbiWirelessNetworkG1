@@ -1,0 +1,2 @@
+Optimization of combustion for pellet shaft furnace based on artificial neural network and genetic algorithm
+['Gas consumption', 'Genetic algorithm', 'Neural network', 'NO x emission', 'Shaft furnace']

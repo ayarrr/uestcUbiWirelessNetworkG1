@@ -1,0 +1,2 @@
+Effect of polymer conductance on polarization properties of 0-3 piezoelectric composite
+['Conductance', 'Piezoelectric composite', 'Polarization', 'Polyvinylidene fluoride']

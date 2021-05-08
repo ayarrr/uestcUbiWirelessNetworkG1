@@ -1,0 +1,2 @@
+Dual-specificity tyrosine phosphorylation-regulated kinase 1A (Dyrk1A) enhances tau expression
+["Alzheimer's disease", 'Down syndrome', 'Dyrk1A', 'mRNA stability', 'tau']

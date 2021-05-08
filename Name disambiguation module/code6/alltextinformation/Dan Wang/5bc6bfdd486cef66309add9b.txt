@@ -1,0 +1,2 @@
+Robust optimization for load scheduling of a smart home with photovoltaic system
+['Demand response', 'Energy management', 'Load scheduling', 'Photovoltaic system', 'Robust optimization', 'Smart home', 'Uncertainty']

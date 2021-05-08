@@ -1,0 +1,2 @@
+Discrete-time variable structure control method for AMD-eccentric buildings with time delay in control
+['Active control', 'Active massed damper-eccentric building', 'Discrete variable structure control', 'Quasi-sliding mode']

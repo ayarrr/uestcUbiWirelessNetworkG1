@@ -1,0 +1,2 @@
+A review of fundamental mechanisms and techniques in functional electrical stimulation
+['Control strategy', 'Electrode design', 'FES', 'Internal disturbance', 'Stimulator parameter']

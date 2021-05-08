@@ -1,0 +1,2 @@
+Gap junction protein connexin43 expressed in the BN rat retina
+['BN rat', 'Connexin43', 'Gap junction', 'Retina']

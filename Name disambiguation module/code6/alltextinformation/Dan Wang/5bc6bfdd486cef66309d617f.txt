@@ -1,0 +1,2 @@
+Analysis of a local routing in scale-free networks
+['Dynamic information', 'Local routing strategy', 'Scale-free network']

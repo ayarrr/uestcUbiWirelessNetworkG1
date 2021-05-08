@@ -1,0 +1,2 @@
+A design of constrained fuzzy controller for CSTRs
+['Continuous stirred tank reactor', 'Control constraints', 'Fuzzy control', 'Linear matrix inequality']

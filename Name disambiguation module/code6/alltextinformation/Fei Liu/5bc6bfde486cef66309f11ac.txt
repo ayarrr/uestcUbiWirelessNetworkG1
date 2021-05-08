@@ -1,0 +1,2 @@
+Finite-time gain-scheduled control on stochastic bioreactor systems with partially known transition jump rates
+['Continuous gain scheduling', 'Markov jump', 'Observer-based H∞ controller', 'Stochastic bioreactor systems', 'Stochastic finite-time stabilization']

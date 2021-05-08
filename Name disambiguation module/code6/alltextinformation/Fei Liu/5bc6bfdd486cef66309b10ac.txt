@@ -1,0 +1,2 @@
+Gain-scheduled robust fault detection on time-delay stochastic nonlinear systems
+['Continuous gain scheduling', 'filter', 'Markov jump system (MJS)', 'nonlinearities', 'robust fault detection (RFD)']

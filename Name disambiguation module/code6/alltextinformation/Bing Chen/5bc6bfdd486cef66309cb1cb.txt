@@ -1,0 +1,2 @@
+The RFID-based electronic identity security platform of the Internet of Things
+['electronic identity (eID)', 'Internet of Things', 'RFID (radio frequency identification)', 'security administration', 'security infrastructure']

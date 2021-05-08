@@ -1,0 +1,2 @@
+A method for modeling wrinkles of 3D face based on photo
+['3D face modeling', 'Face reconstruction', 'Feature extraction', 'Photo-based', 'Wrinkle']

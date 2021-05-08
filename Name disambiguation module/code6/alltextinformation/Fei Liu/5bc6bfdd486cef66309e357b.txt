@@ -1,0 +1,2 @@
+Finite-time stabilization of a class of uncertain nonlinear systems with time-delay
+['Finite-time stabilization', 'Linear matrix inequalities', 'Nonlinear systems', 'Takagi-Sugeno fuzzy models', 'Uncertainties']

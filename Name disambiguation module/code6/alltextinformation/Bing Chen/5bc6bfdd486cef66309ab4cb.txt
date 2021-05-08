@@ -1,0 +1,2 @@
+RFID-based electronic identity security cloud platform in cyberspace
+['Cloud computing', 'Electronic identity (eID)', 'RFID (radio frequency identification)', 'Security infrastructure', 'Security platform']

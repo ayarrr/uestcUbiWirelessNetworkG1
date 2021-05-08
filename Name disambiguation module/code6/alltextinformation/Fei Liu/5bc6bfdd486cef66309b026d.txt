@@ -1,0 +1,2 @@
+FIR filtering for discrete-time Markov jump linear systems
+['Finite receding horizon', 'FIR filter', 'Markov jump linear systems', 'Minimum variance', 'Unbiased condition']

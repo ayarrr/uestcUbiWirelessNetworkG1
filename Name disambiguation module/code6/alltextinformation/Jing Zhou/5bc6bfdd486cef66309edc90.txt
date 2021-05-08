@@ -1,0 +1,2 @@
+Study on bandwidth analysis and capacity planning of provincial dispatching digital network
+['Bandwidth analysis', 'Dispatching data network', 'Network capacity plan', 'OPNET-based simulation']

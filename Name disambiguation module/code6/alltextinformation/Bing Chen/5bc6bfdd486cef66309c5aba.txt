@@ -1,0 +1,2 @@
+Modal analysis and testing of large-span space steel structure
+['Experimental modal analysis', 'Finite element method', 'Rotary hearth furnace lower ring', 'Steel structure']

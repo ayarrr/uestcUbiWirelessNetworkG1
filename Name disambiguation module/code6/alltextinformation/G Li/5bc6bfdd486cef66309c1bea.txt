@@ -1,0 +1,2 @@
+Doubly passively Q-switched Nd:GGG laser with a monolayer graphene saturable absorber and GaAs wafer
+['Doubly Q-switched laser', 'GaAs wafer', 'Monolayer graphene', 'Nd:GGG crystal']

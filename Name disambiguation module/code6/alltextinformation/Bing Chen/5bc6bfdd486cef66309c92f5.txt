@@ -1,0 +1,2 @@
+Modulation of a fluorescence switch based on a photochromic diarylethene and a rhodamine B dye
+['Blended system', 'Diarylethene', 'Fluorescence switch', 'Photochromism', 'Photoisomerization', 'Rhodamine B']

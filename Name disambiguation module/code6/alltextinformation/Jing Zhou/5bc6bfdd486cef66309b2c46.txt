@@ -1,0 +1,2 @@
+Effects of scaled pulse-like ground motion records on nonlinear structural displacement response
+['Bias', 'Ground motion intensity presenting parameter', 'Pulse-like', 'Single degree of freedom (SDOF) system', 'Stability']

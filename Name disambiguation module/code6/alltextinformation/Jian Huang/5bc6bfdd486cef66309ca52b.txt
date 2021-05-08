@@ -1,0 +1,2 @@
+The annealing effects on the ZnO/diamond film heterojunction diode
+['Detector', 'Freestanding diamond film', 'Heterojunction', 'ZnO']

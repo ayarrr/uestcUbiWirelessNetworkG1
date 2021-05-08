@@ -1,0 +1,2 @@
+Pharmacokinetics of intravenous busulfan in adult patients undergoing allogeneic hematopoietic stem cell transplantation
+['Allogeneic hematopoietic stem cell transplantation', 'Busulfan', 'Intravenous', 'Pharmacokinetics']

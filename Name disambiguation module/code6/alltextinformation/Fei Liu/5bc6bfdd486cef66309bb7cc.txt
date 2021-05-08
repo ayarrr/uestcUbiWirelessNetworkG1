@@ -1,0 +1,2 @@
+Bayesian analysis of reliability-growth test for exponential life distribution cases
+['Bayesian estimation', 'Dirichlet distribution', 'Exponential distribution', 'Gibbs sampling', 'Joint posterior distribution', 'Reliability growth']

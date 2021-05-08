@@ -1,0 +1,2 @@
+Health monitoring system for offshore platform with fiber Bragg grating sensors
+['Fiber Bragg gratings', 'Offshore platform', 'Strain sensor', 'Structural health monitoring', 'Temperature sensor']

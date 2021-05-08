@@ -1,0 +1,2 @@
+Integrated service mechanism of networked collaborative product development resources
+['Integrated service mechanism', 'Matching algorithm', 'Networked collaborative product development', 'Ontology', 'Resource pool', 'Universal description descovery and integration']

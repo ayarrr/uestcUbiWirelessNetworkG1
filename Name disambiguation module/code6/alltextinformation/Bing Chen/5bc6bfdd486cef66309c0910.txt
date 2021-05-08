@@ -1,0 +1,2 @@
+Approximation-based direct adaptive tracking control for a class of uncertain pure-feedback stochastic nonlinear systems
+['Adaptive control', 'Backstepping', 'Fuzzy control', 'Pure-feedback stochastic nonlinear systems']

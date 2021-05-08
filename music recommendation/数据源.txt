@@ -1,0 +1,9 @@
+ 2018 ACM RecSys Challenge：https://www.spotify.com/
+
+
+
+
+
+
+论文详情见：
+Wang R, Ma X, Jiang C, et al. Heterogeneous information network-based music recommendation system in mobile networks[J]. Computer Communications, 2020, 150: 429-437.

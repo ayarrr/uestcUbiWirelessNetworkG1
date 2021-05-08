@@ -1,0 +1,2 @@
+Numerical analysis for applying chordwise slot on blade to control separation
+['Boundary layer control', 'Cascade', 'Chordwise slot', 'Control separation']

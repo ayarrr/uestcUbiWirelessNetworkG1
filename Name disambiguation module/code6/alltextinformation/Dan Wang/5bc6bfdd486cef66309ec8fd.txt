@@ -1,0 +1,2 @@
+Adaptive pinning synchronization of a scale-free dynamical network based on energy index
+['Energy index', 'Ping synchronization']

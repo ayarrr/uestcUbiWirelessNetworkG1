@@ -1,0 +1,2 @@
+Study on model tests and hydrodynamic force models for free spanning submarine pipelines subjected to earthquakes
+['Dynamic response analysis', 'Earthquake', 'Free spanning submarine pipelines', 'Hydrodynamic force models', 'Model tests']

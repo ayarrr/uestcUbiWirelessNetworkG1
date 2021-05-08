@@ -1,0 +1,2 @@
+Insulin rescues ES cell-derived neural progenitor cells from apoptosis by differential regulation of Akt and ERK pathways
+['Akt', 'ERK', 'ES-NPC', 'Hypoxia', 'Insulin', 'PI3K']

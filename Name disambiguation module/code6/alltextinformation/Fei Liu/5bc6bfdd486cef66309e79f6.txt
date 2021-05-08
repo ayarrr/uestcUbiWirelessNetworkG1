@@ -1,0 +1,2 @@
+Sliding mode H∞ control for uncertain stochastic nonlinear jump systems
+['Markov process', 'Mismatched uncertain systems', 'Sliding mode control']

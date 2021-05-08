@@ -1,0 +1,2 @@
+Turning variables iterative method for kinematic analysis of complex planar linkages
+['']

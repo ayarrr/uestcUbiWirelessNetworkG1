@@ -1,0 +1,2 @@
+After-sale quality loss evaluation and early warning method of universal engineering products based on fuzzy comprehensive evaluation and BP neural networks
+['Early warning', 'Fuzzy comprehensive evaluation', 'Neural network', 'Quality evaluation', 'Quality loss', 'Universal engineering product']

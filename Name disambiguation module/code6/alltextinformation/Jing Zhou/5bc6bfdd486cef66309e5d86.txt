@@ -1,0 +1,2 @@
+Dynamic analysis and crack identification for free spanning submarine pipeline with a fatigue crack
+['Contact analysis', 'Crack identification', 'Fatigue crack', 'Free spanning pipeline', 'Harmonics', 'Sensitive feature']

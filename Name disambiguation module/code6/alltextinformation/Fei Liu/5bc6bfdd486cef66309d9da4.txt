@@ -1,0 +1,2 @@
+Influence of limited-projection on fluorescence molecular tomography
+['FMT', 'inverse problem', 'limited-projection']

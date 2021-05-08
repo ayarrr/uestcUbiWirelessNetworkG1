@@ -1,0 +1,2 @@
+Study on FBG-based sensor for simultaneous dual-measurement of pressure and temperature
+['FBG sensor', 'Pressure measuring', 'Temperature compensation', 'Temperature measuring']

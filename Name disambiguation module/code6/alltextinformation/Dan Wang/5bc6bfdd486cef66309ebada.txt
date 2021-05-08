@@ -1,0 +1,2 @@
+On-line approximation based robust adaptive control for a class of uncertain systems
+['Fuzzy logic systems', 'Neural network', 'Nonlinear systems', 'On-line approximator', 'Wavelet']

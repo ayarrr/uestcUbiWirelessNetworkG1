@@ -1,0 +1,2 @@
+Shear-resistant behavior of concrete frame columns subjected to velocity pulse-like excitations
+['Concrete column', 'Coupled earthquake action', 'Shear-resistant capacity', 'Shear-resistant demand', 'Velocity pulse-like excitation']

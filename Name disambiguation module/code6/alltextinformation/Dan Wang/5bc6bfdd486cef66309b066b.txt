@@ -1,0 +1,2 @@
+FE-based analysis of heat bending of thin-walled ti-alloy tube with large diameter and small bending radius
+['FE', 'Heat bending', 'Large diameter', 'Small bending radius', 'Ti-alloy tube']

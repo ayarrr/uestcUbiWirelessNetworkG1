@@ -1,0 +1,2 @@
+Seismic displacement ductility demand of vertically irregular structures subjected to velocity pulse-like ground motions
+['Displacement ductility demand', 'Seismic', 'Shear-type', 'Velocity pulse-like ground motion', 'Vertical irregularities']

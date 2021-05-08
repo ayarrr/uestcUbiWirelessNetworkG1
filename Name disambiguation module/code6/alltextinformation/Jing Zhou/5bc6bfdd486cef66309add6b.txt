@@ -1,0 +1,2 @@
+The security emergency command system in oil depot based on HSE
+['depot area', 'GIS system', 'HSE system', 'OA system']

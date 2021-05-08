@@ -1,0 +1,2 @@
+Common key technology system of cloud manufacturing service platform for small and medium enterprises
+['Cloud manufacturing', 'Common key technology', 'Service platform', 'Small and medium enterprises', 'System architecture']

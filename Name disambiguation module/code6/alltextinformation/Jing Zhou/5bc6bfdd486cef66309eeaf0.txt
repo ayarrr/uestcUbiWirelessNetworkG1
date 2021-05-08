@@ -1,0 +1,2 @@
+Continuous probabilistic load flow analysis considering response process of price-based load
+['Continuous', 'Price policy', 'Probabilistic load flow', 'Response process', 'Semi-invariant', 'Sensitivity correction']

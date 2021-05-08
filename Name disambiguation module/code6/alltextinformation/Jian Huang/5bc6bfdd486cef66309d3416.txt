@@ -1,0 +1,2 @@
+Monte Carlo simulation of the energy spectrum for CdZnTe Frisch grid detector
+['CdZnTe', 'Energy spectrum', 'Frisch grid detector', 'Monte carlo simulation']

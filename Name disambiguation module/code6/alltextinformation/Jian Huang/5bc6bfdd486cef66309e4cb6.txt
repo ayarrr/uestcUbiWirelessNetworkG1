@@ -1,0 +1,2 @@
+Nonlinear internal model control using echo state network for pneumatic muscle system
+['Echo state network', 'Internal model control', 'Nonlinear control', 'Pneumatic muscle']

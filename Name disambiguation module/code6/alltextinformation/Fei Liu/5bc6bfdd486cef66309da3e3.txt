@@ -1,0 +1,2 @@
+A closed-loop switched-capacitor interface for high-quality microaccelerometer
+['']

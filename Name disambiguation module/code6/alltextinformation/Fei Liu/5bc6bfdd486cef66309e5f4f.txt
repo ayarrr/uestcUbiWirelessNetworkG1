@@ -1,0 +1,2 @@
+Feedback predictive control for uncertain jump systems
+['Feedback predictive control', 'Jump transition probability', 'Linear programming', 'Markov jump systems', 'Polyhedral invariant sets', 'Semi-definite programming']

@@ -1,0 +1,2 @@
+Exponential passive filtering for a class of nonlinear jump systems
+['Exponentially stochastically stable', 'Linear matrix inequalities', 'Nonlinear Markov jump systems', 'Passive filter', 'Time-delays', 'Uncertainties']

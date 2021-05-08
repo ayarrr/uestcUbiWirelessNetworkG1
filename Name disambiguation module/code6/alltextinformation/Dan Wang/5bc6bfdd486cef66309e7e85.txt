@@ -1,0 +1,2 @@
+Modification research and contact analysis of aero-engine gears
+['Contact analysis', 'Finite element', 'Gear profile modification', 'Involute tooth profile', 'Thermo-elastic coupled analysis']

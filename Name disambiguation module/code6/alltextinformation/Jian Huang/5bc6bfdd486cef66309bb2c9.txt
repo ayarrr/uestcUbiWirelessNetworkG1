@@ -1,0 +1,2 @@
+Ultraviolet detector based on ZnO/diamond film heterojunction diode
+['Detector', 'Freestanding diamond', 'Heterojunction', 'ZnO']

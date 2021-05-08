@@ -1,0 +1,2 @@
+The application comparisons of BPNN and HNN in potential field inversion
+['BPNN', 'HNN', 'Potential field inversion']

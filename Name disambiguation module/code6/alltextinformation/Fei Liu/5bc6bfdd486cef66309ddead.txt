@@ -1,0 +1,2 @@
+A hybrid reconstruction algorithm for fluorescence tomography using Kirchhoff approximation and finite element method
+['Finite element method', 'Fluorescence molecular tomography', 'Kirchhoff approximation']

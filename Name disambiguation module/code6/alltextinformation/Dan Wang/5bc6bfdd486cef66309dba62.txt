@@ -1,0 +1,2 @@
+Effects of disease characteristics and population distribution on dynamics of epidemic spreading among residential sites
+['']

@@ -1,0 +1,2 @@
+Ultimate bending capacity of pipe with arbitrary corrosion defects
+['Arbitrary corrosion defects', 'Combined loadings', 'Generalized solutions', 'Pipe', 'Ultimate bending capacity']

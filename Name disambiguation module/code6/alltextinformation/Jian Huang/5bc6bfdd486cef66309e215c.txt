@@ -1,0 +1,2 @@
+Properties of ZnS films deposited by radio frequency magnetron sputtering
+['Film', 'Radio frequency magnetron sputtering', 'ZnS']

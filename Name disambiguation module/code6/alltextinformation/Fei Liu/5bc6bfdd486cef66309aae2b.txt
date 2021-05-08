@@ -1,0 +1,2 @@
+Networked feedback stabilization over signal-to-noise ratio constrained channels
+['Mahler measure', 'Networked control system', 'networked stabilization', 'signal-to-noise ratio', 'topological entropy']

@@ -1,0 +1,2 @@
+Analysis model for energy consumption in manufacturing enterprises based on input-output theory and its applications
+['Energy consumption', 'Input-output theory', 'Manufacturing enterprises']

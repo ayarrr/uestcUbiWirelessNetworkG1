@@ -1,0 +1,2 @@
+Comparative study of inhibition effects of Avastin and Lucentis on human umbilical vein endothelial cell proliferation and migration
+['Avastin', 'HUVEC', 'Lucentis', 'Migration', 'Neovessels', 'Proliferation']

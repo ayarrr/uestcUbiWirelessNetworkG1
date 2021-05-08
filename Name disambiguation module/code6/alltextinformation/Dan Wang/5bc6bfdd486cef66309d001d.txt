@@ -1,0 +1,2 @@
+Adaptive neural control for a class of uncertain nonlinear systems with unknown time delay
+['Adaptive control', 'Neural networks', 'Nonlinear control', 'Robustness', 'Time delay']

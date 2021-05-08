@@ -1,0 +1,2 @@
+Influence of distance between laser and MIG arc on drop transfer process of CO2 laser-MIG hybrid welding
+['Coupling', 'Drop transfer', 'Laser-MIG hybrid welding', 'Plasma']

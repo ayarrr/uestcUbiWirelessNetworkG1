@@ -1,0 +1,2 @@
+Aggregation-based fuzzy dual-mode control for nonlinear systems with mixed constraints
+['amplitude decaying aggregation', 'dual-mode control', 'invariant ellipsoid', 'mixed constraint', 'semi-definite programming', 'T-S fuzzy model']

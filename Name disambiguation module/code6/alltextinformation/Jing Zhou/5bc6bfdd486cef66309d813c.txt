@@ -1,0 +1,2 @@
+B-O bond character and microwave dielectric properties of (1-x)CaTiO 
+['(1-x)CaTiO3-xCa(Zn1/3Nb2/3)O3', 'Bond character', 'Dielectric properties', 'Tolerance factor']

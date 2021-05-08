@@ -1,0 +1,2 @@
+Characteristics of additional load losses of spindle system of machine tools
+['Additional load losses', 'Cutting torque', 'Energy saving', 'Machine tool', 'Spindle system']

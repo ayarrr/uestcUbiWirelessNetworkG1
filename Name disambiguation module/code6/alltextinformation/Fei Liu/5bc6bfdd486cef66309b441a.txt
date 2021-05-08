@@ -1,0 +1,2 @@
+Consensus problem of heterogeneous multi-agent systems with time delay under fixed and switching topologies
+['communication delay', 'Consensus problem', 'heterogeneous multi-agent systems', 'input delay', 'switching topologies']

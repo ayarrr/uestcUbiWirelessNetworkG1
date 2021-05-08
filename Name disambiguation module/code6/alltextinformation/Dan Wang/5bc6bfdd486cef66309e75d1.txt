@@ -1,0 +1,2 @@
+Decentralized cooperative control of autonomous surface vehicles with uncertain dynamics: A dynamic surface approach
+['']

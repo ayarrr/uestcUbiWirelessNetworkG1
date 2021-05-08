@@ -1,0 +1,2 @@
+Investigation on the two-step passivation process for CdZnTe detectors
+['CdZnTe', 'Passivation process', 'Surface treatment']

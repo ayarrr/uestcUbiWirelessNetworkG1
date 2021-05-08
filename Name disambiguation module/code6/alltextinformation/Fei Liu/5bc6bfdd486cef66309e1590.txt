@@ -1,0 +1,2 @@
+L                     2-L                     ∞ fuzzy control of jump systems with bounded transition probabilities
+['L\n                        2-L\n                        ∞ fuzzy controller', 'Linear matrix inequality', 'Markov jump system', 'Takagi-Sugeno model', 'Uncertain transitions jump rate']

@@ -1,0 +1,2 @@
+Passivity analysis for uncertain neural networks with discrete and distributed time-varying delays
+['LMIs', 'Neural networks', 'Passivity', 'Time-varying delays']

@@ -1,0 +1,2 @@
+Structural condition identification for free spanning submarine pipelines
+['Condition-sensitive featue', 'Free spanning submarine pipeline', 'Nonlinear kernel discirminant analysis', 'Structural condition identification']

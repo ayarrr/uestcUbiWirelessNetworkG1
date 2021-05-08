@@ -1,0 +1,2 @@
+An efficient incremental algorithm for dynamic network community discovery
+['Detecting community', 'Dynamic analysis', 'Incremental algorithm', 'Stability']

@@ -1,0 +1,2 @@
+Hybrid optimized polynomial neural networks with polynomial neurons and fuzzy polynomial neurons
+['fuzzy rule-based models', 'hybrid optimization', 'Hybrid optimized polynomial neural network', 'polynomial neural networks']

@@ -1,0 +1,2 @@
+Asynchronously-coupled consensus of second-order dynamic agents with communication delay
+['Asynchronously-coupled consensus', 'Communication delay', 'Sampled information', 'Second-order dynamic agents']

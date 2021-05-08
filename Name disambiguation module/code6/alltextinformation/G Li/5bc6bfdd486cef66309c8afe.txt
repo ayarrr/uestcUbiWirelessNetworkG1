@@ -1,0 +1,2 @@
+A study of J/ψ→γγV(ρ,φ) decays with the BESII detector
+['13.25.Gv', '13.40.Hq', '14.40.Gx', 'Glueball', 'J/ψ', 'Meson', 'Resonance']

@@ -1,0 +1,2 @@
+Finite-time H-infinity filtering for Markov jump systems in finite frequency domain
+['Finite frequency', 'Finite time', 'Generalized Kalman-Yakubovic-Popov (KYP) lemma', 'H-infinity filtering', 'Markov jump systems']

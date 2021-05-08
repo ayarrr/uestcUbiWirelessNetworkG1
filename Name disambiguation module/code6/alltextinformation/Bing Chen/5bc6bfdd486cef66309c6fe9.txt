@@ -1,0 +1,2 @@
+Optimization of uniformity in resistive switching memory by reducing thermal effect
+['']

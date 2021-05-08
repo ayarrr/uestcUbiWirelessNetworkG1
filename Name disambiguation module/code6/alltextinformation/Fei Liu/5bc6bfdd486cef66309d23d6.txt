@@ -1,0 +1,2 @@
+L2-L∞ fuzzy control for Markov jump systems with neutral time-delays
+['L 2-L∞ fuzzy control', 'Linear matrix inequalities', 'Markov jump systems', 'Neutral time-delays', 'Takagi-Sugeno fuzzy models']

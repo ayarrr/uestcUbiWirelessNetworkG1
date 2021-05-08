@@ -1,0 +1,2 @@
+Cold-inducible RNA-binding protein regulates cardiac repolarization by targeting transient outward potassium channels
+['Action potential', 'Cardiac', 'Cold shock proteins', 'Ion channels', 'Myocytes', 'Repolarization']

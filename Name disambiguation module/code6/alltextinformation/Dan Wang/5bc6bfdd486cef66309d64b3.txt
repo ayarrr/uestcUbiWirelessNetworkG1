@@ -1,0 +1,2 @@
+Adaptive synchronization of uncertain and delayed chaotic systems with its circuit realization
+['adaptive control', 'Chaotic systems', 'circuit realization', 'synchronization', 'time-delays', 'uncertainties']

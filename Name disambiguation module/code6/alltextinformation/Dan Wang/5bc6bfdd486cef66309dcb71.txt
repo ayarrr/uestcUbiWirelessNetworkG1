@@ -1,0 +1,2 @@
+Self-report traffic pricing model based on incentive Stackelberg strategy
+['Incentive pricing', 'Rate control', 'Stackelberg strategy']

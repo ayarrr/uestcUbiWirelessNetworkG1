@@ -1,0 +1,2 @@
+i-Hand: An intelligent robotic hand for fast and accurate assembly in electronic manufacturing
+['']

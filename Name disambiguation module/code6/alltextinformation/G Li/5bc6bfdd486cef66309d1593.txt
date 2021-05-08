@@ -1,0 +1,2 @@
+Control of the pulse width in a diode-pumped passively Q-switched Nd:YVO4/KTP green laser with GaAs saturable absorber
+['GaAs', 'Gaussian spatial distribution', 'Passively Q-switched', 'Pulse width', 'Rate equations']

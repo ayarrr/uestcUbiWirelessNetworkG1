@@ -1,0 +1,2 @@
+Fast computation of discrete optimal FIR estimates in white Gaussian noise
+['Iterative algorithm', 'optimal FIR filtering', 'state space', 'white Gaussian noise']

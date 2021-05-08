@@ -1,0 +1,2 @@
+Correlation between transcutaneous oxygen partial pressure and nerve conduction determination in type 2 diabetic patients
+['Blood gas monitoring', 'Diabetes mellitus', 'Diabetic neuropathies', 'Neural conduction', 'Transcutaneous', 'Type 2']

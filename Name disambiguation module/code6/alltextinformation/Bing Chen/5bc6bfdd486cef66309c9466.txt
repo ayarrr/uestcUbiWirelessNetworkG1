@@ -1,0 +1,2 @@
+Expression of Nanog gene promotes NIH3T3 cell proliferation
+['Cell cycle', 'Cell proliferation', 'Nanog', 'NIH3T3']

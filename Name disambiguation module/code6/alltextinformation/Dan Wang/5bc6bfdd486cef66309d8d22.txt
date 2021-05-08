@@ -1,0 +1,2 @@
+Neural network based adaptive dynamic surface control for cooperative path following of marine surface vehicles via state and output feedback
+['Cooperative path following', 'Dynamic surface control', 'Marine surface vehicles', 'Neural networks', 'Observer']

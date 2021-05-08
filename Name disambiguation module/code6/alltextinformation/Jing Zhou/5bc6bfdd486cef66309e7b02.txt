@@ -1,0 +1,2 @@
+Analysis of vibration characteristics of free span pipeline considering boundary soil property
+['Axial force', 'Environmental load', 'Free span pipeline', 'Soil property', 'Span length']

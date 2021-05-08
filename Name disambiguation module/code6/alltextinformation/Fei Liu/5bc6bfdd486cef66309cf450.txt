@@ -1,0 +1,2 @@
+Study on the operation pattern for green manufacturing and its case
+['Application', 'Green manufacturing', 'Operation pattern', 'View']

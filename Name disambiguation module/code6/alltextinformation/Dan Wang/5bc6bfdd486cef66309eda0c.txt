@@ -1,0 +1,2 @@
+Effects of stress-free temperature difference on force and displacement of welded turnouts
+['Stress-free temperature', 'Temperature displacement', 'Temperature force', 'Welded turnout']

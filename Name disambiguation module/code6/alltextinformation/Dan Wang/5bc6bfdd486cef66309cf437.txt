@@ -1,0 +1,2 @@
+Distributed robust stabilization for a class of uncertain nonlinear multi-agent systems
+['Distributed control', 'multi-agent systems', 'nonlinear dynamics', 'stabilization']

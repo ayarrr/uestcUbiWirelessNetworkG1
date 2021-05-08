@@ -1,0 +1,2 @@
+Hydrodynamic force model for free spanning submarine pipelines under earthquake
+['Free spanning submarine pipelines', 'Numerical analysis', 'Seismic response', 'Wake model']

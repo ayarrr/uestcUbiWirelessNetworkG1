@@ -1,0 +1,2 @@
+Finite time stabilization for output probability density function of stochastic system
+['Linear matrix inequalities', 'Probability density function', 'Stochastic finite time boundedness', 'Stochastic finite time stabilization', 'Stochastic system']

@@ -1,0 +1,2 @@
+A current mode feed-forward gain control system for a 0.8 v CMOS hearing aid
+['Current mode', 'gain control', 'hearing aid']

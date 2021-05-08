@@ -1,0 +1,2 @@
+Extraction method for spatial graph contour based on topological projection invariance principle
+['CAD', 'Graph contour extraction', 'Spatial graph', 'Topology', 'Vector dynamic composition']

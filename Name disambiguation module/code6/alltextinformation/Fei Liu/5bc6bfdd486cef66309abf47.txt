@@ -1,0 +1,2 @@
+Dynamical consensus seeking of heterogeneous multi-agent systems under input delays
+['consensus', 'coordination control', 'heterogeneous multi-agent systems', 'input delay']

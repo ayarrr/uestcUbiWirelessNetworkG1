@@ -1,0 +1,2 @@
+Theoretical and experimental study of a diode-pumped actively Q-switched Nd:YVO4 green laser with periodically poled KTP
+['Actively Q-switched', 'Diode-pumped', 'Numerical solution', 'PPKTP', 'Spatial distribution']

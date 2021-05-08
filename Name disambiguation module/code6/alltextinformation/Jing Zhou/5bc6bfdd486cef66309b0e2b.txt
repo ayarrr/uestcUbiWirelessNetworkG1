@@ -1,0 +1,2 @@
+Influence of ground motion duration on damping reduction factor
+['Damping Reduction Factors', 'Displacement Response Spectra', 'Effective Duration', 'Ground Motion Duration', 'Seismic Design']

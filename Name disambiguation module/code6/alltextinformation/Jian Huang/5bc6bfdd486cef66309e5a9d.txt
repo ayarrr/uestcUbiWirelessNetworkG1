@@ -1,0 +1,2 @@
+First - Principles study of stacking fault energies in Ni 3Al intermetallic alloys
+['alloying element', 'complex stacking fault', 'first-principles', 'Ni 3Al', 'superlattice intrinsic stacking fault']

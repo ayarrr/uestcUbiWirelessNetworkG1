@@ -1,0 +1,2 @@
+The algebraic algorithm for solving the path planning problem of a weighted directed graph
+['Distance matrix', 'Min-algebra', 'Path planning', 'Shortest path', 'Weighted directed graph']

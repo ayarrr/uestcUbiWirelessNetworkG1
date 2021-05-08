@@ -1,0 +1,2 @@
+Diode-pumped actively Q-switching and mode-locking Nd:GdVO4 laser
+['Acousto-optic modulator', 'Diode-pumped lasers', 'Mode locking']

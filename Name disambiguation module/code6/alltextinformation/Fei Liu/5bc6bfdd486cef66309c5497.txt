@@ -1,0 +1,2 @@
+An improved method for generating feasible tool sequences of pocket rough milling
+['Milling', 'Pocket/cavity', 'Tool sequence']

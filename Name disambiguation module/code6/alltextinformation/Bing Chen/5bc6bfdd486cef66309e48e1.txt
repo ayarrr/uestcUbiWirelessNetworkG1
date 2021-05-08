@@ -1,0 +1,2 @@
+Control methodologies in networked motion control systems
+['Communication Cycle', 'Control Network', 'Synchronized Motion Control']

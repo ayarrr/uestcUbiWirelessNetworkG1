@@ -1,0 +1,2 @@
+N-step off-line MPC design of nonhomogeneous Markov jump systems: A suboptimal case
+['']

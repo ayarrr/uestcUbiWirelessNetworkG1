@@ -1,0 +1,2 @@
+Disturbance rejection for markov jump systems with partly unknown transition probabilities and saturation
+['Discrete Markov jump system', 'Disturbance rejection', 'Partly unknown transition probabilities', 'Saturation', 'Tolerance analysis']

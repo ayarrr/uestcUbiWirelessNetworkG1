@@ -1,0 +1,2 @@
+A linear correction for principal component analysis of dynamic fluorescence diffuse optical tomography images
+['Fluorescence', 'pharmacokinetics', 'tomography']

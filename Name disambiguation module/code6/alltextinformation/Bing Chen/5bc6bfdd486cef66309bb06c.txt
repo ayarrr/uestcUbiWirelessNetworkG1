@@ -1,0 +1,2 @@
+Mammalian target of rapamycin (mTOR) is involved in the neuronal differentiation of neural progenitors induced by insulin
+['Insulin/IGF-I', 'mTOR', 'Neural progenitors', 'Neuronal differentiation']

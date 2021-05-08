@@ -1,0 +1,2 @@
+Property of corroded concrete under compressive uniaxial loads
+['Compressive strength', 'Concrete', 'Corrosion', 'Elastic modulus', 'Strain energy loss', 'Stress-strain curve']

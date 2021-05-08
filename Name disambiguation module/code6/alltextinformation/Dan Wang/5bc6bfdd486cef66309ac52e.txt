@@ -1,0 +1,2 @@
+An orthogonal design-based group search optimizer
+['Enhancing Group Search Optimizer (EGSO)', 'Local optimization', 'Orthogonal design', 'Premature convergence']

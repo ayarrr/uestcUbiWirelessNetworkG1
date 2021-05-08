@@ -1,0 +1,2 @@
+A type of cluster mode of networked manufacturing platforms
+['Cluster', 'Information conversion', 'Integration technology', 'Networked system', 'Secondary encapsulation']

@@ -1,0 +1,2 @@
+RLSESN-based PID adaptive control for a novel wearable rehabilitation robotic hand driven by PM-TS actuators
+['Actuators', 'Adaptive system theory', 'Control systems', 'Controllers', 'Echo state network', 'Pneumatic muscle', 'Robotics', 'Trajectory tracking', 'Wearable rehabilitation robotic hand']

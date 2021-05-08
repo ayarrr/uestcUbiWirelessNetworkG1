@@ -1,0 +1,2 @@
+Preparation and characterization of (110) diamond films used for field-effect transistors
+['Diamond film', 'Grain orientation', 'HFCVD', 'Hydrogen-terminated']

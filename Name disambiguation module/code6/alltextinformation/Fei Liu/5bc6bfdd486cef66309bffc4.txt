@@ -1,0 +1,2 @@
+Priority characteristics definition of graphic elements for graph outline extraction and its applications
+['Graph outline extraction', 'Graphic element', 'Path search', 'Priority']

@@ -1,0 +1,2 @@
+Systematic evaluation on urban disaster risks
+['Brittleness', 'Entropy', 'Risk', 'Urban disasters']

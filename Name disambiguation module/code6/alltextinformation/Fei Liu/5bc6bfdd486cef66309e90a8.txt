@@ -1,0 +1,2 @@
+Security system for outsourcing process data of complex parts based on information terminal
+['Complex parts', 'Computer aided manufacturing', 'Data channel', 'Information terminal', 'Outsourcing production', 'Product data', 'Security system']

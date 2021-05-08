@@ -1,0 +1,2 @@
+Mechanism study of anisole synthesis from o-methylation of phenol with DMC over KBr catalyst
+['Anisole', 'Dimethyl carbonate (DMC)', 'In-situ FT-IR', 'O-methylation', 'Phenol', 'Reaction mechanism']

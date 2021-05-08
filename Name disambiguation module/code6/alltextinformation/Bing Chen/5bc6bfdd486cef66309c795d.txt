@@ -1,0 +1,2 @@
+Antihyperalgesia effect of BmK AS, a scorpion toxin, in rat by intraplantar injection
+['Antihyperalgesia', 'BmK AS', 'Buthus martensi Karsch', 'Paw withdrawal latency', 'Voltage-gated sodium channel']

@@ -1,0 +1,2 @@
+Observer-based H∞ control on nonhomogeneous discrete-time markov jump systems
+['H1 control', 'Nonhomogeneous Markov jump parameter', 'Observer-based', 'Stochastic system']

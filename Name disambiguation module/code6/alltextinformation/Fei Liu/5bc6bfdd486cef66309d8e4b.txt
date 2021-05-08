@@ -1,0 +1,2 @@
+Finite-Time Stabilization of Switching Markov Jump Systems with Uncertain Transition Rates
+['Finite-time stabilization', 'Piecewise integrating', 'Switching Markov jump linear systems', 'Uncertain transition rates']

@@ -1,0 +1,2 @@
+Mandarin Chinese speech recognition by pediatric cochlear implant users
+['Children', 'Cochlear implant', 'Mandarin Chinese', 'Pediatric', 'Speech']

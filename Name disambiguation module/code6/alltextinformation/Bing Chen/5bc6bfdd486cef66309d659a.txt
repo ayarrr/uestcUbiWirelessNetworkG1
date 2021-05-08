@@ -1,0 +1,2 @@
+Adaptive fuzzy decentralized control for a class of large-scale stochastic nonlinear systems
+['Adaptive decentralized control', 'Backstepping approach', 'Fuzzy logic systems', 'Stochastic nonlinear large-scale systems']

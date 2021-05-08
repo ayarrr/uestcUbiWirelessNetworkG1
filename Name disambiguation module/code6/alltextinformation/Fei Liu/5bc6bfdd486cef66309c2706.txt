@@ -1,0 +1,2 @@
+H∞ control for a class of time-delay LPV systems
+['H∞ controller', 'Linear matrix inequality', 'Linear parameter varying system', 'Multiconvexity', 'State feedback']

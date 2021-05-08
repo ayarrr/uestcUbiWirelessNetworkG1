@@ -1,0 +1,2 @@
+Bayesian framework based direct reconstruction of fluorescence parametric images
+['Bayesian framework', 'fluorescence tomography', 'parametric images', 'reconstruction method', 'structural priors']

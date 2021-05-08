@@ -1,0 +1,2 @@
+A quantified method to evaluate operational quality of power communication network and its application
+['Analysis of N-1 fault', 'Expected traffic loss', 'Network simulation', 'Operational quality', 'Power communication network']

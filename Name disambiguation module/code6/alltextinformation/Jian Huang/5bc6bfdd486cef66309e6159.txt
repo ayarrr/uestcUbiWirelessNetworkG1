@@ -1,0 +1,2 @@
+An assembly strategy scheduling method for human and robot coordinated cell manufacturing
+['Assembly', 'Assembly cell', 'Human and robot coordination', 'Monte Carlo', 'Multiple-objective optimization', 'Process efficiency', 'Robots', 'Stochastic Petri-net']

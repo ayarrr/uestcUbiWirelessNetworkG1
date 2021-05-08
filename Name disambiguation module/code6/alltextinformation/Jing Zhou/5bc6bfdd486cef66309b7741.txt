@@ -1,0 +1,2 @@
+Study on damage state of ribbed arch bridge using wavelet packet analysis
+['Damage', 'Frequency', 'Model test', 'Ribbed arch bridge', 'Wavelet analysis', 'Wavelet packet']

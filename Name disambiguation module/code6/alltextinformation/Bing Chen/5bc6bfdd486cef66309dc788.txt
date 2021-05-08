@@ -1,0 +1,2 @@
+Dynamic simulation and experimental modal analysis of large vibratory feeder
+['Experimental modal analysis', 'Finite element method', 'Natural frequency', 'Polymax', 'Vibratory feeder']

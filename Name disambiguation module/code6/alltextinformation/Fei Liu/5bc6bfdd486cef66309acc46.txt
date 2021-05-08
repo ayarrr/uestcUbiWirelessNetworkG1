@@ -1,0 +1,2 @@
+Finite-time guaranteed cost control for a class of nonlinear systems
+['Finite-time boundedness', 'Linear matrix inequality (LMI)', 'Takagi-Sugeno (T-S) fuzzy model', 'Uncertain nonlinear system']

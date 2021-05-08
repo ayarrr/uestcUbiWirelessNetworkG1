@@ -1,0 +1,2 @@
+Robust control with H∞ performance bound for networked control systems with data packet dropouts
+['H∞ performance', 'LMI', 'Networked control systems', 'Robust control', 'Switched systems']

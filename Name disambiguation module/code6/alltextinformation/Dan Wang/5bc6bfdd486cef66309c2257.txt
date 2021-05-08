@@ -1,0 +1,2 @@
+GA-based optimum profile modification of spur gears for vibration damping
+['Gear', 'Genetic algorithm', 'Profile modification', 'Transmission error', 'Vibration']

@@ -1,0 +1,2 @@
+Optimal allocation model and its genetic algorithms of outsourcing production resources in multi-task
+['Genetic algorithms', 'Model', 'Optimization', 'Outsourcing', 'Resource allocation']

@@ -1,0 +1,2 @@
+Direct adaptive fuzzy control for nonlinear systems with time-varying delays
+['Adaptive fuzzy control', 'Nonlinear systems', 'Output tracking', 'Razumikhin functional', 'Time-delay']

@@ -1,0 +1,2 @@
+Stochastic stabilization for a class of fuzzy bilinear jump systems
+['Continuously stirred tank reactor (CSTR) system', 'Jump parameters', 'Linear matrix inequalities (LMIs)', 'Stochastic stabilization', 'Takagi-Sugeno (T-S) fuzzy bilinear model']

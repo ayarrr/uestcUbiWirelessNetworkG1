@@ -1,0 +1,2 @@
+IL-8 regulates the epithelial-mesenchymal transition (EMT) of renal cancer through PKC/ERK signaling pathway
+['Extracellular regulated protein kinase (ERK)', 'IL-8, epithelial-mesenchymal transition (EMT)', 'Protein kinase C (PKC)', 'Renal cancer']

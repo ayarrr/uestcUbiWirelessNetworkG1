@@ -1,0 +1,2 @@
+Cross-correlation fault diagnosis in control loop based on Bayesian network
+['Bayesian network', 'Control loop', 'Cross-correlation', 'Fault diagnosis']

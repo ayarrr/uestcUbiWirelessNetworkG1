@@ -1,0 +1,2 @@
+Robust exponential stability for uncertain stochastic neural networks with discrete and distributed time-varying delays
+['Exponential stability', 'LMIs', 'Neural networks', 'Stochastic systems', 'Uncertain systems']

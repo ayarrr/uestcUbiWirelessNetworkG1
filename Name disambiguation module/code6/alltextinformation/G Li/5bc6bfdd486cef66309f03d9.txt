@@ -1,0 +1,2 @@
+Energy dissipation in Bi2Sr2CaCu2O 8+δ single crystal
+['Energy dissipation', 'Irreversibility line', 'Josephson vortex']

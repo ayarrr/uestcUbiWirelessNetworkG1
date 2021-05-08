@@ -1,0 +1,2 @@
+Effect of coarse aggregate type on mechanical properties of high-performance concrete
+['Aggregate', 'Compressive strength', 'Concrete', 'Mechanical properties']

@@ -1,0 +1,2 @@
+Functional contribution of EEN to leukemogenic transformation by MLL-EEN fusion protein
+['HoxA7', 'Leukemogenesis', 'MLL-EEN', 'Transcriptional factor']

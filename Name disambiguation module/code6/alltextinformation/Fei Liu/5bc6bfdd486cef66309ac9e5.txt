@@ -1,0 +1,2 @@
+Manufacturability-oriented one-dimensional cutting-stock problem under complex constraints status
+['Column generation algorithm', 'Complex constraints', 'Cutting-stock problem', 'Green manufacturing', 'Manufacturability']

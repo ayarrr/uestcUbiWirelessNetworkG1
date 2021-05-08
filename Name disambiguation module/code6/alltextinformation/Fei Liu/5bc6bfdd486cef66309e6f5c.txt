@@ -1,0 +1,2 @@
+Feedback Predictive Control Based on Periodic Invariant Set for Markov Jump Systems
+['Feedback predictive control', 'Markov jump systems', 'Periodic invariant set', 'Stochastic stability']

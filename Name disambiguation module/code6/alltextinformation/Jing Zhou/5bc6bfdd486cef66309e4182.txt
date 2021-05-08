@@ -1,0 +1,2 @@
+Dynamic characteristics of pipes with part-through straight front crack
+['Crack', 'Fracture mechanics', 'Least-squares', 'Local flexibility', 'Pipe', 'Strain energy release']

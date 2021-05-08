@@ -1,0 +1,2 @@
+The effect of prestress on the properties of lead free KNBT piezoelectric fibers
+['Ferroelectric property', 'KNBT piezoelectric fibers', 'Piezoelectric property', 'Prestress']

@@ -1,0 +1,2 @@
+Survival outcomes in surgical treatment of 72 cases of squamous cell carcinoma of the temporal bone
+['Resection', 'Squamous cell carcinoma', 'Staging', 'Surgery', 'Survival']

@@ -1,0 +1,2 @@
+The improvement of research and application of BP neural network in measurement robot atmospheric refraction coefficient correction
+['Atmospheric refraction', 'BP neural network', 'Measurement robot']

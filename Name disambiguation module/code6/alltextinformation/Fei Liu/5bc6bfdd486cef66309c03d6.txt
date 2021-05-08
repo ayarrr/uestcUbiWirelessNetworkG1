@@ -1,0 +1,2 @@
+Fuzzy based model predictive control for uncertain nonlinear system
+['Discrete time-delay systems', 'PDC predictive control', 'Semi-definite programming', 'T-S fuzzy modeling', 'Uncertainty']

@@ -1,0 +1,2 @@
+Near-edge X-ray absorption fine-structure studies of GaN under low-energy nitrogen ion bombardment
+['GaN', 'NEXAFS', 'Nitrogen ion bombardment']

@@ -1,0 +1,2 @@
+Adaptive fuzzy control for nonlinear systems without strict-feedback form
+['Adaptive fuzzy control', 'Input saturation', 'Nonlinear system']

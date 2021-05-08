@@ -1,0 +1,2 @@
+Compact high frequency true-time-delay beamformer using bidirectional reflectance of the fiber gratings
+['Beamformer', 'Fiber gratings', 'True time delay']

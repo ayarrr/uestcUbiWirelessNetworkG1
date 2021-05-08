@@ -1,0 +1,2 @@
+Robust adaptive fuzzy tracking control for a class of strict-feedback nonlinear systems based on backstepping technique
+['Backstepping technique', 'Fuzzy control', 'Nonlinear systems', 'Robust adaptive control']

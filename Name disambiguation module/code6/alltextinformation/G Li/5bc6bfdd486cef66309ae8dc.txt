@@ -1,0 +1,2 @@
+High-dose ion implantation into GaN
+['Decomposition', 'Defects', 'Erosion', 'GaN', 'Implantation', 'Porosity']

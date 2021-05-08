@@ -1,0 +1,2 @@
+H∞ filter design for T-S nonlinear discrete-time with interval time delays
+['Discrete-time', 'Fuzzy systems', 'H∞ filtering', 'Linear Matrix Inequality(LMI)']

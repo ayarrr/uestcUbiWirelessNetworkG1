@@ -1,0 +1,2 @@
+Effects of contact interface degradation on the performance of CdZnTe detectors
+['Aging test', 'CdZnTe', 'Detectors', 'Metal-semiconductor contact', 'Scanning acoustic microscopy']

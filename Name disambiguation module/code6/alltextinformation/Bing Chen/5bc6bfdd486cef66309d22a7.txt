@@ -1,0 +1,2 @@
+Guaranteed cost control of T-S fuzzy systems with input delay
+['Delay-dependent stabilization', 'Fuzzy control', 'Guaranteed cost control', 'Input delay', 'Robust control']

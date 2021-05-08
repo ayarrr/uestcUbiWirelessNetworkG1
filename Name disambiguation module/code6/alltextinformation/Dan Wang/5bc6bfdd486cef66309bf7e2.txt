@@ -1,0 +1,2 @@
+The reliability modeling of marine power station
+['Marine power station', 'Reliability', 'Reliability modeling', 'Reliability prediction']

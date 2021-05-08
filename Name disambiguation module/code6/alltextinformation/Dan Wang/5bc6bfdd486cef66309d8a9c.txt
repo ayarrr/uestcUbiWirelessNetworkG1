@@ -1,0 +1,2 @@
+Empirical study of supplier selection strategies across the supply chain management in manufacturing companies
+['International Manufacturing Strategy Survey (IMSS)', 'Manufacturing company', 'Supplier selection strategy (SSS)', 'Supply chain management']

@@ -1,0 +1,2 @@
+Fault-tolerant mating process of electric connectors in robotic wiring harness assembly systems
+['Configure space', 'Error recovery', 'Fault detection and isolation', 'Robotic wiring harness assembly']

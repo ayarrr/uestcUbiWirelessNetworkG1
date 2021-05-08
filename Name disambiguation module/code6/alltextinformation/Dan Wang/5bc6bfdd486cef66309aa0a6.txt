@@ -1,0 +1,2 @@
+Impact of changes in vegetation types on soil C mineralization and associated temperature sensitivity in the Changbai Mountain forests of China
+['Moisture', 'Q100', 'Soil organic matter', 'Soil respiration', 'Temperature', 'Temperature sensitivity', 'Vegetation types change']

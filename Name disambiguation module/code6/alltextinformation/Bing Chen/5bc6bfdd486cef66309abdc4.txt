@@ -1,0 +1,2 @@
+Fuzzy approximation-based adaptive control of nonlinear delayed systems with unknown dead zone
+['Adaptive fuzzy control', 'fuzzy logic systems', 'time delay']

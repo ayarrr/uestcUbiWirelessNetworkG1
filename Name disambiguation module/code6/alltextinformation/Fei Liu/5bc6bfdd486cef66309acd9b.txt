@@ -1,0 +1,2 @@
+MST growth algorithms for hierarchical routing extraction of graph outline
+['Graph outline extraction', 'Hierarchical routing', 'Minimum spanning tree', 'Routing algorithms', 'Weighted undirected graph']

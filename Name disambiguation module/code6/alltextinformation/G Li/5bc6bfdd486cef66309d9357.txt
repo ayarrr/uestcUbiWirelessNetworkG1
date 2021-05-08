@@ -1,0 +1,2 @@
+The effect of phase separation on charge ordering state in La1-xCaxMnO3 (x = 1/2, 2/3, and 3/4)
+['A. Magnetically ordered materials', 'D. Electronic transport', 'D. Phase transitions']

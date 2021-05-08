@@ -1,0 +1,2 @@
+Adaptive dynamic surface control for A class of uncertain nonlinear systems in pure-feedback form
+['']

@@ -1,0 +1,2 @@
+Robust finite-time control for a class of extended stochastic switching systems
+['finite-time boundedness', 'finite-time stabilisation', 'H∞ control', 'Markov jump systems', 'unknown jump rates']

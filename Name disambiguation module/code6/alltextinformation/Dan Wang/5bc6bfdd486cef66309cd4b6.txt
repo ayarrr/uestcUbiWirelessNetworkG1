@@ -1,0 +1,2 @@
+A novel vessel maneuvering model via GEBF based fuzzy eural networks
+['Fuzzy Neural Network', 'Generalized Ellipsoidal Basis Function', 'System Identification', 'Vessel Maneuvering Model']

@@ -1,0 +1,2 @@
+Determination of mycophenolic acid (MPA) and its acyl and phenol glucuronide metabolits simultaneously in human plasma by a simplified HPLC method
+['AcMPAG', 'HPLC', 'MPAG', 'Mycophenolic acid (MPA)', 'Plasma concentration']

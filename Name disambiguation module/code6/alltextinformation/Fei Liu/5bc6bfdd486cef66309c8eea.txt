@@ -1,0 +1,2 @@
+Consensus seeking of first-order multi-agent systems based on delayed feedback control
+['Consensus', 'Delayed feedback control', 'First-order multi-agent systems']

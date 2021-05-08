@@ -1,0 +1,2 @@
+Unbiased estimation of Markov jump systems with distributed delays
+['Distributed time-delays', 'Linear matrix inequality', 'Markov jump systems (MJSs)', 'Unbiased H∞ filtering']

@@ -1,0 +1,2 @@
+A fast-locking all-digital delay-locked loop for phase/delay generation in an FPGA
+['all digital DLL', 'DCDL', 'DDR SDRAM controller', 'duty cycle corrector', 'FPGA', 'time-to-digital converter']

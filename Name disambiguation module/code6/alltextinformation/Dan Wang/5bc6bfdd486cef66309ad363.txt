@@ -1,0 +1,2 @@
+A practical digital VRB simulator for power system and smart grid applications
+['model', 'power electronics', 'simulator', 'VRB', 'VSC']

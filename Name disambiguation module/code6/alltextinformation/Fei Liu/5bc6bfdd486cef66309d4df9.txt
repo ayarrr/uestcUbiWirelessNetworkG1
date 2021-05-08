@@ -1,0 +1,2 @@
+In vivo tomographic imaging of lung colonization of tumour in mouse with simultaneous fluorescence and X-ray CT
+['Fluorescence molecular tomography', 'Lung colonization', 'Multi-modality imaging', 'X-ray computed tomography']

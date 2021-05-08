@@ -1,0 +1,2 @@
+Robust guaranteed cost control with appointed decay rate for uncertain fuzzy systems
+['Linear matrix inequalities (LMIs)', 'Robust guaranteed cost control', 'Takagi-Sugeno (T-S) fuzzy model', 'Uncertain continuous-time nonlinear systems']

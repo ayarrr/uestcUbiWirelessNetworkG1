@@ -1,0 +1,2 @@
+Screening of human telomere-associated proteins HKR3, SMARCB1 and their expressions in gastric cancer cells
+['Cell line, tumor', 'Telomerase', 'Telomerase-binding proteins', 'Telomere', 'Yeast two-hybrid system']

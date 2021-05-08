@@ -1,0 +1,2 @@
+System model of modern job shop operation information and case study
+['Job shop', 'Operation information', 'Optimal objective', 'System model']

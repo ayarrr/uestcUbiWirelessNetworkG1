@@ -1,0 +1,2 @@
+Process planning support system for green manufacturing and its application
+['Green manufacturing', 'Process planning', 'Support system']

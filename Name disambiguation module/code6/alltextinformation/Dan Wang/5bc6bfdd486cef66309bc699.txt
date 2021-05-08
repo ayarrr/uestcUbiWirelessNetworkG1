@@ -1,0 +1,2 @@
+Robust adaptive formation control with autonomous surface vehicles
+['Autonomous surface vehicles', 'Formation control', 'Neural networks', 'Robust adaptive control']

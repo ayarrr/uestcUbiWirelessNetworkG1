@@ -1,0 +1,2 @@
+Hierarchical process neural network model within variable-sampling time
+['Biochemical processes', 'Hierarchical process neural network', 'Modeling', 'Variable-sampling time']

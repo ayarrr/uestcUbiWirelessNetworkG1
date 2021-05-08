@@ -1,0 +1,2 @@
+Integrated production operation management system for assembly workshop of automotive air-conditioning
+['Assembly workshop', 'Automotive air-conditioning', 'Genetic algorithm', 'Integrated', 'Manufacturing execution system', 'Production operation management']

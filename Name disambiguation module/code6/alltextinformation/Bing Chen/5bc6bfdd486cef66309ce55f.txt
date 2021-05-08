@@ -1,0 +1,2 @@
+Theory of mind and decision-making processes are impaired in Parkinson's disease
+['Cognition', 'Decision making', "Parkinson's disease", 'Theory of mind']

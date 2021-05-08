@@ -1,0 +1,2 @@
+The effect of forced growth of cells into 3D spheres using low attachment surfaces on the acquisition of stemness properties
+['3D sphere culture', 'Low attachment surface', 'Reprogramming', 'Stemness']

@@ -1,0 +1,2 @@
+A DSC approach to adaptive neural network tracking control for pure-feedback nonlinear systems
+['Dynamic surface control', 'Input-to-state practically stability', 'Neural network', 'Non-affine pure-feedback nonlinear systems', 'Small Gain Theorem']

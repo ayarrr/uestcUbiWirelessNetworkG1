@@ -1,0 +1,2 @@
+Concept and development of virtual power plant
+['Distributed energy resources', 'Distributed generators', 'Microgrid', 'Virtual power plant']

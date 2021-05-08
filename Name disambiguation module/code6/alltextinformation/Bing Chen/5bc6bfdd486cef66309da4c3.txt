@@ -1,0 +1,2 @@
+Reversible immortalization of rat pancreatic β cells with a novel immortalizing and tamoxifen-mediated self-recombination tricistronic vector
+['Cre-ER/LoxP', 'Immortalization', 'Rat pancreatic β cells', 'Tricistronic']

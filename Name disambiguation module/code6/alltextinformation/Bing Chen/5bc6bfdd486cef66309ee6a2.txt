@@ -1,0 +1,2 @@
+3,3,4,4,5,5-Hexafluoro-1,2-bis(3-methyl-5-phenyl-2-thienyl)cyclopent-1-ene, a new photochromic diarylethene compound
+['']

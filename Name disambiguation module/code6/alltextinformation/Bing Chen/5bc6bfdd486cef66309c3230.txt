@@ -1,0 +1,2 @@
+Design and implementation of data synchronous system for merging unit based on FPGA
+['data synchronous system', 'FPGA', 'merging unit', 'Newton interpolation algorithm']

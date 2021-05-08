@@ -1,0 +1,2 @@
+Decision-making model for process route in green manufacturing and its algorithms
+['Decision-making model', 'Genetic simulated anneal algorithm', 'Green manufacturing', 'Process route']

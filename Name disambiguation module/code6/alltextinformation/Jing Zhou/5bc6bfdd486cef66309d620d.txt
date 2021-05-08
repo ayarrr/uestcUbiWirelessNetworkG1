@@ -1,0 +1,2 @@
+RETRACTED ARTICLE: Application of grey model (1,1) to forecast the discharge of restaurant wastewater in Beijing
+['Forecast', 'Gray model', 'Restaurant wastewater']

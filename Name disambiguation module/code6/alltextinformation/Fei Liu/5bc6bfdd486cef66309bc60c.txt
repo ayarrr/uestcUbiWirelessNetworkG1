@@ -1,0 +1,2 @@
+Site tools distribution method for machining job shop and its implementation
+['Distribution', 'Information model', 'Information systems', 'Machining tools', 'Scheduling', 'Terminals']

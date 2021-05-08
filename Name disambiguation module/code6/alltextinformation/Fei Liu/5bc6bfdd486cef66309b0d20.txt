@@ -1,0 +1,2 @@
+Simplified process monitoring method based on dynamic factor analysis and its application
+['EM algorithm', 'Process monitoring', 'Simplified dynamic factor analysis', 'Time lags']

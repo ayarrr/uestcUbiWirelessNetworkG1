@@ -1,0 +1,2 @@
+Design of controller based on state sampled-data feedback
+['Linear matrix inequality', 'Sampled-data feedback', 'Stabilization']

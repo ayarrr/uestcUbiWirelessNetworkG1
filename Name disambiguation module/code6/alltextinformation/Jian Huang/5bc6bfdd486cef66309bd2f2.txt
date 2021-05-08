@@ -1,0 +1,2 @@
+Effects of substrate temperature on morphology, structure and chemical composition of Cu2S films
+['Cu2S', 'Magnetron sputtering', 'Substrate temperature']

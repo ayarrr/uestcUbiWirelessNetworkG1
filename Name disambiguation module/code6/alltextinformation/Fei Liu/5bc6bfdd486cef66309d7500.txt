@@ -1,0 +1,2 @@
+Stochastic finite-time stabilization for uncertain jump systems via state feedback
+['Linear matrix inequalities', 'Markov jump systems (MJSs)', 'Stochastic finite-time bounded', 'Stochastic finite-time stabilization', 'Uncertain']

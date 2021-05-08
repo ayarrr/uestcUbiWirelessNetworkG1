@@ -1,0 +1,2 @@
+A location programming under stochastic travel time through genetic algorithm
+['Genetic algorithm', 'Location', 'Risk', 'Stochastic']

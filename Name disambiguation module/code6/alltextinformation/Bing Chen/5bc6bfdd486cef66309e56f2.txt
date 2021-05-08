@@ -1,0 +1,2 @@
+Research on the influence of bending unloading effect on elongation in cold steel strip tension leveling
+['Bending unloading effect', 'Cold steel strip', 'Elongation', 'FEM', 'Tension leveling']

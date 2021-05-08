@@ -1,0 +1,2 @@
+Study on mechanical property of corroded R.C. beam based on fractal and artificial neural network
+['Artificial neural network', 'Corrosion', 'Fractal', 'Load carrying capacity', 'Mechanical property', 'Reinforced concrete beam']

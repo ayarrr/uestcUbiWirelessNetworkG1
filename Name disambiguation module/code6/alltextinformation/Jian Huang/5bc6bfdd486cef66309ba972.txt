@@ -1,0 +1,2 @@
+Effect of oxygen partial pressure on properties of ZnO films deposited on freestanding diamond films
+['Diamond', 'Magnetron sputtering', 'Zinc oxide']

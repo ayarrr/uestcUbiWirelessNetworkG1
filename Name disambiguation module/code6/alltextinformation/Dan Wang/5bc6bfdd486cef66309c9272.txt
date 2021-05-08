@@ -1,0 +1,2 @@
+A strategic framework for enterprise information integration of ERP and E-commerce
+['Agent', 'E-commerce', 'Enterprise information integration', 'ERP', 'Web Services']

@@ -1,0 +1,2 @@
+Strain analysis of buried steel pipelines across strike-slip faults
+['Analytical formula', 'Buried pipeline', 'Nonlinear pipe-soil interaction', 'Strain analysis', 'Strike-slip fault']

@@ -1,0 +1,2 @@
+Robust model predictive control for Markov jump systems subject to actuator saturation
+['Actuator saturation', 'Jump systems', 'Robust model predictive control', 'Semi-definite programming']

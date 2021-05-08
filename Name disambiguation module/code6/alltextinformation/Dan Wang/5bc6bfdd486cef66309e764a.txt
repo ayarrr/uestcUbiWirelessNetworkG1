@@ -1,0 +1,2 @@
+Routing strategy with waiting time on scale-free network
+['Routing strategy', 'Scale-free network', 'Traffic']

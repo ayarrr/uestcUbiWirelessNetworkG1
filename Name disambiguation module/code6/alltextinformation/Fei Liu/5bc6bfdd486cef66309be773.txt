@@ -1,0 +1,2 @@
+PD-type sampled-data iterative learning control for nonlinear systems with time delays and uncertain disturbances
+['Disturbance', 'Sampled-Data Iterative Learning Control(SDLC)', "Taylor's norm", 'Time delay']

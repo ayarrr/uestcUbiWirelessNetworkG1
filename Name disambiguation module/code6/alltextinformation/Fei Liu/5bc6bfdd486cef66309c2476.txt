@@ -1,0 +1,2 @@
+Research on green manufacturing pattern evaluation of automotive manufacturing enterprises
+['Automotive manufacturing enterprise', 'BPNN', 'Evaluation', 'GA', 'GM (green manufacturing) pattern']

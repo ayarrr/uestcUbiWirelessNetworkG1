@@ -1,0 +1,2 @@
+GSPN-based modeling approach for analyzing complex factors in production process of Automatic machining line
+['Automatic machining line', 'Complex factor', 'Generalized stochastic petri nets']

@@ -1,0 +1,2 @@
+New delay-dependent stabilization conditions of T-S fuzzy systems with constant delay
+['Delay-dependent stability', 'Linear matrix inequality', 'Robust control', 'T-S fuzzy systems', 'Time-delay']

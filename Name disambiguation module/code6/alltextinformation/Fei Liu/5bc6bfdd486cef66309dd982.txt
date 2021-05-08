@@ -1,0 +1,2 @@
+A pseudo differential Gm - C complex filter with frequency tuning for IEEE802.15.4 applications
+['complex filter', 'frequency tuning', 'GmC filter', 'IEEE802.15.4 standard']

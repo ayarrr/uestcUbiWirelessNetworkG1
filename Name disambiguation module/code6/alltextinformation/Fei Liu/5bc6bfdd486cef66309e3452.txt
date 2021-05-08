@@ -1,0 +1,2 @@
+Bayesian analysis on reliability-growth of solid rocket motor based on extending time test
+['Bayesian estimation', 'Extending time test', 'Reliability growth', 'Solid rocket motor', 'Weibull distribution']

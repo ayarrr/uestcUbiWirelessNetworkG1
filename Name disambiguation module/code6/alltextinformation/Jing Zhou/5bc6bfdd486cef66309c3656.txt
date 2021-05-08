@@ -1,0 +1,2 @@
+Analytical model based on Morison equation for free spanning submarine pipelines under earthquakes
+['Free spanning submarine pipelines', 'Hydrodynamic force model', 'Numerical analysis', 'Port, coastal and offshore engineering', 'Seismic response']

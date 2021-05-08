@@ -1,0 +1,2 @@
+Coupled consensus of second-order dynamic agents with communication delay
+['Communication delay', 'Coupled consensus', 'Second-order dynamic agent']

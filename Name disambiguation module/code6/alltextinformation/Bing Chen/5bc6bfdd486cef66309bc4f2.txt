@@ -1,0 +1,2 @@
+Adaptive fuzzy control of a class of nonlinear systems by fuzzy approximation approach
+['Adaptive fuzzy control', 'fuzzy logic systems', 'nonstrict-feedback systems']

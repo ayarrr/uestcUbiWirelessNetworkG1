@@ -1,0 +1,2 @@
+Gene dose effect of NAT2 variants on the pharmacokinetics of isoniazid and acetylisoniazid in healthy Chinese subjects
+['acetyl isoniazid (AcINH)', 'gene dose effect', 'isoniazid (INH)', 'N-acetyltransferase 2 (NAT2)', 'pharma-cokinetics']

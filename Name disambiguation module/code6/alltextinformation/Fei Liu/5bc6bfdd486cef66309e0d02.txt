@@ -1,0 +1,2 @@
+Robust generalized H 2 control: Time-delay case
+['Control system synthesis', 'Generalized H 2', 'Linear matrix inequality', 'Robustness', 'Time-delay systems']

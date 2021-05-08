@@ -1,0 +1,2 @@
+Adaptive NN tracking control of uncertain nonlinear pure-feedback systems via dynamic surface technique
+['Adaptive Control', 'Dynamic Surface Control', 'Neural Network', 'Pure-Feedback System']

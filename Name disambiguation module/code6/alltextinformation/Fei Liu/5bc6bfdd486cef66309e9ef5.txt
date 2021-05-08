@@ -1,0 +1,2 @@
+Dynamic scheduling method of vehicle air-conditioning assembly shop based on feedback control
+['Assembly shop', 'Feedback control', 'Genetic algorithms', 'Scheduling', 'Vehicle air-conditioning']

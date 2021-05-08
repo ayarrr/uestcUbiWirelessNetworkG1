@@ -1,0 +1,2 @@
+Extraction of target fluorescence signal from in vivo background signal using image subtraction algorithm
+['Biomedical image processing', 'biomedical optical imaging', 'fluorescence', 'fluorescence reflectance imaging', 'imaging system']

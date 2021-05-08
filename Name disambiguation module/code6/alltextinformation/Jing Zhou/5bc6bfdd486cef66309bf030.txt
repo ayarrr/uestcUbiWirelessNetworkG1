@@ -1,0 +1,2 @@
+A memristor-based architecture combining memory and image processing
+['computer architecture', 'image processing', 'logic operation', 'memristor', 'read and write circuit']

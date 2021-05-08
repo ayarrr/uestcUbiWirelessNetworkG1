@@ -1,0 +1,2 @@
+Performance of hybrid system for fluorescence and micro-computed tomography in synchronous mode
+['dual-modal imaging', 'Fluorescence', 'optical tomography']

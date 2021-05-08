@@ -1,0 +1,2 @@
+A neural network based adaptive control design approach for a class of uncertain nonlinear systems with unknown time delay
+['Adaptive control', 'Neural networks', 'Nonlinear control', 'Robustness', 'Time delay']

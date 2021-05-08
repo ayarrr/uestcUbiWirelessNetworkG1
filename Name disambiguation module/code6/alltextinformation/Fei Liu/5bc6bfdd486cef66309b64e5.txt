@@ -1,0 +1,2 @@
+Reliability-based structural integrity assessment of Liquefied Natural Gas tank with hydrogen blistering defects by MCS method
+['J-integral', 'MCS', 'Structural integrity', 'Support vector machine']

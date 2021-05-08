@@ -1,0 +1,2 @@
+Kernel probabilistic principal component model and monitoring indices in industrial process
+['High-dimensional space', 'KPPCA', 'Monitoring indices', 'Nonlinear', 'TE process']

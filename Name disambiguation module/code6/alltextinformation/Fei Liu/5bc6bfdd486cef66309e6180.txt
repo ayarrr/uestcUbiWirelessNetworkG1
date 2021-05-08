@@ -1,0 +1,2 @@
+An on-line approach for energy efficiency monitoring of machine tools
+['Energy efficiency', 'Identification', 'Machine tool', 'Monitoring']

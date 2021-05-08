@@ -1,0 +1,2 @@
+Development of the measurement system of the postero-to-anterior movements of the cervical spine
+['Cervical Spine', 'Measurement System', 'Postero-to-Anterior (PA) movements', 'stiffness']

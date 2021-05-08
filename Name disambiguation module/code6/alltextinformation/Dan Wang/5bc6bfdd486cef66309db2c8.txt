@@ -1,0 +1,2 @@
+A improved Newton power flow in rectangular form for systems with small impedance branches
+['Convergence', 'Jacobian matrix', 'Newton power flow in rectangular form', 'Small impedance branches']

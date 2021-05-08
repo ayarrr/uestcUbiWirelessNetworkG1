@@ -1,0 +1,2 @@
+Finite-time stabilization of stochastic systems with partially known transition probabilities
+['finite-time boundedness', 'finite-time stabilization', 'Markovian jump systems', 'transition probabilities']

@@ -1,0 +1,2 @@
+Sliding mode dissipative control for uncertain jumping nonlinear systems
+['Dissipative control', 'Markov', 'Mismatched uncertainty', 'Sliding mode surface']

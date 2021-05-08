@@ -1,0 +1,2 @@
+Motion reliability analysis of ball screw pair based on Monte Carlo method
+['Ball screw pair', 'MATLAB', 'Monte Carlo method', 'Motion reliability', 'Random sample']

@@ -1,0 +1,2 @@
+On passivity of state delayed stochastic jump systems
+['Linear matrix inequality', 'Passivity', 'Stochastic jump systems', 'Time delay']

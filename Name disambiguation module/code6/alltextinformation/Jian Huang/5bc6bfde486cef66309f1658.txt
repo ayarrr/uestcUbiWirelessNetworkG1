@@ -1,0 +1,2 @@
+A high-precision testing device to evaluate the fluidity of cement paste
+['Cement paste', 'Fluidity', 'H tube', 'Testing device']

@@ -1,0 +1,2 @@
+Consistence of multi-agent systems with diverse input delays
+['Consistence', 'Fixed topology', 'Input delay', 'Linear matrix inequality', 'Multi-agent systems']

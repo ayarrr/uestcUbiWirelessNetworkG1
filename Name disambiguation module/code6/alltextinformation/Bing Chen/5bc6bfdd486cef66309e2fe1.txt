@@ -1,0 +1,2 @@
+Feature extraction of bearing vibration signals based on wavelet energy matrix
+['Characteristic parameters', 'Energy matrix', 'Fault diagnose', 'Matrix eigenvalues', 'Wavelet transformation']

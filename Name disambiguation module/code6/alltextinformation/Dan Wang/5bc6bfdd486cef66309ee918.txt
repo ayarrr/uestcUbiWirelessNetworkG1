@@ -1,0 +1,2 @@
+Graphene oxide functionalization with aminocoumarin nanosheet fluorescent dye: Preparation, electrochemistry, spectroscopy and imaging in the living cells
+['4-methyl-7-aminocoumarin', 'Fluorescence imaging', 'GO-NH-COUR sheet', 'Graphite oxide', 'PpH', 'Time-resolved fluorescence']

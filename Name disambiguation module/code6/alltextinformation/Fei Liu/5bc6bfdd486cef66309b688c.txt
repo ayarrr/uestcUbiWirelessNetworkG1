@@ -1,0 +1,2 @@
+Sampled-data controller design for a class of fuzzy jump systems
+['Fuzzy jump system', 'Linear matrix inequality', 'Markov jump system', 'Multiple Lyapunov function', 'Sampled-data control', 'T-S fuzzy system']

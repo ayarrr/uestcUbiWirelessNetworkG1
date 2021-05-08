@@ -1,0 +1,2 @@
+Parallel operation of electronic power transformer (EPT)
+['Electronic power transformer (EPT)', 'Load sharing', 'Parallel operation']

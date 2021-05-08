@@ -1,0 +1,2 @@
+A monitoring method based on modified dynamic factor analysis and its application
+['correlation analysis', 'dynamic process monitoring', 'EM algorithm', 'Modified Dynamic Factor Analysis', 'time-lags']

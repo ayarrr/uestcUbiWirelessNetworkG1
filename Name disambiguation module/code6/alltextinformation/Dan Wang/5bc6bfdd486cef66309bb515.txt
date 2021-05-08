@@ -1,0 +1,2 @@
+Tribological properties of HIP-Si3N4 ceramic/45 steel under dry friction and water lubrication
+['Adhesive wear', 'Chemical fretting wear', 'Dry friction', 'HITH117 P-Si3N4 ceramic', 'Water lubrication']

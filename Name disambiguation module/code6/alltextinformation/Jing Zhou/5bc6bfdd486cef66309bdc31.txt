@@ -1,0 +1,2 @@
+Seismic analysis of offshore platform with oil storage tank including fluid-structure interaction
+['Fluid-structure interaction', 'Offshore platform', 'Oil storage tank', 'Seismic response']

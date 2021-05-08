@@ -1,0 +1,2 @@
+Compact bandpass filter with wide stopband using stepped impedance resonators
+['bandpass filter', 'compact', 'stepped-impedance resonator']

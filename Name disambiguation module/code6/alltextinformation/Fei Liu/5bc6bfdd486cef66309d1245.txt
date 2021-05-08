@@ -1,0 +1,2 @@
+Research on dynamic reconfigurable manufacturing process framework based on MDA
+['Dynamic reconfiguration', 'Manufacturing process model', 'MDA', 'UML']

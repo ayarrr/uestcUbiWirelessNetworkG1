@@ -1,0 +1,2 @@
+Robust H∞ filtering for neutral jump system with time-delays and uncertainties
+['Linear matrix inequality', 'Neutral jump systems', 'Robust H∞ filtering', 'Time-delays', 'Uncertainties']

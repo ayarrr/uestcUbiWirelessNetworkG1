@@ -1,0 +1,2 @@
+A statistical study of the spectral hardening of continuum emission in solar flares
+['acceleration of particles', 'Sun: flares', 'Sun: particle emission', 'Sun: X-rays, gamma rays']

@@ -1,0 +1,2 @@
+Robust fault detection of Markovian jump systems with partly unknown transition probabilities
+['Free-connection weighting matrices', 'Linear matrix inequalities (LMIs)', 'Markovian jump systems', 'Partly unknown transition probabilities', 'Robust fault detection']

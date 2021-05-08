@@ -1,0 +1,2 @@
+Growth and UV detectors application of ZnMgO films
+['Co-sputtering', 'Diamond', 'ZnMgO']

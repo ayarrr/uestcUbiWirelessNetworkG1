@@ -1,0 +1,2 @@
+Effects of pre-introduced shear origin zones on mechanical property of ZrCu metallic glass
+['Metal glass', 'Shear band', 'Strain', 'Stress']

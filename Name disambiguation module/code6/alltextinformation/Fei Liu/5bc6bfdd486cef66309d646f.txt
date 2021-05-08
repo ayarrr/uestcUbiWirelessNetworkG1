@@ -1,0 +1,2 @@
+Noise analysis for infrared focal plane arrays CMOS readout integrated circuit
+['Frequency spectrum analysis', 'Infrared focal plane array', 'Nnoise', 'Readout integrated circuit']

@@ -1,0 +1,2 @@
+Development of wearable bath safety monitoring system for handicapped people
+['Bath Safety Monitoring System', 'Drowning Detection', 'Fall Detection', 'Wearable']

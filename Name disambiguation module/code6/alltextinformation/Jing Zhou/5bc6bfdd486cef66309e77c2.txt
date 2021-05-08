@@ -1,0 +1,2 @@
+Dielectric and piezoelectric properties of 0-3 PZT/PVDF composite doped with polyaniline
+['Dielectric properties', 'Piezoelectric composite', 'Piezoelectric properties', 'Polyaniline']

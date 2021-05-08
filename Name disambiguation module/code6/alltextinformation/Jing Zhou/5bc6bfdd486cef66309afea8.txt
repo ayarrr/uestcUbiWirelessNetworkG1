@@ -1,0 +1,2 @@
+An ice-coating predict system of transmission lines based on the improved neural network
+['Ice disaster', 'Ice-coating predict', 'Neural network', 'Transmission lines']

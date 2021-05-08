@@ -1,0 +1,2 @@
+Accurate electrical simulation and design optimization for silicon interposer considering the MOS effect and eddy currents in the silicon substrate
+['']

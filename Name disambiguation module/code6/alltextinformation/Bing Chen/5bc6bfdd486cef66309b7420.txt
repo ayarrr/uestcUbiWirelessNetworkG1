@@ -1,0 +1,2 @@
+Direct adaptive fuzzy control of nonlinear strict-feedback systems
+['Adaptive fuzzy control', 'Backstepping', 'Nonlinear systems', 'Output tracking']

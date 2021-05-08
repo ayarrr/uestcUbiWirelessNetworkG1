@@ -1,0 +1,2 @@
+A novel adaptive neural control for uncertain unified chaotic systems
+['Adaptive neural control', 'Backstepping', 'Unified chaotic system']

@@ -1,0 +1,2 @@
+Characteristics of earthquake response for long-period structures and response spectrum
+['Displacement spectrum', 'Long-period structure', 'Minimum storey seismic shear coefficient', 'Response spectrum', 'Seismic design']

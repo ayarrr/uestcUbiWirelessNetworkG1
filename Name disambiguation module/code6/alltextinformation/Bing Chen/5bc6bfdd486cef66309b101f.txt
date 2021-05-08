@@ -1,0 +1,2 @@
+Association of interleukin 1 family with systemic sclerosis
+['fibrosis', 'interleukin 1 family', 'SSc', 'systemic sclerosis']

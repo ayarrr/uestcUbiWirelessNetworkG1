@@ -1,0 +1,2 @@
+Dynamic numerical simulation of granite SHPB test
+['Granite', 'HJC model', 'SHPB test', 'Solid mechanics', 'Waveform shaping technique']

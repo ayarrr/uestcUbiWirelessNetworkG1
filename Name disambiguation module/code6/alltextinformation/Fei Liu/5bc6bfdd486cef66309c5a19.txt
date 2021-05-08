@@ -1,0 +1,2 @@
+Networked distribution management system for automobile part manufacturer
+['Distribution management', 'Integration', 'Part manufacturer', 'Supply chain']

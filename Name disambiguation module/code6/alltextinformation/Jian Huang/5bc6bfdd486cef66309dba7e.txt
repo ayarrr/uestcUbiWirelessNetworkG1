@@ -1,0 +1,2 @@
+The bus arrival time service based on dynamic traffic information
+['bus arrival time prediction', 'dynamic traffic information', 'GPS data']

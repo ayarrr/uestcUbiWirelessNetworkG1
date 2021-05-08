@@ -1,0 +1,2 @@
+An adaptive Tikhonov regularization method for fluorescence molecular tomography
+['Adaptive regularization', 'Fluorescence molecular tomography regularization', 'Reconstruction', 'Tikhonov']

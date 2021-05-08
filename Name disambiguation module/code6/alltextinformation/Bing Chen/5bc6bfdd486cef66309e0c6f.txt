@@ -1,0 +1,2 @@
+Novel adaptive neural control design for nonlinear MIMO time-delay systems
+['Adaptive neural control', 'Backstepping', 'Nonlinear systems with time-delays', 'Output tracking']

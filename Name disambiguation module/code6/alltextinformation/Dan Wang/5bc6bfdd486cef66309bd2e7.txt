@@ -1,0 +1,2 @@
+Optimal control of battery energy storage system based on variable smoothing time constant
+['Battery energy storage system (BESS)', 'Grid-connected inverter', 'Optimal control', 'Power limit', 'Smoothing time constant', 'Wind power']

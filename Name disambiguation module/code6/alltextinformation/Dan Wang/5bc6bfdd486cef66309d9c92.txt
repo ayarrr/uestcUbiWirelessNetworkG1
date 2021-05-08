@@ -1,0 +1,2 @@
+400 V/1000 kVA hybrid automatic transfer switch
+['Hybrid transfer switch', 'power quality', 'power supply reliability', 'transfer switch']

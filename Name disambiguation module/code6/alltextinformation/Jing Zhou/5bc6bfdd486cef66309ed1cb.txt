@@ -1,0 +1,2 @@
+Experimental and numerical study on tuned liquid dampers for controlling earthquake response of jacket offshore platform
+['Earthquake response', 'Jacket platform', 'Model test', 'Numerical simulation', 'Sloshing', 'Tuned liquid dampers', 'Vibration control']

@@ -1,0 +1,2 @@
+Study on vibration-absorbing of the offshore platform with TLD
+['Model test', 'Offshore platform', 'Tuned Liquid Damper (TLD)', 'Vibration-absorbing analysis']

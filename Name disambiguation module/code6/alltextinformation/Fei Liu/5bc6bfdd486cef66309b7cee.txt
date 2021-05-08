@@ -1,0 +1,2 @@
+Constrained one step predictive control of discrete time Markovian jump linear systems
+['Constrained inputs', 'Markovian jump linear systems', 'Noise inputs', 'Predictive control', 'Semi-definite programming (SDP)']

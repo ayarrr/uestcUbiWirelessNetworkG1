@@ -1,0 +1,2 @@
+Finite-time stabilisation for Markov jump systems with Gaussian transition probabilities
+['']

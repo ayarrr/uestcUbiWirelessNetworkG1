@@ -1,0 +1,2 @@
+Study on extensive quality loss function model
+['Quality evaluation', 'Quality loss function', 'Quality management']

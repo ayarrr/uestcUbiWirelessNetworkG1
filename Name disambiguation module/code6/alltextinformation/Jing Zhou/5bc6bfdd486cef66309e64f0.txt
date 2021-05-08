@@ -1,0 +1,2 @@
+Effect of anti-arrhythmia drugs on mouse arrhythmia induced by Bufonis Venenum
+['Amiodarone', 'Arrhythmia', 'Bufonis venenum', 'Lidocaine', 'Phenytoin sodium', 'Propranolol', 'Verapamil']

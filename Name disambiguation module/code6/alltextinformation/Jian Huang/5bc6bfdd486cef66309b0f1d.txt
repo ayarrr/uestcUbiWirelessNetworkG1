@@ -1,0 +1,2 @@
+Properties of Li-doped ZnO films deposited on diamond films
+['Diamond', 'Li-doped zinc oxide', 'Magnetron sputtering']

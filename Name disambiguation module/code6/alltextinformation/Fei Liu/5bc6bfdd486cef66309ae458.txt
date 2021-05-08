@@ -1,0 +1,2 @@
+Deployment model for part reuse in customized design of remanufactured products
+['Customization', 'Deployment model', 'Design', 'Remanufactured products']

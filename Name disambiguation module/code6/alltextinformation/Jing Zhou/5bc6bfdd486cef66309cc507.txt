@@ -1,0 +1,2 @@
+3D modeling and simulation of heat transfer for internal channel cooling of 3D-chip stacks
+['']

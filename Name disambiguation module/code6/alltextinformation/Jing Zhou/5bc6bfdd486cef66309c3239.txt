@@ -1,0 +1,2 @@
+Modal parameter identification through adaptive chirplet-based signal approximation
+['Adaptive spectrogram', 'Chirplet-based signal approximation', 'Parameter identification', 'Time frequency analysis']

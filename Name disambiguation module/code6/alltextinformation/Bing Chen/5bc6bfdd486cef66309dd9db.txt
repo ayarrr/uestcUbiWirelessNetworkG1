@@ -1,0 +1,2 @@
+Modified very fast simulated annealing algorithm
+['Annealing scheme', 'Efficiency', 'Optimization', 'Simulated annealing algorithm']

@@ -1,0 +1,2 @@
+Electrical responses of carbon fiber reinforced cementitious composites to monotonic and cyclic loading
+['Carbon fiber reinforced cementitious composites (CFRCC)', 'Compression', 'Electrical resistance', 'Positive/negative pressure coefficient effect of resistance']

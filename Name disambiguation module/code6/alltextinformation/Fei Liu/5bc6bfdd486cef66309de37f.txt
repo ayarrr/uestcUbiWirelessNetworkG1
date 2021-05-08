@@ -1,0 +1,2 @@
+Research on extraction and analysis models for job shop's production progress information based on multi-information
+['Extraction model', 'Job shop', 'Multi-information', 'Progress information']

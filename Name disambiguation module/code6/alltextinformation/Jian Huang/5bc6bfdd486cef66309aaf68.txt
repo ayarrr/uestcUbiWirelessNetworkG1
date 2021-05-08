@@ -1,0 +1,2 @@
+Developing map matching algorithm for transportation data center
+['GPS data', 'Hadoop', 'high-performance processing', 'map matching', 'MapReduce']

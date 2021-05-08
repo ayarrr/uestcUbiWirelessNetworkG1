@@ -1,0 +1,2 @@
+An improved analytical method of buried steel pipeline response under strike-slip fault movement
+['Analytical method', 'Beam on elastic foundation', 'Buried pipeline', 'Elastic beam', 'Nonlinear pipe-soil interaction', 'Strike-slip fault']

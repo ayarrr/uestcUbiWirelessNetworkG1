@@ -1,0 +1,2 @@
+Nonlinear disturbance observer-based dynamic surface control for trajectory tracking of pneumatic muscle system
+['Dynamic surface control (DSC)', 'nonlinear disturbance observer', 'pneumatic muscle (PM)', 'tracking control']

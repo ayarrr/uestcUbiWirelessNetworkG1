@@ -1,0 +1,2 @@
+Integration research for steel shelf CAD/CAE calculation and analysis system
+['Mapping algorithm', 'Secondary development', 'Steel structure racks']

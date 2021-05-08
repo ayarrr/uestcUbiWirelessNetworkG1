@@ -1,0 +1,2 @@
+Depth compensation in fluorescence molecular tomography using an adaptive support driven reweighted L1-minimization algorithm
+['Depth compensation', 'Fluorescence molecular tomography', 'Reweighted L1-minimization', 'Spatially variant regularization']

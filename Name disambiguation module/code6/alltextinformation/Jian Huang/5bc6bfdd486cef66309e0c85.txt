@@ -1,0 +1,2 @@
+Design and application of an intelligent robotic gripper for accurate and tolerant electronic connector mating
+['Fault detection and diagnosis', 'Hybrid assembly cell', 'Robotic hand', 'Sensor']

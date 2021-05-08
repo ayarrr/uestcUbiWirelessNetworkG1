@@ -1,0 +1,2 @@
+Experimental study on AE characteristics of three-point-bending concrete beams
+['(AE)', 'Acoustic emission', 'Brittleness', 'Concrete', 'Microcracking']

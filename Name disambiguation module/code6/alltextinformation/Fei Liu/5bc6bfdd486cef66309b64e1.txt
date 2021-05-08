@@ -1,0 +1,2 @@
+Networked fault diagnosis expert system of hobbing machine
+['Diagnosis', 'Expert systems', 'Hobbing machine', 'Knowledge engineering', 'SPF tree']

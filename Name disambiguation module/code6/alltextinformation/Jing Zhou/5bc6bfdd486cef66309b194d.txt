@@ -1,0 +1,2 @@
+Half-metallic silicene and germanene nanoribbons: Towards high-performance spintronics device
+['First-principles calculation', 'Germanene nanoribbon', 'Half-metallicity', 'Silicene nanoribbon', 'Spin field effect transistor', 'Spin-filter']

@@ -1,0 +1,2 @@
+On weightd scale-free network model with tunable clustering and congesstion
+['Clustering coefficient', 'Congestion', 'Scale-free network', 'Weighted network']

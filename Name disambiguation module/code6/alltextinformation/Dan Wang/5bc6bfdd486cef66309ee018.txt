@@ -1,0 +1,2 @@
+Tribological behaviors between commercial pure titanium sheet and tools in warm forming
+['coefficient of friction', 'CP-3 titanium sheet', 'lubrication', 'warm forming']

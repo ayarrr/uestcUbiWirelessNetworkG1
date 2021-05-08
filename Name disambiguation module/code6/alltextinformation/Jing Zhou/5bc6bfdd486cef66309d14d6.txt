@@ -1,0 +1,2 @@
+Tunable bandgap in silicene and germanene
+['band gap', 'electric field', 'first-principles calculation', 'germanene', 'quantum transport', 'Silicene']

@@ -1,0 +1,2 @@
+Thermo-mechanical coupled 3D-FE modeling of heat rotary draw bending for large-diameter thin-walled CP-Ti tube
+['CP-Ti tube', 'FE modeling', 'Heat bending', 'Temperature effect', 'Thermo-mechanical coupled model']

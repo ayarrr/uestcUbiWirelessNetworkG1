@@ -1,0 +1,2 @@
+Fabrication of nanocrystalline diamond film for cold cathode in plasma display panels
+['EA-HFCVD', 'High 7', 'Nano-crystalline diamond film', 'Transmittance']

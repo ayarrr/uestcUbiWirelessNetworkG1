@@ -1,0 +1,2 @@
+Stability of networked control systems with time-delays governed by Markov chains
+['Linear matrix inequalities (LMIs)', 'Markov processes', 'Mean square stability', 'Networked control systems', 'Networked-induced delay']

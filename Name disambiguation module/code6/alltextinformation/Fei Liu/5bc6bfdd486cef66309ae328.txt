@@ -1,0 +1,2 @@
+A measuring method for angular displacement based on correlation algorithm
+['Angular disposition', 'Correlation algorithm', 'Measurement', 'Signal processing']

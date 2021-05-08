@@ -1,0 +1,2 @@
+Controlling uncertain fuzzy neutral dynamic systems with Markov jumps
+['Linear matrix inequality (LMI)', 'Neutral Markov jump system (MJS)', 'Takagi-Sugeno fuzzy model', 'Time-delay', 'Uncertainty']

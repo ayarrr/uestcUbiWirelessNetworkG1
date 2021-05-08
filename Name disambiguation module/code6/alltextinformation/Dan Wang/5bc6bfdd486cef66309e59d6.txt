@@ -1,0 +1,2 @@
+Review on European research projects of virtual power plant
+['Aggregation', 'Communication', 'Distributed energy resources', 'Distributed generator', 'Renewable energy sources', 'Virtual power plant']

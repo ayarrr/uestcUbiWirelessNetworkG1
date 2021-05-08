@@ -1,0 +1,2 @@
+A fully integrated CMOS complex filter for IEEE802.15.4 standard
+['Complex filter', 'Frequency tuning', 'OTA']

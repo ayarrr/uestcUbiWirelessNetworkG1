@@ -1,0 +1,2 @@
+Short-term scheduling of active distribution network integrated with electric vehicle battery swap stations
+['active distribution network', 'battery swap station', 'electric vehicle', 'renewable distributed generation']

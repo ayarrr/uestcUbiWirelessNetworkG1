@@ -1,0 +1,2 @@
+Experiments on an offshore platform model by FBG sensors
+['Fiber bragg grating optic sensor', 'Offshore platform', 'Structural health monitoring']

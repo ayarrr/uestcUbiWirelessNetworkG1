@@ -1,0 +1,2 @@
+Adaptive fuzzy tracking control for the chaotic permanent magnet synchronous motor drive system via backstepping
+['Adaptive control', 'Backstepping', 'Chaos control', 'Fuzzy control', 'Nonlinear system', 'Permanent magnet synchronous motor']

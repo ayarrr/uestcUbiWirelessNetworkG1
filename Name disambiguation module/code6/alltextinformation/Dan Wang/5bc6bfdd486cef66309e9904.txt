@@ -1,0 +1,2 @@
+A generalized online self-constructing fuzzy neural network
+['Dissymmetrical Gaussian function', 'Extended Kalman filter', 'Fuzzy neural network', 'Online self-constructing']

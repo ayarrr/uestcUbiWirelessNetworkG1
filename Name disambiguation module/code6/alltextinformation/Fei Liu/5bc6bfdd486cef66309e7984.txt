@@ -1,0 +1,2 @@
+Adjacent-compensation consensus algorithm in asynchronously coupled form for second-order multiagent network under communication delay
+['']

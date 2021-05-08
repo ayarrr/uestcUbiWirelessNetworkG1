@@ -1,0 +1,2 @@
+Study on mechanical property of rusty rebar based on probability analysis
+['Corrosion pit', 'Probability', 'Rusty rebar', 'Stochastic finite element method', 'Stress distribution']

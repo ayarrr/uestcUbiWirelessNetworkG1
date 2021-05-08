@@ -1,0 +1,2 @@
+The controller on RBF fuzzy neural network of the laying pipe manipulator
+['Laying pipe manipulator', 'RBF fuzzy neural network', 'RBF fuzzy neural network controller']

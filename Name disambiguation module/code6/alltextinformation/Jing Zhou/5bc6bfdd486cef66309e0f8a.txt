@@ -1,0 +1,2 @@
+Development of health monitoring system for ocean offshore platform with fiber bragg grating sensors
+['FBG', 'Platform', 'SHM', 'Strain sensor', 'Temperature sensor']

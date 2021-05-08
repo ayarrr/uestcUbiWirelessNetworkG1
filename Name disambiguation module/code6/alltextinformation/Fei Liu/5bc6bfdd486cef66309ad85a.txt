@@ -1,0 +1,2 @@
+A combined fluorescence and microcomputed tomography system for small animal imaging
+['Dual-modal imaging', 'fluorescence molecular tomography (FMT)', 'image reconstruction', 'micro-cone-beam computed tomography (micro-CBCT)']

@@ -1,0 +1,2 @@
+Traffic rate control based on incentive Stackelberg strategy
+['Incentive Stackelberg strategy', 'Pricing', 'Rate control']

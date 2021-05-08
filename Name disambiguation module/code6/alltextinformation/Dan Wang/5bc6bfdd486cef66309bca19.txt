@@ -1,0 +1,2 @@
+Research of STATCOM based on multi-winding-transformer-isolated converter
+['Cascade', 'Harmonic distortion factor', 'Multi-winding-transformer-isolated converter', 'Phase-shifted SPWM', 'Static synchronous compensator']

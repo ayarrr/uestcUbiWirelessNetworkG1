@@ -1,0 +1,2 @@
+Numerical study on the supercritical evaporation of dimethyl ether droplets
+['Dimethyl ether (DME)', 'Evaporation', 'Numerical simulation', 'Supercriticality']

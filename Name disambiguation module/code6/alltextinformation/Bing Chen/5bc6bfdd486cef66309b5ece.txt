@@ -1,0 +1,2 @@
+Approximation-based adaptive neural control design for a class of nonlinear systems
+['Adaptive neural control', 'function approximation technique', 'nonlinear systems', 'radial basis function neural networks']

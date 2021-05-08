@@ -1,0 +1,2 @@
+Resistance property to intergranular corrosion of HastelloyC-4 welding joint
+['HastelloyC-4', 'Intergranular corrosion', 'Solid solution treatment', 'Welding joint']

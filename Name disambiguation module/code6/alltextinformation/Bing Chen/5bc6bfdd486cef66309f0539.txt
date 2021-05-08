@@ -1,0 +1,2 @@
+Observer-based adaptive neural control for a class of nonlinear pure-feedback systems
+['Adaptive control', 'Backstepping', 'Neural networks', 'Nonlinear pure-feedback systems', 'Observer']

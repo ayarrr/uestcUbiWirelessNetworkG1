@@ -1,0 +1,2 @@
+Division of beijing road based on the driving pattern
+['Division of road link', 'Driving pattern', 'Energy consumption']

@@ -1,0 +1,2 @@
+Compact beam splitters based on self-imaging phenomena in one-dimensional photonic crystal waveguides
+['']

@@ -1,0 +1,2 @@
+Effect of aggregate on the fracture behavior of high strength concrete
+['Acoustic emission (AE)', 'Aggregate', 'Fracture energy (GF)']

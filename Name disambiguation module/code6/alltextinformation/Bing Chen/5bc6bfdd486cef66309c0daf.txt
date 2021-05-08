@@ -1,0 +1,2 @@
+A novel adaptive fuzzy control design for a class of strict-feedback stochastic nonlinear systems
+['Adaptive control', 'Backstepping', 'Fuzzy control', 'Stochastic nonlinear systems']

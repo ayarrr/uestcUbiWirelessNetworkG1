@@ -1,0 +1,2 @@
+Evidence for κ meson production in J/ψ → K̄*(892)
+['κ', 'J/ψ decays', 'K*(892)0Kπ', 'Low mass scalar']

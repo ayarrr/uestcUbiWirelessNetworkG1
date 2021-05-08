@@ -1,0 +1,2 @@
+Decision model for implementation order of green manufacturing technologies based on synergetic benefits
+['Green manufacturing technology', 'Implementation order', 'Synergetic benefit']

@@ -1,0 +1,2 @@
+Analyzing the factors affecting ball screw pair contact deformation
+['Ball screw pair', 'Contact angle', 'Contact deformation', 'Finite element model', 'Helix angle']

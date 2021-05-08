@@ -1,0 +1,2 @@
+A vehicle magnetic noise compensation method for the tetrahedron magnetic gradiometer
+['Error compensation', 'Magnetic field', 'Magnetic gradient tensor', 'Magnetic sensor']

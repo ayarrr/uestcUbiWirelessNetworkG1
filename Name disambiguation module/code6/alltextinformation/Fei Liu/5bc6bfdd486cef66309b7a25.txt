@@ -1,0 +1,2 @@
+A disassembly capability planning model for the make-to-order remanufacturing system
+['Disassembly capability', 'Machine tool', 'Newsboy model']

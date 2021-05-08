@@ -1,0 +1,2 @@
+On synchronizability of weighted scale-free networks considering triangle formation
+['Scale-free networks', 'Synchronizability', 'Triangle formation']

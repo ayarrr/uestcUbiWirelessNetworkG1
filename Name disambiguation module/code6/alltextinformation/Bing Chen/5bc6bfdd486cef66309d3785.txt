@@ -1,0 +1,2 @@
+Population pharmacokinetic study of cyclosporine in Chinese renal transplant recipients
+['Cyclosporine (CsA)', 'CYP3A5', 'Haplotype', 'Multidrug resistance gene (MDR1)', 'Polymorphism', 'Population pharmacokinetics (PPK)', 'Renal transplant']

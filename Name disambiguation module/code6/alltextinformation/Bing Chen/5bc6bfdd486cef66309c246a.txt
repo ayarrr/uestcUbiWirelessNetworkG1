@@ -1,0 +1,2 @@
+Antisense to cyclin D1 reverses the transformed phenotype of human gastric cancer cells
+['Cyclin D1', 'Gene therapy', 'RNA, antisense', 'Stomach neoplasms']

@@ -1,0 +1,2 @@
+Robust leader-follower formation tracking control of multiple underactuated surface vessels
+['backstepping', 'formation control', 'leader-follower', 'marine surface vessel', 'neural network']

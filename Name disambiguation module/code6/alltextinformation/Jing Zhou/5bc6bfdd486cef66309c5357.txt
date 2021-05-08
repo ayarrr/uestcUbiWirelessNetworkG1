@@ -1,0 +1,2 @@
+Experimental study of the hydrodynamic force on a pipeline subjected to vertical seabed movement
+['Free spanning submarine pipelines', 'Hydrodynamic force', 'Model tests', 'Vertical earthquake']

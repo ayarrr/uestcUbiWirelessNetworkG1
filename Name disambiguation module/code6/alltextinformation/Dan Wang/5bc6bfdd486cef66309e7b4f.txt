@@ -1,0 +1,2 @@
+Bifurcation characteristics and control of a mass-spring-belt friction self-excited vibration system
+['Bifurcation control', 'Friction model', 'Self-excited vibration', 'Washout filter']

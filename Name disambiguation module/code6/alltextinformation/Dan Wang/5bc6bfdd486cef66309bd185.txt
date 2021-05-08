@@ -1,0 +1,2 @@
+Flank milling for blisk with a barrel ball milling cutter
+['Barrel ball milling cutter', 'Blisk', 'Five-aixs machining', 'Flank milling']

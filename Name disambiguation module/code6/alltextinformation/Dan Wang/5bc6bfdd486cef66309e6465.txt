@@ -1,0 +1,2 @@
+Stiffness characteristics distribution of 3PRS/UPS parallel manipulator with actuation redundancy
+['Evaluation index', 'Parallel manipulator with actuation redundancy', 'Screw theory', 'Stiffness characteristics']

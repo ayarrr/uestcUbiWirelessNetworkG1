@@ -1,0 +1,2 @@
+Measurement of difference of half-life of 
+['Electron affinity', 'Electron capture', 'Half-life', 'Lattice structure']

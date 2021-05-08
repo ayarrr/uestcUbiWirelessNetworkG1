@@ -1,0 +1,2 @@
+CAD/CAE integrated modeling method based on characteristic domain and structure component
+['Characteristic domain', 'Computer aided design', 'Computer aided engineering', 'Integrated modeling', 'Structure component']

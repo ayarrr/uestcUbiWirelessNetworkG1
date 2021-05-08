@@ -1,0 +1,2 @@
+Effect of APP 5-mer peptide on production and differentiation of cultured embryo hippocampal neural stem cells originated from SD rats
+['APP 5-mer peptide', 'Differentiation', 'Hippocampal', 'NSCs', 'Primary cell culture', 'Production', 'Rat']

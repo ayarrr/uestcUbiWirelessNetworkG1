@@ -1,0 +1,2 @@
+Partly input-adjusting neural network and its application in nonlinear data reconstruction
+['Data reconstruction', 'Nonlinear process', 'Partly input-adjusting neural network', 'Principal component analysis (PCA)']

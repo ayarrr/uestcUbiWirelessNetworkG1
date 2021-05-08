@@ -1,0 +1,2 @@
+Near infrared spectroscopy synergy interval wavelength selection method using the LSSVM model
+['Data of apple sugar', 'Near infrared spectrum', 'Nonlinear factors', 'Synergy interval least squares support vector machines', 'Wavelength selection']

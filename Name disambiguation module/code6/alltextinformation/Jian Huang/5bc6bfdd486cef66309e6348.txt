@@ -1,0 +1,2 @@
+Deep level transient spectroscopy system designed by LabVIEW
+['Component', 'DLTS', 'LabVIEW', 'PICTS']

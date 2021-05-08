@@ -1,0 +1,2 @@
+General local routing on complex networks
+['routing strategy', 'scale-free network', 'traffic']

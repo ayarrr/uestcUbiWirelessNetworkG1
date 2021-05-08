@@ -1,0 +1,2 @@
+Optimization dispatch modeling for price-based demand response considering security constraints to accommodate the wind power
+['Demand response', 'Interaction satisfaction', 'Optimization dispatch model', 'Price-elasticity', 'Security constraints', 'Wind power accommodation']

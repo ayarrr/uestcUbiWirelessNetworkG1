@@ -1,0 +1,2 @@
+Performance investigation of square concrete-fi lled steel tube columns
+['Columns', 'Concrete', 'Concrete filled steel tubes', 'Expansive agent', 'Ultimate capacity']

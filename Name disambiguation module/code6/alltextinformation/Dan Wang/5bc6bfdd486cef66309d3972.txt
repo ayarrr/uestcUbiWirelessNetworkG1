@@ -1,0 +1,2 @@
+New type parallel robot manipulator of stone machining
+['Configuration design', 'Parallel robot manipulator', 'Stone machining']

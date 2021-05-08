@@ -1,0 +1,2 @@
+On-line nonlinear process monitoring based on sparse kernel principal component analysis
+['Nonlinear process', 'On-line monitoring', 'Sparse kernel principal component analysis']

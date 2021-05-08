@@ -1,0 +1,2 @@
+Characterization of CdMnTe crystal grown with vertical Bridgman method under Te-rich conditions
+['CdMnTe', 'Detectors', 'Resistivity', 'Te antisite']

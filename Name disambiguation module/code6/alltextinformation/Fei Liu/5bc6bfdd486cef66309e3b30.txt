@@ -1,0 +1,2 @@
+Guaranteed cost control for fuzzy bilinear systems with uncertain parameters
+['Fuzzy bilinear system (FBS)', 'Guaranteed cost control', 'Linear matrix inequality (LMI)', 'Parametric uncertainty', 'Takagi-Sugeno (T-S)']

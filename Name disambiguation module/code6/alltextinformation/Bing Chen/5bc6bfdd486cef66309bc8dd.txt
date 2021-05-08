@@ -1,0 +1,2 @@
+Robust adaptive control for a class of hyperchaotic systems using neural network
+['Adaptive control', 'Hyperchaotic system', 'Neural network control']

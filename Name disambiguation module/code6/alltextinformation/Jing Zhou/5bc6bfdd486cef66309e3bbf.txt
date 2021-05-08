@@ -1,0 +1,2 @@
+The further investigation of the true time delay unit based on discrete fiber Bragg gratings
+['Discrete fiber Bragg gratings', 'Phased array antenna', 'True time delay']

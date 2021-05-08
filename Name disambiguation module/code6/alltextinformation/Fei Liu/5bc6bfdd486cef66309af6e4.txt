@@ -1,0 +1,2 @@
+Simplex region in pocket milling and its recognition method
+['Machining region', 'Milling', 'Pocket', 'Simplex region in pocket milling']

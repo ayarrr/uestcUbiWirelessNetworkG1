@@ -1,0 +1,2 @@
+MicroRNA-26a regulates glucose metabolism by direct targeting PDHX in colorectal cancer cells
+['Colorectal cancer', 'Glucose metabolism', 'MicroRNA-26a', 'PDHX']

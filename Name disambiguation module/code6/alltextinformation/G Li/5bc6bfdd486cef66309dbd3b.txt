@@ -1,0 +1,2 @@
+Effect of ion species on implantation-produced disorder in GaN at liquid nitrogen temperature
+['Collision cascade', 'Defects', 'GaN', 'Ion implantation']

@@ -1,0 +1,2 @@
+Networked optimal decision support system for cutting parameters
+['Cutting parameters', 'Networked', 'Ontology', 'Optimal decision']

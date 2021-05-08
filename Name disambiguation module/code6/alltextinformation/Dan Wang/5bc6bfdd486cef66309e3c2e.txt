@@ -1,0 +1,2 @@
+Development of a prototypical tester with gene chips to simulate robot's motion and analysis of its reliability
+['Gene chip', 'Hybridization', 'Polymerase chain reaction amplification', 'Reliability', 'Robot', 'Simulation']

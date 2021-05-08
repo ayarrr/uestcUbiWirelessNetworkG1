@@ -1,0 +1,2 @@
+Consensus problem of second-order multi-agent systems with time-varying communication delay and switching topology
+['Lyapunov-Krasovskii', 'Lyapunov-Razumikhin', 'Second-order multi-agent system', 'Switching topology', 'Time-varying communication delay']

@@ -1,0 +1,2 @@
+A direct method with structural priors for imaging pharmacokinetic parameters in dynamic fluorescence molecular tomography
+['Fluorescence tomography', 'pharmacokinetics imaging', 'reconstruction algorithm', 'structural priors (SPs)']

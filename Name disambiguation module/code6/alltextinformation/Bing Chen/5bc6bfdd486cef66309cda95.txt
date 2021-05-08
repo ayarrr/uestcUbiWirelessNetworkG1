@@ -1,0 +1,2 @@
+Mapping of the minimal internal ribosome entry site element in the human embryonic stem cell gene OCT4B mRNA
+['Internal initiation', 'Internal ribosome entry site', 'OCT4', 'Translation']

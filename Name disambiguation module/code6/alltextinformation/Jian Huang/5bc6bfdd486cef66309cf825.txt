@@ -1,0 +1,2 @@
+The dependence of Zn content on thermal treatments for Cd 1-xZnxTe thin films deposited by close-spaced sublimation
+['CdZnTe thin films', 'Close-spaced sublimation', 'Thermal treatment']

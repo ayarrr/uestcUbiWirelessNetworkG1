@@ -1,0 +1,2 @@
+Semantic-based integration framework for collaborative manufacturing execution platform
+['Collaborative manufacturing', 'Integration framework', 'Integration object', 'Semantic']

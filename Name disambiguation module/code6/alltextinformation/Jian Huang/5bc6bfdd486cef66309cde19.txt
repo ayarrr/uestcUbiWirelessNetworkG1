@@ -1,0 +1,2 @@
+Robust stabilization of uncertain networked control systems with data packet dropouts
+['Impulsive difference system', 'Linear matrix inequality', 'Networked control systems', 'Robust stabilization']

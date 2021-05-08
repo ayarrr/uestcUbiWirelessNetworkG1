@@ -1,0 +1,2 @@
+H-infinity control for continuous stirred tank reactor based on Takagi-Sugeno fuzzy bilinear models
+['Continuous stirred tank reactor (CSTR)', 'Free matrix variables', 'H-infinity control', 'Linear matrix inequalities (LMIs)', 'Takagi-Sugeno (T-S) fuzzy bilinear models']

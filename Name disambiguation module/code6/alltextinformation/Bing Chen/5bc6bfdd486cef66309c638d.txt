@@ -1,0 +1,2 @@
+Direct adaptive fuzzy tracking control for a class of perturbed strict-feedback nonlinear systems
+['Backstepping approach', 'Direct adaptive control', 'Fuzzy control', 'Nonlinear systems']

@@ -1,0 +1,2 @@
+H∞ filtering for discrete-time systems with stochastic incomplete measurement and mixed delays
+['Discrete-time systems', 'H∞ filtering', 'Random discrete delays', 'Random distributed delays', 'Random incomplete measurement']

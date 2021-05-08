@@ -1,0 +1,2 @@
+The enhancement of cancer stem cell properties of MCF-7 cells in 3D collagen scaffolds for modeling of cancer and anti-cancer drugs
+['Breast cancer stem cells', 'Collagen scaffolds', 'EMT', 'MCF-7', 'Three-dimensional culture']

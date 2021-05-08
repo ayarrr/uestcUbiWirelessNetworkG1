@@ -1,0 +1,2 @@
+Dynamic switching-frequency scaling: Scheduling overcommitted domains in xen VMM
+['Credit scheduler', 'Dynamic switching-frequency scaling', 'Variable time slice', 'Virtualization', 'Xen']

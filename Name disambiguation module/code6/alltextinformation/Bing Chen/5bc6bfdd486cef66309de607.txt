@@ -1,0 +1,2 @@
+Intranasal immunization with chitosan-DNA nanoparticles expressing pneumococcal polyamine transport protein D(PotD) protects mice against Streptococcus pneumoniae nasopharyngeal colonization
+['Chitosan', 'Mucosal immunization', 'Nanoparticles', 'PotD', 'Streptococcus pneumoniae']

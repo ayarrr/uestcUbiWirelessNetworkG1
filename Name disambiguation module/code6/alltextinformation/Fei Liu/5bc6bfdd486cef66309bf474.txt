@@ -1,0 +1,2 @@
+Novel structure for distributed numerical control
+['CAM', 'CANBus', 'Distributed numerical control', 'Field bus', 'Manufacturing automation']

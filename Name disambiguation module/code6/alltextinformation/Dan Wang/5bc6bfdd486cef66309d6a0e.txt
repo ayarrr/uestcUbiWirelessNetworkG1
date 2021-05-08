@@ -1,0 +1,2 @@
+Fast optimization design with multi-requirements based on the analysis of partial correlation
+['Aerodynamic optimization design', 'Analysis of linear regression', 'Analysis of partial correlation', 'Multi-requirements optimization method', 'Optimization design model']

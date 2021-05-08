@@ -1,0 +1,2 @@
+Adaptive neural tracking control for a class of pure-feedback stochastic nonlinear systems
+['Adaptive control', 'Back stepping', 'Neural control', 'Pure-feedback systems', 'Stochastic nonlinear systems']

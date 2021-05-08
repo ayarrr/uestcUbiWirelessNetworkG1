@@ -1,0 +1,2 @@
+Simulation of non-stationary spatial correlative time histories of multi-point ground motion
+['Ground motion simulation', 'Multi-support excitation', 'Non-stationary', 'Spatial correlation']

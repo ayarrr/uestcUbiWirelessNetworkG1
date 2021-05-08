@@ -1,0 +1,2 @@
+Compact wavelength splitter based on self-imaging principles in Bragg reflection waveguides
+['']

@@ -1,0 +1,2 @@
+Adaptive neural position tracking control for induction motors via back stepping
+['Adaptive control', 'Back stepping', 'Induction motor', 'Neural networks', 'Nonlinear system', 'Uncertainty']

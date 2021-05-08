@@ -1,0 +1,2 @@
+Project multi-risk analysis based on method of membership matrix amendment
+['Expert method', 'Membership matrix', 'Monte Carlo method', 'Risk management']

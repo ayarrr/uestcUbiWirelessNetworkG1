@@ -1,0 +1,2 @@
+Pipe walking-lateral buckling interaction
+['Buckling', 'Pipes', 'Temperature effects', 'Underwater pipelines']

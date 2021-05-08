@@ -1,0 +1,2 @@
+Multivariable feedback linearization scheme for new excitation systems based on full controlled devices
+['Damping', 'Exciter control', 'Multivariable linearization feedback', 'Nonlinear control', 'Reactive power compensation']

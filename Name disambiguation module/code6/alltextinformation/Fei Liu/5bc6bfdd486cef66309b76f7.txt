@@ -1,0 +1,2 @@
+A production schedule obtaining method based on information spreading relationship network in manufacturing process
+['Evolving network', 'Information spreading relationship network in manufactory process(ISRNMP)', 'Manufacturing schedule distilling', 'Model of manufacturing network']

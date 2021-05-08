@@ -1,0 +1,2 @@
+Flexibility-based method for damage localization of truss structures
+['Damage localization', 'Modal flexibility', 'Truss structure']

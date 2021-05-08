@@ -1,0 +1,2 @@
+State-of-the-art of statistical identification for structural health diagnosis in civil engineering
+['Civil engineering', 'Probabilistic neural network', 'Statistical pattern recognition', 'Statistical system identification', 'Structural health diagnosis']

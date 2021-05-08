@@ -1,0 +1,2 @@
+Active coupling and its circuitry designs of chaotic systems against deteriorated and delayed networks
+['Active couplings', 'Chaotic systems', 'Circuitry designs', 'Network deterioration', 'Synchronization', 'Time delays']

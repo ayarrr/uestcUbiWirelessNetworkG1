@@ -1,0 +1,2 @@
+The impact of charging plug-in electric vehicles on distribution system considering spatial and temporal distribution
+['Charging load model', 'Coordinated charging', 'Electric distribution system', 'Plug-in electric vehicle', 'Spatial and temporal distribution']

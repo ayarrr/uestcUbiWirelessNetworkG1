@@ -1,0 +1,2 @@
+Hydrodynamic forces on rigid free spanning submarine pipelines during an earthquake
+['Earthquake', 'Free spanning submarine pipelines', 'Hydrodynamics', 'Model tests']

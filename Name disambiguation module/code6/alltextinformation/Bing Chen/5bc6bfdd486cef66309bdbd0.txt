@@ -1,0 +1,2 @@
+Properties of lightweight expanded polystyrene concrete reinforced with steel fiber
+['Compressive strength', 'Concrete', 'EPS', 'Fiber reinforcement', 'Silica fume']

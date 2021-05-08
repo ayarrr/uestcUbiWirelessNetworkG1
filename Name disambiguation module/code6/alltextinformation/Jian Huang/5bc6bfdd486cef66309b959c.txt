@@ -1,0 +1,2 @@
+Incremental feedback learning methods for voice recognition based on DTW
+['DTW', 'Incremental Feedback Learning', 'Time Warping Average', 'Voice Recognition']

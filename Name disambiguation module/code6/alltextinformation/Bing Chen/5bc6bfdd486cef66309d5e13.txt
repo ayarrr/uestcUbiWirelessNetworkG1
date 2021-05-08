@@ -1,0 +1,2 @@
+A delay-dependent approach to robust H∞ control for uncertain stochastic systems with state and input delays
+['H∞ control', 'Input delay', 'LMIs', 'Stochastic systems']

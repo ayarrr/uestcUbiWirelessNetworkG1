@@ -1,0 +1,2 @@
+Dynamical consensus seeking of second-order multi-agent systems based on delayed state compensation
+['Communication delay', 'Consensus', 'Delayed state compensation', 'Second-order multi-agent systems']

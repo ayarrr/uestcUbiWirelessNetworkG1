@@ -1,0 +1,2 @@
+Research on readout circuit for PVDF pyroelectric infrared detector
+['CTIA', 'IR', 'pyroelectric', 'ROIC', 'SFD', 'uncooled']

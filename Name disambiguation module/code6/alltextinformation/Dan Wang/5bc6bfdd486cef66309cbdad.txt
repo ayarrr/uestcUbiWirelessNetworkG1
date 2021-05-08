@@ -1,0 +1,2 @@
+Sensorless control of a stand-alone Doubly fed induction machine for ship shaft generator systems
+['']

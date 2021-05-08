@@ -1,0 +1,2 @@
+A fast foreground digital calibration technique for pipelined ADC
+['Error estimation', 'Foreground digital calibration', 'Gain error', 'Pipelined Analog-to-Digital Converter (ADC)']

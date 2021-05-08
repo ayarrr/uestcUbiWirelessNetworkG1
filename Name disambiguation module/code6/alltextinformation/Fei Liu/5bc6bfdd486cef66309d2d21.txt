@@ -1,0 +1,2 @@
+Dispersion equation of three-dimensional unstable disturbing wave on surface of a viscous liquid jet with evaporating
+['Dispersion equation', 'Instability', 'Jet']

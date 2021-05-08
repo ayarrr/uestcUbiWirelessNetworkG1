@@ -1,0 +1,2 @@
+The boosting mechanism and effects in cavity during hydrajet fracturing process
+['boosting mechanism', 'cavity', 'effects', 'experiment', 'hydrajet fracturing', 'numerical simulation']

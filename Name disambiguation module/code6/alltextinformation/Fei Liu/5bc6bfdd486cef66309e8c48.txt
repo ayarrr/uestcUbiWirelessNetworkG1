@@ -1,0 +1,2 @@
+Robust finite-time stabilization of uncertain fuzzy jump systems
+['Finite-time stabilization', 'Linear matrix inequalities', 'Markov jump systems', 'Takagi-sugeno fuzzy models', 'Uncertainties']

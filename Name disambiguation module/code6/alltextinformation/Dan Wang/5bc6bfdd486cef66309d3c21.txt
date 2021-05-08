@@ -1,0 +1,2 @@
+Analysis and simulation of fault characteristics of power switch failures in distribution electronic power transformers
+['Cascaded H-bridge rectifier', 'DC-DC converter', 'Electronic power transformer (EPT)', 'Fault characteristics', 'Inverter', 'Open-circuit fault', 'Short-circuit fault']

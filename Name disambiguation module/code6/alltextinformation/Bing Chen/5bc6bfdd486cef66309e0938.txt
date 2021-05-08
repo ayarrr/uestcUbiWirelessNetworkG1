@@ -1,0 +1,2 @@
+Vibration and noise analysis of an exhaust piping system based on stastical energy analysis
+['AutoSEA2004 softuare', 'Piping system', 'Sound pressure level', 'Statistical energy analysis (SEA)']

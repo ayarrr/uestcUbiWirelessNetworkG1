@@ -1,0 +1,2 @@
+Simulation analysis system for MLRS initial disturbance based on virtual prototype
+['Initial disturbance', 'MLRS', 'Simulation', 'Virtual prototype']

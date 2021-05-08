@@ -1,0 +1,2 @@
+Discrete-time variable structure control method for adjacent buildings with time delay in control
+['Adjacent building', 'Discrete variable structure control', 'Time-delay in control']

@@ -1,0 +1,2 @@
+Gain-Scheduled Worst-Case Control on Nonlinear Stochastic Systems Subject to Actuator Saturation and Unknown Information
+['Actuator saturation', 'Continuous gain scheduling', 'Hybrid systems', 'Markov jump system', 'Nonlinear equations and systems', 'Stochastic stability', 'Unknown information', 'Worst-case control']

@@ -1,0 +1,2 @@
+Observer-based H∞ control for uncertain time-delay systems with Markov jumps
+['H∞ control', 'Linear matrix inequality', 'Markov jump systems', 'Observer', 'Uncertain time-delay']

@@ -1,0 +1,2 @@
+Observer-based finite-time control of time-delayed jump systems
+['Finite-time boundedness', 'Finite-time H∞ controller', 'Finite-time stabilization', 'Linear matrix inequalities', 'Markov jump systems', 'Time-delays']

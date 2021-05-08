@@ -1,0 +1,2 @@
+Direct measurement of electric field-induced strains of a single lead zirconate titanate piezoelectric ceramic fibre under various conditions
+['B. Fibres', 'C. Piezoelectric properties', 'D. PZT', 'E. Actuators']

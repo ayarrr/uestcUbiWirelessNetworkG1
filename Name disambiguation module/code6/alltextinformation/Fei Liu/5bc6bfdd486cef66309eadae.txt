@@ -1,0 +1,2 @@
+State-of-the-art of machining dust researches and their framework
+['Framework', 'Green manufacturing', 'Machining dust', 'Research summary']

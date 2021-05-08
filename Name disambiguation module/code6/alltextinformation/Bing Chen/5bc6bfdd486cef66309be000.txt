@@ -1,0 +1,2 @@
+Direct adaptive neural control for strict-feedback stochastic nonlinear systems
+['Backstepping', 'Direct adaptive control', 'Neural network', 'Separation technique', 'Stochastic nonlinear systems']

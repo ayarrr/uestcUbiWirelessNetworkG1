@@ -1,0 +1,2 @@
+Research on information systems based on green manufacturing and its key technologies for automotive manufacturing enterprises
+['Green manufacturing', 'Information system', 'RFID', 'Semantic Web service']

@@ -1,0 +1,2 @@
+A key component extraction method based on HMM and dependency parsing
+['dependency parsing', 'HMM', 'key component', 'segmentation', 'sentence pattern']

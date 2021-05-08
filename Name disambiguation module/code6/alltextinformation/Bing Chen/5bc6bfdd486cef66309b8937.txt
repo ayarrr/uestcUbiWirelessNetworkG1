@@ -1,0 +1,2 @@
+Simulation and analysis of mechanical properties of large rotating steel structure based on CAE technology
+['Finite element analysis', 'Large rotating steel structure', 'Stress testing']

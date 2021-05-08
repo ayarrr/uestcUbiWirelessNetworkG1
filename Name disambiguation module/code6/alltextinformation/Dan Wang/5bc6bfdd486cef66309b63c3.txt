@@ -1,0 +1,2 @@
+Robust synchronization of a class of complex networks with nonlinear couplings via a sliding mode control method
+['Complex Networks', 'Nonlinear Couplings', 'Sliding Mode Control', 'Synchronization']

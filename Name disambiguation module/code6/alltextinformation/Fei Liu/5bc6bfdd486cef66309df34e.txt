@@ -1,0 +1,2 @@
+A manufacturability-oriented two-stage optimization method for one-dimensional cutting stock problem
+['Column generation algorithm', 'Cutting stock', 'Manufacturability', 'NP-complete problems']

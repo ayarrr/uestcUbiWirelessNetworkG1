@@ -1,0 +1,2 @@
+Nonlinear process monitoring method based on kernel independent component analysis
+['Kernel independent component analysis', 'Monitoring indices', 'Nonlinear process', 'Process monitoring']

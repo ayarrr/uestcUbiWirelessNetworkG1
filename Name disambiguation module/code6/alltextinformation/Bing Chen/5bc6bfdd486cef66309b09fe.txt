@@ -1,0 +1,2 @@
+Comments on "Adaptive fuzzy H∞ stabilization for strict-feedback canonical nonlinear systems via backstepping and small-gain approach"
+['Adaptive control', 'Adaptive Control', 'Backstepping', 'Fuzzy control', 'H∞ control', 'Uncertainty']

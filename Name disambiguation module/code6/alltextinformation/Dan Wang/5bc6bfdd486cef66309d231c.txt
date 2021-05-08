@@ -1,0 +1,2 @@
+Distribution characteristics of different salt ions in soil under drip irrigation with saline water
+['Drip irrigation', 'Saline water', 'Salt ions distribution', 'Tomato']

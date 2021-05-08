@@ -1,0 +1,2 @@
+Study on the spectrum improvement of a capacitive Frisch grid structure for CdZnTe Detector
+['Capacitive Frisch grid structure', 'CdZnTe Detector', 'Energy resolution']

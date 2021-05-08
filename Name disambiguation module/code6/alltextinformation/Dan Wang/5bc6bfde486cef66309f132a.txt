@@ -1,0 +1,2 @@
+Aerodynamic shape optimization design of the swept wing based on the Kriging surrogate model
+['Free form deformation (FFD)', 'Genetic algorithm', 'Kriging model', 'Shape optimization design', 'Swept wing']

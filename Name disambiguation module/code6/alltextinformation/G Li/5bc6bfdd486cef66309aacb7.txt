@@ -1,0 +1,2 @@
+Control of the pulse duration in a diode-pumped passively Q-switched intracavity frequency-doubling laser
+['']

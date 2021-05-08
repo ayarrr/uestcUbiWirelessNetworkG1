@@ -1,0 +1,2 @@
+Experimental study of hydrodynamic forces on free spanning submarine pipelines under earthquake
+['Earthquake', 'Free spanning submarine pipelines', 'Hydrodynamic force', 'Model tests']

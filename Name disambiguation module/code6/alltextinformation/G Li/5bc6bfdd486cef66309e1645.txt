@@ -1,0 +1,2 @@
+Improving the thermoelectric properties of Sr0.9La 0.1TiO3 by Ag addition
+['Ag addition', 'Sr0.9La0.1TiO3', 'Thermoelectric properties']

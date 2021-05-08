@@ -1,0 +1,2 @@
+Quantitative assessment method for interactive impact of flexible load
+['Flexible load', 'Interactive effect', 'Interactive impact', 'Interactive power flow entropy', 'Quantitative assessment']

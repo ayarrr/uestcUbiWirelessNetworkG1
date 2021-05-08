@@ -1,0 +1,2 @@
+Investigation of resistive switching in graphite-like carbon thin film for non-volatile memory applications
+['Graphite-like carbon film', 'Magnetron sputtering', 'Resistance random access memory']

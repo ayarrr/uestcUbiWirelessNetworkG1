@@ -1,0 +1,2 @@
+Least Favorable Probability of Failure for 5-and 10-story RC Frame Structures with Vertical Irregularities
+['Frame Structure', 'Inter-Story Drift', 'Limit State', 'Probability Of Failure', 'Reinforced Concrete', 'Vertical Irregularities']

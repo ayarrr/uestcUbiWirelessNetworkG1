@@ -1,0 +1,2 @@
+Approximation-based adaptive fuzzy control for a class of non-strict-feedback stochastic nonlinear systems
+['adaptive control', 'back-stepping approach', 'fuzzy control', 'in non-strict-feedback form', 'stochastic nonlinear systems']

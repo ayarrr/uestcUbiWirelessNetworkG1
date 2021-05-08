@@ -1,0 +1,2 @@
+Raman spectrum and ESR of Pr0.5Ca0.4Sr0.1MnO3 
+['A. Magnetically ordered materials', 'D. Electronic transport', 'D. Phase separation']

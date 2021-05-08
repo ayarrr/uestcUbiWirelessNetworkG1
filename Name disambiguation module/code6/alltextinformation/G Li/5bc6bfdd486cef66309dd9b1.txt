@@ -1,0 +1,2 @@
+Doubly Q-switched laser with electric-optic modulator and GaAs saturable absorber
+['Double Q-switches', 'Pulse symmetry', 'Pulse width']

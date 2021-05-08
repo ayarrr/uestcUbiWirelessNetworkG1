@@ -1,0 +1,2 @@
+Electronic structure and stability of ultranarrow single-layer SnS 2 nanoribbons: A first-principles study
+['Density functional theory', 'Electronic structure', 'SnS2 nanoribbons', 'Stability']

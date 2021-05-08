@@ -1,0 +1,2 @@
+Improved cellularization and angiogenesis using collagen scaffolds chemically conjugated with vascular endothelial growth factor
+['Angiogenesis', 'Cellularization', 'Collagen scaffold', 'Degradation', 'Vascular endothelial growth factor']

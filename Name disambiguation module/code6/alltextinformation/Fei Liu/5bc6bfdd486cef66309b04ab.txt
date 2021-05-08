@@ -1,0 +1,2 @@
+Fault detection for a class of Markov jump systems with unknown disturbances
+['Fault detection', 'Linear matrix inequality', 'Markov jump system', 'Optimized observer', 'Random stability']

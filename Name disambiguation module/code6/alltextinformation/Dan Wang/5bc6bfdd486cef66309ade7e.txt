@@ -1,0 +1,2 @@
+Research on application of TCR+FC typed SVC in power quality integrated management for power traction system
+['Instantaneous reactive power', 'Power quality', 'Steinmetz balance principle', 'Theory PSCAD/EMTDC', 'Thyristor controlled reactor (TCR)']

@@ -1,0 +1,2 @@
+Constrained particle filtering methods for state estimation of nonlinear process
+['Bayesian method', 'Constrained particle filter', 'Nonlinear process', 'Process control', 'State estimation', 'Statistical analysis']

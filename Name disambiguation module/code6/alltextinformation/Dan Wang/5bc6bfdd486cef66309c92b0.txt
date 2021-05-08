@@ -1,0 +1,2 @@
+Research on the mapping rules of complex inheritance relationship from CIM to the logic model
+['CIM', 'Inheritance relationship', 'Logical Model', 'Mapping rules']

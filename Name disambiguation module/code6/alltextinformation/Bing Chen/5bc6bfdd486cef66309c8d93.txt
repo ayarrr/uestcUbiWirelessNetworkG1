@@ -1,0 +1,2 @@
+Production of a corneal opacity mouse by N-ethyl-N-nitrosourea mutagenesis and chromosome mapping of the mutant gene
+['Corneal opacity', 'Ethylnitrosourea/pharmacology', 'Gene mapping', 'Mouse', 'Mutagenesis', 'Neovascularization', 'Phenotype']

@@ -1,0 +1,2 @@
+Static experimental study on arch bridge with damaged arch ribs
+['Arch bridge', 'Damage', 'Model test', 'Organic-glasses', 'Strain']

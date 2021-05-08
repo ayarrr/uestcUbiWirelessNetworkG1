@@ -1,0 +1,2 @@
+Passively Q-switched mode-locked Nd3+:LuVO4 laser by LT-GaAs saturable absorber
+['Diode-pumped lasers', 'Mode locking', 'Nd3+:LuVO4', 'Q-switching']

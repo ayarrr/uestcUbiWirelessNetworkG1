@@ -1,0 +1,2 @@
+Realization of quick visualization through coding technique using GIS and its significance
+['Coding', 'GIS', 'Visualization']

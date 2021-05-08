@@ -1,0 +1,2 @@
+Glass formation and local structure evolution in rapidly cooled Pd55Ni45 alloy melt: Molecular dynamics simulation
+['Cluster', 'Glass forming ability', 'Molecular dynamics', 'Pair analysis']

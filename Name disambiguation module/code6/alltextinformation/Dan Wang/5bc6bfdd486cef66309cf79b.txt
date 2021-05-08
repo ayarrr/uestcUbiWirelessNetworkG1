@@ -1,0 +1,2 @@
+Staircase control of hybrid cascaded multi-level inverter
+['cascaded multi-level inverter', 'digital signal processor', 'hybrid', 'staircase control', 'total harmonic distortion']

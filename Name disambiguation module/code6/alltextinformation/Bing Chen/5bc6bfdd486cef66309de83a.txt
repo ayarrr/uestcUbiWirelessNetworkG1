@@ -1,0 +1,2 @@
+Optimization of pouring process and gating system by mold filling simulation
+['Investment casting', 'Mold filling simulation', 'Pouring process and gating system', 'ProCAST']

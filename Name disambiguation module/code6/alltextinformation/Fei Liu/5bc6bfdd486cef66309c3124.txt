@@ -1,0 +1,2 @@
+Gain scheduled L-two-L-infinity filtering for neutral systems with jumping and time-varying parameters
+['Exponential stochastic stability', 'Gain scheduling', 'L-two-L-infinity filtering', 'Markov jump', 'Time-varying neutral system']

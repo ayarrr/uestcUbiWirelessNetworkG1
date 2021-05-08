@@ -1,0 +1,2 @@
+Adaptive neural tracking control for stochastic nonlinear strict-feedback systems with unknown input saturation
+['Adaptive neural tracking control', 'Backstepping technique', 'Input saturation', 'Stochastic nonlinear system']

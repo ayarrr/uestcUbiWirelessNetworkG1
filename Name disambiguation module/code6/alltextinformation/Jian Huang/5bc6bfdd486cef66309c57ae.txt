@@ -1,0 +1,2 @@
+The research of package for CdZnTe detector based on the capacitive frisch grid structure
+['Capacitive frisch grid detector', 'CZT', 'Design', 'Package']

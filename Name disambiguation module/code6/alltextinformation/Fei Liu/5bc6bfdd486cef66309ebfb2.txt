@@ -1,0 +1,2 @@
+Green manufacturing operation model for machine tool industry oriented to product life cycle
+['GM(green manufacturing)', 'Machine tool industry', 'Operation model', 'Product life cycle']

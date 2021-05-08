@@ -1,0 +1,2 @@
+Design and implementation of the network electronic identity management system
+['Cross-database', 'Electronic identity (eID)', 'Massive data', 'Relation database']

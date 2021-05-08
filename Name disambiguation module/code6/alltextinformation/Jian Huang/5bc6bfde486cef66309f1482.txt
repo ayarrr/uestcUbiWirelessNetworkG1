@@ -1,0 +1,2 @@
+Heat sources behavioral characteristics during high power laser-MIG welding of aluminum alloy
+['Aluminum alloy', 'Heat sources distance', 'High power laser-MIG hybrid welding', 'Plasma']

@@ -1,0 +1,2 @@
+Improved mechanical properties of a twinning-induced plasticity steel prepared by directional solidification
+['Directional solidification', 'Dislocation', 'Strain hardening', 'Twining', 'TWIP steel']

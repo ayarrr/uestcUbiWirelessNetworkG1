@@ -1,0 +1,2 @@
+Slope safety factor search strategy for multiple sample points for reliability analysis
+['Bisection search', 'Linked list-based sifting method', 'Sequential search', 'Slope reliability', 'Strength reduction method']

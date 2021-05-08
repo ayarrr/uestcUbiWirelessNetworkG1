@@ -1,0 +1,2 @@
+Preparation of PMZN piezoceramic using sol-autocombustion synthesized PZT powder as a base
+['Curie temperature', 'Piezoelectric ceramics', 'PMZN', 'Sol-autocombustion method']

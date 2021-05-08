@@ -1,0 +1,2 @@
+Adaptive fuzzy control for pure-feedback stochastic nonlinear systems with unknown dead-zone input
+['adaptive fuzzy control', 'backstepping', 'dead-zone', 'pure-feedback nonlinear stochastic systems']

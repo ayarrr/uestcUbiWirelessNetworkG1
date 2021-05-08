@@ -1,0 +1,2 @@
+532 nm diode-pumped doubly Q-switched Nd:YVO4/KTP laser with electro-optic modulator and GaAs saturable absorber
+['']

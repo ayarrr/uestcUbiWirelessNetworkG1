@@ -1,0 +1,2 @@
+Neural adaptive flocking control of networked underactuated autonomous surface vehicles in the presence of uncertain dynamics
+['Autonomous Surface Vehicles', 'Flocking Control', 'Neural Networks', 'Uncertain Dynamics']

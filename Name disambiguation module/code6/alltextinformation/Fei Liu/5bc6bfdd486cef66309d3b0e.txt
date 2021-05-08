@@ -1,0 +1,2 @@
+An improved high gain and wide bandwidth operational amplifier for the SHA circuit in a pipelined ADC
+['']

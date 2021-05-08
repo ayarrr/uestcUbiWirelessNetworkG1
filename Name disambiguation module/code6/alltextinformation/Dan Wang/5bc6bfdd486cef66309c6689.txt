@@ -1,0 +1,2 @@
+Dynamical response model for tanker steering using GEBF ased Fuzzy Neural Networks
+['Fuzzy Neural Network', 'Generalized Ellipsoidal Basis Function', 'Response Model', 'Tanker Steering']

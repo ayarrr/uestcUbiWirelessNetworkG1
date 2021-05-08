@@ -1,0 +1,2 @@
+Effect of Mo addition on microstructure and CCT curves of Nb microalloyed pipeline steel
+['CCT curves', 'Microhardness', 'Microstructure', 'Mo', 'Pipeline steel']

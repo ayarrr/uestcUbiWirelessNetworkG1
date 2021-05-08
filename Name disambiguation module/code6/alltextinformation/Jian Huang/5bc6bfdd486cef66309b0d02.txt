@@ -1,0 +1,2 @@
+Two new phthalides with BuChE inhibitory activity from Ligusticum chuanxiong
+['Anti-BuChE activity', 'CD', 'Chuanxiongdiolide A', 'Chuanxiongdiolide B', 'Ligusticum chuanxiong', 'NMR']

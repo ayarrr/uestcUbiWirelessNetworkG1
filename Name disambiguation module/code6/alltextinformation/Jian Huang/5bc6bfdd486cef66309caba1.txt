@@ -1,0 +1,2 @@
+Sliding mode control with fuzzy compensator of pneumatic muscle actuator
+['Fuzzy compensator', 'PM', 'PM modelling', 'Pneumatic muscle', 'Sliding mode control', 'SMC']

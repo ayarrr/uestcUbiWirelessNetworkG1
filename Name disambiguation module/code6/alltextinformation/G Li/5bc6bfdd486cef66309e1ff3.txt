@@ -1,0 +1,2 @@
+BESII detector simulation
+['Detector response', 'Monte Carlo simulation']

@@ -1,0 +1,2 @@
+The locating ways of laying pipe manipulator
+['Control theory', 'Hydraulic system', 'Laying pipe manipulator', 'Locating system', 'Locating way', 'Mathematical model', 'Module of collecting and transferring data', 'Module of conversion interface', 'Photoelectric target', 'Wireless communicating module']

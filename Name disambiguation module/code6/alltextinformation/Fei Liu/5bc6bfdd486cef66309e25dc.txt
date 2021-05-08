@@ -1,0 +1,2 @@
+Monitoring of tumor response to Au nanorod-indocyanine green conjugates mediated therapy with fluorescence imaging and positron emission tomography
+['[18F]FDG-PET', 'Dual-modality imaging', 'Fluorescence', 'Photodynamic therapy', 'Photothermal therapy']

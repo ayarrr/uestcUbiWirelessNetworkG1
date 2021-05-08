@@ -1,0 +1,2 @@
+Adaptive fuzzy control for a class of nonlinear time-delay systems with unknown Control Direction
+['Fuzzy control', 'Time-delay system', 'Unknown Control Direction']

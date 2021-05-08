@@ -1,0 +1,2 @@
+Neural-Based Adaptive Output-Feedback Control for a Class of Nonstrict-Feedback Stochastic Nonlinear Systems
+['Adaptive neural output-feedback control', 'backstepping', 'nonstrict-feedback structure', 'stochastic nonlinear systems']

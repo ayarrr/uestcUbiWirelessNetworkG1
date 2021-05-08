@@ -1,0 +1,2 @@
+Observer-based finite-time stabilization for extended Markov jump systems
+['Finite-time stabilization', 'Markov jump systems', 'Observer', 'Transition probabilities']

@@ -1,0 +1,2 @@
+Semi-analytical solution to dynamic continuous model of belt conveyor with single drive
+['Belt conveyor', 'Dynamic continuous model', 'Dynamics simulation', 'Semi-analytical solution']

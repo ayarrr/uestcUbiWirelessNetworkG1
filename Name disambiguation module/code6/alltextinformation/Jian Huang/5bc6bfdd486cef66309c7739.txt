@@ -1,0 +1,2 @@
+Effects of sputter power, gas pressure and substrate temperature on the structure and optical properties of CdS thin films
+['CdS', 'Energy band gap', 'Gas pressure', 'Sputter power', 'Substrate temperature']

@@ -1,0 +1,2 @@
+Analysis and study of local flexibility due to straight part-through crack under pure bending in a pipe
+['Any angle', 'Crack', 'Damage', 'Local flexibility', 'Strain energy release rate (SERR) theory']

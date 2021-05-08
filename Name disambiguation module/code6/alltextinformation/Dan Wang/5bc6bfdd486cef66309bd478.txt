@@ -1,0 +1,2 @@
+Optimal regulator-based control of electronic power transformer for distribution systems
+['Dynamic performance', 'Electronic power transformer', 'Linear-quadratic-regulator', 'Proportional-integral (PI) controller', 'State space model']

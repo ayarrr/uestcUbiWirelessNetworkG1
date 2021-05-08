@@ -1,0 +1,2 @@
+Robust finite-time H∞ control for nonlinear jump systems via neural networks
+['Finite-time boundedness', 'Finite-time stabilization', 'H∞ control', 'Markovian jump systems', 'Neural networks']

@@ -1,0 +1,2 @@
+The controllable assembly of nanorods, nanowires and microwires of a perylenediimide molecule with photoswitching property
+['Functional', 'Microstructure', 'Organic', 'Perylenediimide', 'Photoswitching', 'Self-assembly']

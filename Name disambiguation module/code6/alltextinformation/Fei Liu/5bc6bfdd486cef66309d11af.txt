@@ -1,0 +1,2 @@
+High-speed programmable counter design for PLL based on a delay partition technique
+['Delay partition', 'Duty cycle', 'Phase shifting', 'PLL clock generator', 'Programmable counter']

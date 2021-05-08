@@ -1,0 +1,2 @@
+A wellbore flow model of coiled tubing drilling with supercritical carbon dioxide
+['Coiled tubing', 'Drilling', 'Formation water influx', 'Supercritical carbon dioxide', 'Wellbore pressure', 'Wellbore temperature']

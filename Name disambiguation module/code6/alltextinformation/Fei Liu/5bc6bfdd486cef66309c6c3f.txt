@@ -1,0 +1,2 @@
+On delay-dependent stability of Markov jump systems with distributed time-delays
+['Distributed time-delays', 'Linear matrix inequalities', 'Markov jump systems', 'Stochastic stability']

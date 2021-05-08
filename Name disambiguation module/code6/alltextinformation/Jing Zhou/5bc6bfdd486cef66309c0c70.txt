@@ -1,0 +1,2 @@
+A method for optimum sensor placement based on damage identifiability
+['Damage identifiability', 'Damage sensitivity', 'Modal observability', 'Optimum sensor placement']

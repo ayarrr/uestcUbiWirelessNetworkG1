@@ -1,0 +1,2 @@
+Error compensation of tetrahedron magnetic gradiometer
+['Error compensation', 'Magnetic field', 'Magnetic gradient tensor', 'Systematic error', 'Unmanned Underwater Vehicle(UUV)']

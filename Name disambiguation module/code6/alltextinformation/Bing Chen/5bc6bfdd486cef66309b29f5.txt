@@ -1,0 +1,2 @@
+Relationship between high-resolution computed tomography densitometry and audiometry in otosclerosis
+['Audiometry', 'Densitometry', 'HRCT', 'Otosclerosis']

@@ -1,0 +1,2 @@
+Infrared transmission of Cd 1-xMn xTe crystal
+['Absorption edge', 'Annealing treatment', 'Crystal growth', 'HgCdTe epitaxial substrates', 'IR transmittance']

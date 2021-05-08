@@ -1,0 +1,2 @@
+State estimation for nonlinear stochastic hybrid systems with time-varying transition probabilities
+['Bayesian estimation', 'Nonlinear stochastic hybrid systems', 'Particle approximation', 'Reference probability methods']

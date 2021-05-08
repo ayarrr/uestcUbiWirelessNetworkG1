@@ -1,0 +1,2 @@
+Real-time management system for abnormal production-events in workshop
+['Abnormal production-event', 'Dynamic information acquisition', 'Fuzzy synthetic evaluation', 'Management information system', 'Real-time']

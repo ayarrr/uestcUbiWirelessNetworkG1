@@ -1,0 +1,2 @@
+A rapid PCR method to determine the types of cyp2d6*10 alleles
+['Cyp2d6*10', 'Distribution frequencies of cyp2d6*10', 'PCR', 'Single nucleotide polymorphism (SNP)']

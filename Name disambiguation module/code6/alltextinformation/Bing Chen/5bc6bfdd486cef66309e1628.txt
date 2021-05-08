@@ -1,0 +1,2 @@
+The differentiation of rat adipose-derived stem cells into OEC-like cells on collagen scaffolds by co-culturing with OECs
+['ADSCs', 'Co-culture', 'Differentiation', 'OECs', 'Three-dimensional culture']

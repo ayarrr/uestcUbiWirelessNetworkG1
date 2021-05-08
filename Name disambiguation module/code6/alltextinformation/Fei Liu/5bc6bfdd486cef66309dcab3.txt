@@ -1,0 +1,2 @@
+Analysis on reliability growth of solid rocket motor based on AMSAA discrete model
+['AMSAA discrete model', 'Lower confidence bound', 'Maximum likelihood estimation', 'Reliability growth', 'Reliability point estimation', 'Solid rocket motor']

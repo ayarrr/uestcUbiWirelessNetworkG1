@@ -1,0 +1,2 @@
+Novel spectrum properties of the periodic π-phase-shifted fiber Bragg grating
+['Fiber Bragg grating (FBG)', 'Fourier transform', 'Transfer matrix method']

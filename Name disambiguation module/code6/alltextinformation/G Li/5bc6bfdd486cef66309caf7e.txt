@@ -1,0 +1,2 @@
+Effects of flow defects on hypothetical ZrCu metallic glasses microstructure and plasticity: A molecular dynamics analysis
+['Flow defects', 'Metallic glasses', 'Molecular dynamic simulations', 'Plasticity']

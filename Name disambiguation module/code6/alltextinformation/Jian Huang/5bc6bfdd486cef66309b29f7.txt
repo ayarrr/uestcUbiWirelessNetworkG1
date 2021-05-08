@@ -1,0 +1,2 @@
+A unidirectional linear response neuro-fuzzy controller based on fibonacci search
+['Fibonacci Search', 'Fuzzy control', 'Neural network', 'Unidirectional linear response (ULR)']

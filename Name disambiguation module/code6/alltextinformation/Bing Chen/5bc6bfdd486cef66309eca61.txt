@@ -1,0 +1,2 @@
+Erratum: Position tracking control of induction motors via adaptive fuzzy backstepping (Energy Conversion Management (2010) 51 (2345-2352) DOI: 10.1016/j.enconman.2010.04.008)
+['']

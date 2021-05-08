@@ -1,0 +1,2 @@
+Comparison of near-fault effect considered in seismic design codes for building
+['Earthquake', 'Forward-directivity pulse', 'Near-fault factor', 'Seismic design code']

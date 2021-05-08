@@ -1,0 +1,2 @@
+MicroRNA-125b suppresses the development of bladder cancer by targeting E2F3
+['bladder cancer', 'E2F3', 'microRNA-125b']

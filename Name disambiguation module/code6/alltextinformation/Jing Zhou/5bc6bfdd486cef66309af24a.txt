@@ -1,0 +1,2 @@
+TLCD semi-active control methodology for eccentric buildings using discrete-time fuzzy variable structure law
+['Discrete-time fuzzy variable structure control', 'Eccentric building', 'Multi-dimensional ground motion', 'Semi-active control']

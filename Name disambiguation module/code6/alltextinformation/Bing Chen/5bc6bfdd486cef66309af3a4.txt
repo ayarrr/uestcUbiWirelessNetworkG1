@@ -1,0 +1,2 @@
+Effects of retinoic acid on function of gap junction and Cx43 expression in cultured human retinal pigment epithelial cells
+['Connexin', 'Cx43', 'Gap junction', 'Retinal pigment epithelia']

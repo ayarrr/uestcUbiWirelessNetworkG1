@@ -1,0 +1,2 @@
+A wearable rehabilitation robotic hand driven by PM-TS actuators
+['PM-TS Actuator', 'Pneumatic Muscle (PM)', 'Rehabilitation Robotic Hand', 'Torsion Spring (TS)']

@@ -1,0 +1,2 @@
+A flow industrial process monitoring approach using non-negative matrix factorization
+['Non-negative matrix factorization', 'Process monitoring', 'TE process']

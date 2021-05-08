@@ -1,0 +1,2 @@
+Dynamic security decision-making process
+['Accident prevention', 'Matter decision', 'Post decision', 'Prior decision', 'Safety decision']

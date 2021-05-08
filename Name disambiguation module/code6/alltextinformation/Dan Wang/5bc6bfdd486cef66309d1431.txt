@@ -1,0 +1,2 @@
+Position and azimuth determination for land vehicles using electro-optical detection system
+['Electro-optical detection', 'Land navigation', 'Position and azimuth determination']

@@ -1,0 +1,2 @@
+Optimization scheduling model and its algorithm for a kind of resource workload balancing problems
+['Genetic algorithm', 'Scheduling model', 'Workload balancing']

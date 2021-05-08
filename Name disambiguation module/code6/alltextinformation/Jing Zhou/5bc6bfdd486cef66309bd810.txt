@@ -1,0 +1,2 @@
+An extraction of the natural frequencies and mode shapes of marine risers by the method of differential transformation
+['Differential transformation', 'Marine risers', 'Mode shapes', 'Natural frequencies']

@@ -1,0 +1,2 @@
+Reconstruction of fluorophore concentration variation in dynamic fluorescence molecular tomography
+['Dynamic imaging', 'fluorescence', 'image reconstruction', 'tomography']

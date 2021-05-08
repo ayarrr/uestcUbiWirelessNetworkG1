@@ -1,0 +1,2 @@
+Elastic stability of face-centered cubic Fe-Cu random solid solution alloys based on special quasirandom structure model
+['Elastic property', 'Fe-Cu random solid solution alloy', 'First-principles', 'Special quasirandom structure']

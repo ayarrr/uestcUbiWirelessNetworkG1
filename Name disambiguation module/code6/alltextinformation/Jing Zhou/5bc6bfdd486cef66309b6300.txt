@@ -1,0 +1,2 @@
+Study on model test of highrise chimney subjected to vertical seismic action
+['Chimney', 'Damage', 'Dynamic test', 'Highrise structure', 'Vertical earthquake action']

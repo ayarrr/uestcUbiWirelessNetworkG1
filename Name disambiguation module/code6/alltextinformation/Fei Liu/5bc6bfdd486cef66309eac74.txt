@@ -1,0 +1,2 @@
+Resilient filtering for uncertain systems with Markov parameters
+['H∞- filtering', 'Linear matrix inequalities', 'Markov jump systems', 'Resilient filter', 'Uncertain']

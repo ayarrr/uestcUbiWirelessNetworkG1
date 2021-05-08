@@ -1,0 +1,2 @@
+Investigate on the properties of PZT film fabricated by electrophoretic deposition method
+['Electrophoretic deposition', 'Film', 'PZT', 'Sol']

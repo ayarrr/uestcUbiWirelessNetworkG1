@@ -1,0 +1,2 @@
+Program design for green manufacturing implementation based on extension theory
+['Extension theory', 'Green manufacturing(GM)', 'Implementation program', 'Matter-element model']

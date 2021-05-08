@@ -1,0 +1,2 @@
+Effect of relative position of laser beam and arc on formation of weld in laser-MIG hybrid welding
+['Aluminum alloy', 'Laser incidence angle', 'Laser-MIG hybrid welding', 'Weld formation']

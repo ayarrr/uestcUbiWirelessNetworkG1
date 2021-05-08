@@ -1,0 +1,2 @@
+Robust-Index Method for Household Load Scheduling Considering Uncertainties of Customer Behavior
+['Demand response', 'Home energy management', 'Household load scheduling', 'Robust-index method', 'Smart home']

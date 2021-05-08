@@ -1,0 +1,2 @@
+Improving autocorrelation performance of Bernoulli sequence and maintaining good RFM autocorrelation performance using a phase space method
+['']

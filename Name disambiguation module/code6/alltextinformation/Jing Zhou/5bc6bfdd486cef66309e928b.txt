@@ -1,0 +1,2 @@
+Simulating of random aerodynamic loads of offshore wind turbine
+['Blade element theory', 'Harmony superposition method', 'Momentum theory', 'Offshore wind turbine', 'Turbulent wind velocity']

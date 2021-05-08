@@ -1,0 +1,2 @@
+The optical properties of AlGaN/GaN p-i-n Structure
+['AlGaN/GaN', 'Impurity', 'PL', 'XRD']

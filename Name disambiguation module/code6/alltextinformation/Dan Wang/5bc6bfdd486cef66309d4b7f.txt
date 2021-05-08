@@ -1,0 +1,2 @@
+Optimal control of energy storage system for wind power generation based on fuzzy algorithm
+['Directly driven', 'Fuzzy control', 'Power smooth', 'State-of-charge', 'Ultra-capacitor', 'Wind power']

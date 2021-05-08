@@ -1,0 +1,2 @@
+Predictive control of convex polyhedron LPV systems with Markov jumping parameters
+['convex polyhedron', 'linear parameter varying systems', 'Markov jumping parameters', 'predictive control']

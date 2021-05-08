@@ -1,0 +1,2 @@
+Adaptive control for nonlinear MIMO time-delay systems based on fuzzy approximation
+['Adaptive fuzzy control', 'Backstepping design', 'Nonlinear MIMO system', 'Time delay']

@@ -1,0 +1,2 @@
+Long-term efficacy and safety of all-trans retinoic acid/arsenic trioxide-based therapy in newly diagnosed acute promyelocytic leukemia
+['5-year EFS', '5-year OS', 'Arsenic retention', 'Combination therapy', 'Residual disease']

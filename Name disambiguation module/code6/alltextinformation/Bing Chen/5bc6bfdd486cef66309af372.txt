@@ -1,0 +1,2 @@
+Adaptive fuzzy tracking control of nonlinear time-delay systems with unknown virtual control coefficients
+['Adaptive control', 'Backstepping approach', 'Fuzzy control', 'Nonlinear time-delay systems', 'Uncertainty']

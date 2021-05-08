@@ -1,0 +1,2 @@
+Continuous gain scheduled adaptive H∞ controller for uncertain hyperchaotic system
+['Continuous gain scheduled', 'H∞ controller', 'Hyperchaotic', 'LMI', 'Uncertainty']

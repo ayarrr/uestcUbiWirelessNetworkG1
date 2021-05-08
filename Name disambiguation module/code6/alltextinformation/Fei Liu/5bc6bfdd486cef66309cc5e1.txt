@@ -1,0 +1,2 @@
+Process model of machine tool remanufacturing oriented to lifecycle
+['Lifecycle', 'Machine tool', 'Process model', 'Remanufacturing']

@@ -1,0 +1,2 @@
+MicroRNA-155 promotes bladder cancer growth by repressing the tumor suppressor DMTF1
+['Arf', 'Bladder cancer', 'Cell proliferation', 'DMTF1', 'microRNA-155']

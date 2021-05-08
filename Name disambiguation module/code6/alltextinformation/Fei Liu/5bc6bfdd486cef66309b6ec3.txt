@@ -1,0 +1,2 @@
+Reverse engineering system of the product profiles based on liquid
+['Digitized', 'Liquid', 'Product sectional profile', 'Reverse engineering']

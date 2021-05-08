@@ -1,0 +1,2 @@
+Parallel architecture and optimization for discrete-event simulation of spike neural networks
+['discrete event simulation', 'intelligent parallelization framework', 'spike neural network']

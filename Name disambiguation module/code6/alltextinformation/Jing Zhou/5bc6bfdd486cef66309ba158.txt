@@ -1,0 +1,2 @@
+The calculation of equivalence factor and yield factor based on urban hectares - Taking the case of Beijing
+['Equivalence Factors', 'Urban Hectare', 'Yield Factors']

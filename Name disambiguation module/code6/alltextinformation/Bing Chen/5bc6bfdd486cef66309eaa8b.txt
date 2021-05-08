@@ -1,0 +1,2 @@
+Adaptive neural control for a class of perturbed strict-feedback nonlinear time-delay systems
+['Adaptive control', 'Backstepping', 'Neural control', 'Nonlinear time-delay systems']

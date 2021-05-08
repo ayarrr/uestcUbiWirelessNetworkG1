@@ -1,0 +1,2 @@
+Stabilization of time-delay fuzzy systems with different fuzzy weighting functions in controllers
+['Fuzzy systems', 'Fuzzy weighting functions', 'Stabilization', 'Time-delay']

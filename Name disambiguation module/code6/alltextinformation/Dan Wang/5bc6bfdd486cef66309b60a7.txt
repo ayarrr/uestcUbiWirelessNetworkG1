@@ -1,0 +1,2 @@
+Field verification of aircraft carrier landing algorithm based on integrated airborne infrared camera/inertial navigation system
+['Carrier landing', 'Carrier-based aircraft', 'Field verification test', 'Inertial navigation', 'Infrared detecting']

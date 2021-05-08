@@ -1,0 +1,2 @@
+Distributed neural network control for adaptive synchronization of uncertain dynamical multiagent systems
+['Distributed control', 'neural network', 'nonlinear multiagent system', 'synchronization']

@@ -1,0 +1,2 @@
+In vivo tomographic imaging with fluorescence and MRI using tumor-targeted dual-labeled nanoparticles
+['Dual-modality', 'Fuorescence molecular tomography (FMT)', 'Magnetic resonance imaging (MRI)', 'Nanoparticle']

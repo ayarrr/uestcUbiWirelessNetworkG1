@@ -1,0 +1,2 @@
+Effects of residual stress on the electrical properties in PbZr<inf>0.52</inf>Ti<inf>0.48</inf>O<inf>3</inf> thin films
+['Electrical properties', 'PZT thin films', 'Residual stress', 'Sol–gel method']

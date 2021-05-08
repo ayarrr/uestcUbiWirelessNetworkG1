@@ -1,0 +1,2 @@
+The spectra characteristic of capacitive virtual Frisch grid detectors with different directions
+['Capacitive virtual Frisch grid', 'CdZnTe detector', 'Spectra']

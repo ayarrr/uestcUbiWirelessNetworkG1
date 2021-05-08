@@ -1,0 +1,2 @@
+Cooperative transport strategy for formation control of multiple mobile robots
+['Box transport', 'Cooperative transport', 'Formation control', 'Information sharing', 'Multiple mobile robots']

@@ -1,0 +1,2 @@
+No-load energy parameter characteristics of computerized numerical control machine tool main transmission system
+['Computerized numerical control', 'Energy consumption', 'No-load power', 'Power factor', 'Variable frequency']

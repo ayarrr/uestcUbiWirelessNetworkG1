@@ -1,0 +1,2 @@
+MicroRNA-335 acts as a candidate tumor suppressor in prostate cancer
+['Clinicopathological feature', 'microRNA-335', 'Prognosis', 'Prostate cancer', 'Tumor suppressor']

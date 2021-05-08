@@ -1,0 +1,2 @@
+Design of experiment equipment for treating low temperature domestic sewage using biological contact oxidation process
+['Biological contact oxidation tank', 'Biological contact sedimentation tank', 'Domestic sewage']

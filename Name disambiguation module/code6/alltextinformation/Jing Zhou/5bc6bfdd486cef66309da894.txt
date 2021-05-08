@@ -1,0 +1,2 @@
+SPICE modeling of flux-controlled unipolar memristive devices
+['memristive', 'SPICE model', 'unipolar memristive devices']

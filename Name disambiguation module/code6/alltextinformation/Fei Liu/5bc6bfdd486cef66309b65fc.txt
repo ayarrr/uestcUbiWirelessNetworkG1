@@ -1,0 +1,2 @@
+A kind of P2P realization method based on DDNS and DNS
+['Classified query', 'DDNS', 'DNS', 'P2P']

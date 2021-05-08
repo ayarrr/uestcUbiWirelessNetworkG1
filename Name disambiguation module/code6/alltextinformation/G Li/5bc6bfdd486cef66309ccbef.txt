@@ -1,0 +1,2 @@
+Magnetoresistance in La1-xCaxMnO3 (0 ≤ x < 0.4)
+['A. Magnetically ordered materials', 'D. Electronic transport', 'D. Phase transitions']

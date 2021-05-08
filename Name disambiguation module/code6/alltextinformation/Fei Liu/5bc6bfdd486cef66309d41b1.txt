@@ -1,0 +1,2 @@
+A zebrafish embryo behaves both as a cortical shell - Liquid core structure and a homogeneous solid when experiencing mechanical forces
+['cell mechanical model', 'mechanical behavior', 'microinjection']

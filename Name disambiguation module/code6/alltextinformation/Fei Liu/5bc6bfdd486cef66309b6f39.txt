@@ -1,0 +1,2 @@
+Customization-oriented order lifecycle management supporting system based on Web Services
+['Business process', 'Customization', 'Lifecycle', 'Management information system', 'Order management', 'Web services']

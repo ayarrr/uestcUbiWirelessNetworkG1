@@ -1,0 +1,2 @@
+Adaptive fuzzy control of chaos in the pmsm via backstepping
+['Adaptive control', 'Backstepping', 'Chaos control', 'Fuzzy control', 'Nonlinear system', 'Permanent magnet synchronous motor']

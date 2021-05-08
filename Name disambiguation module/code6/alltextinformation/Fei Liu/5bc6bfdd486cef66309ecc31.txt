@@ -1,0 +1,2 @@
+Products resources ontology modeling technology based on the expression
+['Expression', 'Modeling', 'Ontology', 'Product resources', 'Resource sharing']

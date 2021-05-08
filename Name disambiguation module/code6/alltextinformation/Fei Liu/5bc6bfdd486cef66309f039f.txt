@@ -1,0 +1,2 @@
+Decision model and practical method of energy-saving in NC machine tool
+['Decision model', 'Idle running', 'NC machine tool', 'Saving energy']

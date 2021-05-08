@@ -1,0 +1,2 @@
+Analysis of nanoprobe penetration through a lipid bilayer
+['Interface', 'Lipid bilayer', 'Nanoprobe', 'Nondestructive pattern']

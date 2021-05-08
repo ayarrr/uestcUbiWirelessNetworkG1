@@ -1,0 +1,2 @@
+Feedback-linearization control of direct-driven permanent magnet synchronous generator wind turbines
+['Feedback-linearization control', 'MPPT', 'Permanent magnet synchronous generator', 'PID control']

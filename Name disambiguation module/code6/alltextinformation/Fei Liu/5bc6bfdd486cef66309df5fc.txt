@@ -1,0 +1,2 @@
+Optimized scheduling of distribution vehicles based on genetic algorithm
+['Distribution', 'Genetic algorithm', 'Vehicles optimization scheduling']

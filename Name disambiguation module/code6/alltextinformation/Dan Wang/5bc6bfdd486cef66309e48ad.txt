@@ -1,0 +1,2 @@
+Failure mode analysis for RC slab under explosive loads
+['ABAQUS', 'Explosive loading', 'Flexural mode', 'RC slab', 'Strain rate effect']

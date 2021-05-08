@@ -1,0 +1,2 @@
+Research on the centralized monitoring and command system of cable network
+['centralized monitoring', 'concentrated early-warning and alarm', 'GIS', 'rule engine', 'urban power distribution network']

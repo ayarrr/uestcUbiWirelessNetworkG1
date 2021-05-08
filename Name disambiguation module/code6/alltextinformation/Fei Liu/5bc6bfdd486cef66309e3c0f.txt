@@ -1,0 +1,2 @@
+A semantic gateway architecture for system integration in networked manufacturing
+['Networked manufacturing', 'Semantic gateway', 'System integration']

@@ -1,0 +1,2 @@
+Multi-input seismic analysis of partly spanning submarine pipelines
+['Multi-support excitation', 'Parametrical analysis', 'Seismic response', 'Submarine pipeline']

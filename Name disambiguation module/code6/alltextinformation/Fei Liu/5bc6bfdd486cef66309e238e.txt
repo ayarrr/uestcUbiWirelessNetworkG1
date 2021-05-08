@@ -1,0 +1,2 @@
+Robust LQ/H∞ non-fragile control for discrete-time fuzzy systems with time delay
+['Discrete-time fuzzy time-delay system', 'Linear matrix inequality', 'LQ/H∞ control', 'Robust non-fragile control']

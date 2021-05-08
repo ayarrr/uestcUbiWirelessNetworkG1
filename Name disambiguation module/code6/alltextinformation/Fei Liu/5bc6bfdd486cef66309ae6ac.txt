@@ -1,0 +1,2 @@
+Centralized identity authentication strategy in networked manufacturing integrated platform
+['Centralized identity authentication', 'Integrated platform', 'Networked manufacturing']

@@ -1,0 +1,2 @@
+Study of e+e-→pp- in the vicinity of ψ(3770)
+['BESIII', 'Charmonium decay', 'Proton form factor']

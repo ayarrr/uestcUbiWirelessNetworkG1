@@ -1,0 +1,2 @@
+Diode-pumped passively mode-locked Nd:LuVO4 laser with LT-In0.25Ga0.75As saturable absorber
+['Diode-pumped lasers', 'Mode locked laser', 'Nd:LuVO4 crystal']

@@ -1,0 +1,2 @@
+An online self-organizing neuro-fuzzy system from training data
+['']

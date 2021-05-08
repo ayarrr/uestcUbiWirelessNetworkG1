@@ -1,0 +1,2 @@
+Human-walking-intention-based motion control of an omnidirectional-type cane robot
+['Admittance control', 'human walking intention estimation', 'rehabilitation robot']

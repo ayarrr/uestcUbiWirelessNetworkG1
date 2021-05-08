@@ -1,0 +1,2 @@
+Recognition and extraction of human body's feature dimensions using fuzzy rules
+['Anthropological measurement', 'Features extraction', 'Fuzzy rules', 'Point clouds']

@@ -1,0 +1,2 @@
+Development and application of comprehensive testing and evaluation system for machine tool remanufacturing
+['Machine tools', 'Redesign', 'Remanufacturing', 'Support system']

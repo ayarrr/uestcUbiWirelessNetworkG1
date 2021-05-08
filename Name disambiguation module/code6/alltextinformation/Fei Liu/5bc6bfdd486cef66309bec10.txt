@@ -1,0 +1,2 @@
+RNGA loop pairing criterion for multivariable systems subject to a class of reference inputs
+['Interaction measurement', 'Loop pairing', 'Multivariable systems', 'Relative normalized gain array']

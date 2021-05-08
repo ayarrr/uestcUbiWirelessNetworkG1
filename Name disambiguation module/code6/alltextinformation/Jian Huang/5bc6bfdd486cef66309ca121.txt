@@ -1,0 +1,2 @@
+Preparation of an optically activated field effect transistor based on diamond film
+['Diamond', 'Field effect transistor', 'MPCVD']

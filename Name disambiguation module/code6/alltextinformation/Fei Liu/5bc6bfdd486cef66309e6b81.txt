@@ -1,0 +1,2 @@
+Job assignment support system integrating environmentally-conscious information of manufacturing system
+['Environmentally-conscious information', 'Job assignment', 'Support system']

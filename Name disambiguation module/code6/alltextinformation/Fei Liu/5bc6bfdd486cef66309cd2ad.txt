@@ -1,0 +1,2 @@
+Zone inhomogeneity with the random asymmetric simple exclusion process in a one-lane system
+['Asymmetric simple exclusion process', 'Computer simulation', 'One-lane system', 'Zoned inhomogeneity']

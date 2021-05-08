@@ -1,0 +1,2 @@
+Adaptive neural tracking control for a class of stochastic nonlinear systems
+['adaptive tracking control', 'backstepping design', 'stochastic nonlinear systems', 'the neural networks control']

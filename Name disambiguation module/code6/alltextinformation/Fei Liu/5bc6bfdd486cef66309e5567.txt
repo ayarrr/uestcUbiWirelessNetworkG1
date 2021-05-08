@@ -1,0 +1,2 @@
+Disturbance rejection control for Markov jump systems with nonhomogeneous processes
+['Discrete-time', 'Disturbance observer', 'Markov jump systems', 'Nonhomogeneous process']

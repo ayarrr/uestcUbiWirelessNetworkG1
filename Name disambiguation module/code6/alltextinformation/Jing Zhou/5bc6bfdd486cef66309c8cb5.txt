@@ -1,0 +1,2 @@
+Study on the dispersion of charged single-wall carbon nanotube bundles by first principles calculation
+['Carbon nanotube', 'Charging', 'Density functional theory', 'Dispersion']

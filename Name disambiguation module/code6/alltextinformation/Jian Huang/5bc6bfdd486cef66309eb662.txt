@@ -1,0 +1,2 @@
+Studies on a novel structure of ZnO/AlN/ diamond for SAW device applications
+['AlN', 'Direct current magnetron sputtering', 'Free-standing diamond films', 'ZnO buffer layer']

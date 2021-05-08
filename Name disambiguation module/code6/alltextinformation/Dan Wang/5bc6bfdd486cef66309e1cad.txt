@@ -1,0 +1,2 @@
+The simulation of fluid flow through a square channel with parallel implementation of dissipative particle dynamics
+['Dissipative particle dynamics (DPD)', 'Parallel computation', 'Square channel']

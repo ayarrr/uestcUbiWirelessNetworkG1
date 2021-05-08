@@ -1,0 +1,2 @@
+A quantitative assessment method for source-load interaction
+['interaction effect evaluation', 'interaction index', 'power flow distribution', 'smart grid', 'source-load interaction']

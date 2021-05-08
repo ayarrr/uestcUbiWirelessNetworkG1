@@ -1,0 +1,2 @@
+Fuzzy model-based fault detection for Markov jump systems
+['Linear matrix inequalities', 'Markov jump systems', 'Robust fault detection filter (RFDF)', 'Takagi-sugeno fuzzy models']

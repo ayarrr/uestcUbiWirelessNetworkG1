@@ -1,0 +1,2 @@
+Integrated CAD/CAM system for ceramic product and mould
+['CAD/CAM', 'Mould manufacture', 'Reverse engineering', 'Virtual Product']

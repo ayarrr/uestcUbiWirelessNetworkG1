@@ -1,0 +1,2 @@
+Measurement of the astrophysical S factor for the low energy 2H(d,γ)4He reaction
+['2H(d,γ)4He reaction', 'Branching ratio', 'S factor']

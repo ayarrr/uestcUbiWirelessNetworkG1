@@ -1,0 +1,2 @@
+Parallel map matching on massive vehicle GPS data using MapReduce
+['Cloud-Commputing', 'Hadoop', 'Map Matching', 'MapReduce']

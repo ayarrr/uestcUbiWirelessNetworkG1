@@ -1,0 +1,2 @@
+Adaptive neural control for a general class of pure-feedback stochastic nonlinear systems
+['Adaptive neural control', 'Backstepping', 'Stochastic pure-feedback nonlinear systems']

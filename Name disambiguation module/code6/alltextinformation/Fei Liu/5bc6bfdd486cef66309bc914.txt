@@ -1,0 +1,2 @@
+Operation mode for personnel integration in manufacturing system based on product life cycle
+['Integration', 'Personnel integration', 'Personnel relation degree', 'PLC']

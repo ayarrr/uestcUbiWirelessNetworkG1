@@ -1,0 +1,2 @@
+Transport and magnetic properties in La0.7Ca0.3Mn1-xCuxO3 
+['Electron spin resonance', 'La0.7Ca0.3Mn1-xCuxO3', 'X-ray photoemission spectroscopy']

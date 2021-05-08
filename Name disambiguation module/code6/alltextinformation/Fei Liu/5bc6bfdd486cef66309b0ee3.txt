@@ -1,0 +1,2 @@
+Feedback predictive control of nonhomogeneous markov jump systems with nonsymmetric constraints
+['and phrases predictive control', 'discrete time', 'nonhomogeneous Markov jump system', 'nonsymmetric constraints']

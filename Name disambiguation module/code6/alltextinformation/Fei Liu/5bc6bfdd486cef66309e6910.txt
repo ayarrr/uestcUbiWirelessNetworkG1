@@ -1,0 +1,2 @@
+Safety analysis on liquefied tank with defect of hydrogen blistering using Abaqus
+['Crack', 'Finite element method', 'Hydrogen blistering', 'J-integral', 'Liquid gas storage tank']

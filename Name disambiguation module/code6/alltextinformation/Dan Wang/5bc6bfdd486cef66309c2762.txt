@@ -1,0 +1,2 @@
+The effect of moisture and temperature on soil C mineralization in wetland and steppe of the Zoige region, China
+['Grassland types', 'Incubation temperature', 'Moisture', 'Q10', 'Soil respiration', 'Temperature sensitivity']

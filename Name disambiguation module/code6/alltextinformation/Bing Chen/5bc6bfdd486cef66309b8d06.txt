@@ -1,0 +1,2 @@
+SU5416 is a potent inhibitor of hepatocyte growth factor receptor (c-Met) and blocks HGF-induced invasiveness of human HepG2 hepatoma cells
+['c-Met, hepatocyte growth factor receptor', 'ERK, extracellular signal-regulated kinase', 'HGF/c-Met', 'HGF/SF, hepatocyte growth factor/scatter factor', 'Invasiveness', 'MDCK, Madin-Darby canine kidney cells', 'SU5416', 'VEGF, vascular endothelial growth factor']

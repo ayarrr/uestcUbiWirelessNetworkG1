@@ -1,0 +1,2 @@
+H∞ scheduling control on nonlinear stochastic systems with partially unknown information
+['Continuous gain scheduling', 'Markov jump system', 'Unknown information']

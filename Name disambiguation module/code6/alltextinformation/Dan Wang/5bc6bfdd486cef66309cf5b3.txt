@@ -1,0 +1,2 @@
+Performance enhancement of a three-degree-of-freedom parallel tool head via actuation redundancy
+['Actuation redundancy', 'Dexterity', 'Hybrid machine tool', 'Parallel manipulator', 'Stiffness']

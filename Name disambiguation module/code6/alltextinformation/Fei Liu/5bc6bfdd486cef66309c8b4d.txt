@@ -1,0 +1,2 @@
+Guaranteed cost control for fuzzy bilinear systems with belt-shaped regional pole constraints
+['Belt-shaped regional pole constraints', 'Fuzzy bilinear systems', 'Guaranteed cost control', 'T-S fuzzy model']

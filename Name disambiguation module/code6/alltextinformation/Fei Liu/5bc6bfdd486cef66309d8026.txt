@@ -1,0 +1,2 @@
+Noise reduction scheduling method in a shop floor and its case study
+['Green manufacturing', 'Noise reduction', 'Scheduling']

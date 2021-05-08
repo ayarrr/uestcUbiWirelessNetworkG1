@@ -1,0 +1,2 @@
+Fuel consumption estimates based on driving pattern recognition
+['Controller area network', 'Driving pattern', 'Fuel consumptioin monitoring system', 'Fuel consumption']

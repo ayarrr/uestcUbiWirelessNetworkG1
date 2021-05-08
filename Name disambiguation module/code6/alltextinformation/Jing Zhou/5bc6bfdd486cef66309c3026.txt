@@ -1,0 +1,2 @@
+IOWGA operator-based dam safety monitoring combination forecasting model
+['Combination forecasting', 'Dam safety monitoring', 'Hydraulic engineering', 'Induced ordered weighted geometric averaging (IOWGA) operator']

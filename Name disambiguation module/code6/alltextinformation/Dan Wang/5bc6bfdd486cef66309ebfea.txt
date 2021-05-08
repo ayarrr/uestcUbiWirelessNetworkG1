@@ -1,0 +1,2 @@
+Photoluminescence properties of color-tunable KLaSiO<inf>4</inf>:Ce<sup>3+</sup>,Mn<sup>2+</sup> phosphors
+['color-tunable', 'energy transfer', 'KLaSiO<inf>4</inf>:Ce<sup>3+</sup>,Mn<sup>2+</sup>', 'rare earths']

@@ -1,0 +1,2 @@
+Routing strategy based on local information on scale-free networks with tunable clustering
+['Dynamic process', 'Routing strategy', 'Scale-free network']

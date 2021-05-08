@@ -1,0 +1,2 @@
+Demand response control strategy for central air-conditioner based on temperature adjustment of partial terminal devices
+['Central air-conditioner', 'Control strategy', 'Demand response', 'Smart power consumption']

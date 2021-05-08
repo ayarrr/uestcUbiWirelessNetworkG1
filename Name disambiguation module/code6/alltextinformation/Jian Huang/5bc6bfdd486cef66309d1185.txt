@@ -1,0 +1,2 @@
+Prostate specific membrane antigen knockdown impairs the tumorigenicity of LNCaP prostate cancer cells by inhibiting the phosphatidylinositol 3-kinase/Akt signaling pathway
+['LNCaP cells', 'PI3K/Akt pathway', 'Prostate cancer', 'Prostate-specific membrane antigen', 'RNA interference', 'Tumorigenicity']

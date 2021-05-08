@@ -1,0 +1,2 @@
+Adaptive dynamic surface control for leader-follower formation of marine surface vehicles with uncertain dynamics
+['Adaptive dynamic control', 'Formation control', 'Marine surface vehicles', 'Neural network', 'Uncertain dynamics']

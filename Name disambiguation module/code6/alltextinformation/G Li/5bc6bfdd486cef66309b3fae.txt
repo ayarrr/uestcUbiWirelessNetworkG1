@@ -1,0 +1,2 @@
+Effects of Al doping in manganites La0.9Te0.1 MnO3 
+['Al doping', 'Magnetic properties', 'Structural properties', 'Thermal conductivity', 'Transport properties']

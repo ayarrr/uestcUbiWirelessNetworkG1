@@ -1,0 +1,2 @@
+Development of multidimensional loading material testing machine
+['Dynamics', 'Experimental study', 'Kane method', 'Multidimensional loading material testing machine', 'Parallel robot']

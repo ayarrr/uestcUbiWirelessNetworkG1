@@ -1,0 +1,2 @@
+Research on chaotic sequence autocorrelation by phase space method
+['Autocorrelation', 'Chaotic map', 'Phase space', 'Pseudorandom sequence', 'Tent map']

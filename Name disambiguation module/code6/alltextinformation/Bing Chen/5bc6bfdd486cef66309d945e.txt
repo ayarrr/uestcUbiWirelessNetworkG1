@@ -1,0 +1,2 @@
+The security and application of the RFID-based vehicle security monitoring and administration system of the internet of things
+['Boundary protection', 'Internet of things RFID (radio frequency identification)', 'Security administration', 'Security monitoring']

@@ -1,0 +1,2 @@
+Intelligent-agent-based online quality control system for assembling production line
+['Artificial intelligence', 'Intelligent agent', 'Multi-agent', 'Online quality control system']

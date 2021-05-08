@@ -1,0 +1,2 @@
+Analysis of the combustion efficiencies and heat release rates of pool fires in ceiling vented compartments
+['Ceiling vent', 'Combustion efficiency', 'Compartment fire', 'Heat release rate', 'Plume equivalence ratio']

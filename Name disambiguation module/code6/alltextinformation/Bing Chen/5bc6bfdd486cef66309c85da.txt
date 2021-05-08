@@ -1,0 +1,2 @@
+Genetic variations of DNA repair genes and their prognostic significance in patients with acute myeloid leukemia
+['AML', 'DNA repair', 'Genetic variation', 'Outcome']

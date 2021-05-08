@@ -1,0 +1,2 @@
+Sensor placement for structural damage detection with modal data
+['Damage sensitivity', 'Fisher information matrix', 'Mode observability', 'Sensor placement']

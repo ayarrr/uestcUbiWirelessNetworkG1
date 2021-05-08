@@ -1,0 +1,2 @@
+An iterative receiver for SFBC OFDM system without cyclic prefix
+['Cyclic reconstruction', 'FDE', 'ICI', 'ISI', 'OFDM', 'SFBC']

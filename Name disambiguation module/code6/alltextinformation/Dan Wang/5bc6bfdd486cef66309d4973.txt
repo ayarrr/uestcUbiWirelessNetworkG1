@@ -1,0 +1,2 @@
+Robust adaptive dynamic surface control for synchronized path following of multiple underactuated autonomous underwater vehicles
+['Dynamic Surface Control', 'Neural Networks', 'Synchronized Path Following', 'Underactuated Underwater Autonomous Vehicles']

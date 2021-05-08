@@ -1,0 +1,2 @@
+Development of benzimidazole derivatives to inhibit HIV-1 replication through protecting APOBEC3G protein
+['APOBEC3G', 'Benzimidazole', 'HIV-1', 'Vif']

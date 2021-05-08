@@ -1,0 +1,2 @@
+Statistical modeling of dynamic multivariate process using canonical variate analysis
+['Canonical variate analysis', 'Chemical separation process', 'Dynamic process', 'SPM', 'Statistical modeling']

@@ -1,0 +1,2 @@
+3,3,4,4,5,5-Hexa-fluoro-1,2-bis[4-(phenylethynyl)phenyl]-cyclopentene
+['']

@@ -1,0 +1,2 @@
+Rectifying properties and colossal magnetoresistance in La 0.9Hf0.1MnO3/Nb-0.7 wt%-doped SrTiO3 heterojunction
+['Heterojunction', 'Magnetoresistance', 'Manganite']

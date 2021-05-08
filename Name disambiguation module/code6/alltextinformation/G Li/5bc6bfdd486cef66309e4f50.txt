@@ -1,0 +1,2 @@
+A study on the effect of bottom-hole differential pressure on the rock stress field
+['bottom-hole differential pressure', 'fluid-solid coupling', 'numerical method', 'rock breaking mechanism', 'stress field']

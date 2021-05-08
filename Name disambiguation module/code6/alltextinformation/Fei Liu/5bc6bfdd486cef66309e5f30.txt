@@ -1,0 +1,2 @@
+Exponential stability for uncertain neutral systems with Markov jumps
+['Global exponential stability', 'Linear matrix inequalities (LMIs)', 'Markov jump systems (MJSs)', 'Time-delays', 'Uncertainties']

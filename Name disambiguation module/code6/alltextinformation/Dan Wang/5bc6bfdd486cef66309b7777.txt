@@ -1,0 +1,2 @@
+Control strategy of voltage source converter excitation system based on full controlled devices
+['Damping', 'Full controlled excitation system', 'Synchronous generator', 'Voltage source']

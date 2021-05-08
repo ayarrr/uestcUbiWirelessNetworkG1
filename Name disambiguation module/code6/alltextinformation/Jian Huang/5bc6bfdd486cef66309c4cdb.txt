@@ -1,0 +1,2 @@
+A graph based Bi-level index for spatio-temporal data analysis with MapReduce
+['MapReduce', 'Spatial Index', 'Vehicle GPS Data']

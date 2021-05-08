@@ -1,0 +1,2 @@
+Observer Based Finite-Time Stabilization for Discrete-Time Markov Jump Systems with Gaussian Transition Probabilities
+['Gaussian probability density function', 'Markov jump systems', 'Stochastic finite-time boundedness', 'Stochastic finite-time stabilization', 'Time-delays']

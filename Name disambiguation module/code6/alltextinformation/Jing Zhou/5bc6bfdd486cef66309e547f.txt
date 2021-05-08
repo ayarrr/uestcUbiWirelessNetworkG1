@@ -1,0 +1,2 @@
+Relationship between curvature ductility of column and structural displacement ductility for concrete frame structures
+['Concrete frame', 'Curvature ductility', 'Experiment data', 'Structural displacement ductility']

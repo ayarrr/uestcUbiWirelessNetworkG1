@@ -1,0 +1,2 @@
+On traffic pricing model based on incentive stackelberg strategies for communication networks
+['Game theory', 'Incentive Stackelberg strategy', 'Rate control']

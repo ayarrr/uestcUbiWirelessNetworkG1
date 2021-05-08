@@ -1,0 +1,2 @@
+Fuzzy structure analysis based on Latin hypercube sampling and response surface
+['Fuzzy', 'Latin hypercube sampling', 'Membership functions', 'Response surface method']

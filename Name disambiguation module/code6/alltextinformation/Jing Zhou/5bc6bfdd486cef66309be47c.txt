@@ -1,0 +1,2 @@
+Study on multi-agent based software bus technology
+['Distributed artificial intelligence', 'Multi-agent system', 'Software bus']

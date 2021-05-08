@@ -1,0 +1,2 @@
+Detection and control of non-linear errors in 5-axis machining
+['Error detection', 'Interpolation', 'Machine tools', 'Machining']

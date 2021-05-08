@@ -1,0 +1,2 @@
+Airborne integrated vision/inertial navigation system for landing on aircraft carrier
+['Aircraft carried', 'Approach and landing', 'Field test', 'Infrared camera', 'INS']

@@ -1,0 +1,2 @@
+Dynamic surface control of mobile wheeled inverted pendulum
+['Dynamic surface control', 'Mobile wheeled inverted pendulum', 'Stability', 'Underactuated mechanical system', 'Wheeled mobile robot']

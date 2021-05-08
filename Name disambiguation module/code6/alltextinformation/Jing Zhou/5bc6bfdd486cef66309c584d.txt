@@ -1,0 +1,2 @@
+Mechanical response of steel wire wound reinforced rubber flexible pipe under internal pressure
+['Anisotropic elastic theory', 'Steel wire wound reinforced rubber flexible pipe', 'Tensile-shear coupling']

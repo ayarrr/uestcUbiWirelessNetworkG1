@@ -1,0 +1,2 @@
+Diagnosis and health monitoring for free spanning submarine pipelines
+['Experimental simulation', 'Free spanning submarine pipeline', 'Structural health diagnosis', 'Wavelet packet analysis']

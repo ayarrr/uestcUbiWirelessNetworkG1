@@ -1,0 +1,2 @@
+Constrained model predictive control on convex polyhedron stochastic linear parameter varying systems
+['Constrained predictive control', 'Convex polyhedron', 'Linear parameter varying systems', 'Markov jump parameters']

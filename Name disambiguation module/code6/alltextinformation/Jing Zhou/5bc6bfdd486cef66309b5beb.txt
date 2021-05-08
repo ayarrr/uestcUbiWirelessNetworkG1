@@ -1,0 +1,2 @@
+Damage detection and identification of Hongshi arch bridge
+['Flexibility projection method', 'Modal strain energy method', 'Surmounting obstacle test']

@@ -1,0 +1,2 @@
+Vascularization and cellularization of collagen scaffolds incorporated with two different collagen-targeting human basic fibroblast growth factors
+['bFGF', 'Cellularization', 'Collagen-binding domain', 'Targeting repair', 'Vascularization']

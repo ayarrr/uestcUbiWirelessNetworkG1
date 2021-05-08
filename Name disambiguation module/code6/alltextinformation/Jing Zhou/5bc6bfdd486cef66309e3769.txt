@@ -1,0 +1,2 @@
+Joint blind channel estimation and turbo equalization for OFDM systems
+['Blind channel estimation', 'Cross-correlation', 'Linear precoding', 'OFDM', 'Turbo equalization']

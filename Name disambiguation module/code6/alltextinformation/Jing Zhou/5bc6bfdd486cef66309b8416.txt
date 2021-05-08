@@ -1,0 +1,2 @@
+Crack identification by jointly time-frequency analysis
+['Breathing crack', 'Identification', 'Instantaneous frequency', 'Jointly time-frequency analysis']

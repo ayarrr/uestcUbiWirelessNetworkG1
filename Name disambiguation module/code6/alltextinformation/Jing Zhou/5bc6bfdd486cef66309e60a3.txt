@@ -1,0 +1,2 @@
+Treatment equipment of high concentrations organic industrial wastewater
+['Automatic control board', 'Chemical injection tank', 'Debugging', 'Installation', 'Treatment equipment']

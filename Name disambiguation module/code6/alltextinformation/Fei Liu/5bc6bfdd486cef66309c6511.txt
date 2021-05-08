@@ -1,0 +1,2 @@
+Monitoring of tumor response to cisplatin with simultaneous fluorescence and positron emission tomography: A feasibility study
+['Dual modality', 'Fluorescence', 'Molecular imaging', 'Tomography', '[<sup>18</sup>F]FDG-PET']

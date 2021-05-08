@@ -1,0 +1,2 @@
+High CD204<sup>+</sup> tumor-infiltrating macrophage density predicts a poor prognosis in patients with urothelial cell carcinoma of the bladder
+['CD169', 'CD204', 'Tumor-infiltrating macrophages', 'Urothelial cell carcinoma of the bladder (UCB)']

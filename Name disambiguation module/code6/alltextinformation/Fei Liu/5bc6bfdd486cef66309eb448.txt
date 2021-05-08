@@ -1,0 +1,2 @@
+Recursive parameter identification for fermentation processes with the multiple model technique
+['Fermentation process', 'Multiple model technique', 'Parameter estimation', 'Recursive identification', 'System modeling']

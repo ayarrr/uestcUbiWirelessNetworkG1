@@ -1,0 +1,2 @@
+Passive Analysis and Synthesis of Uncertain Markovian Jump Systems in Discrete-Time
+['Discrete-time', 'Linear matrix inequality', 'Markovian jump system', 'Passive control', 'Uncertainty']

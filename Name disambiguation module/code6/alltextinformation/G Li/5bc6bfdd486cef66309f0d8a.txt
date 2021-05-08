@@ -1,0 +1,2 @@
+Stable output, high power diode-pumped Tm:YLF laser with a volume Bragg grating
+['']

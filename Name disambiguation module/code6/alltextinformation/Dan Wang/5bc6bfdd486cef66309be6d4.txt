@@ -1,0 +1,2 @@
+Compact bandpass filter using novel stepped impedance resonators
+['bandpass filter', 'compact', 'SIR']

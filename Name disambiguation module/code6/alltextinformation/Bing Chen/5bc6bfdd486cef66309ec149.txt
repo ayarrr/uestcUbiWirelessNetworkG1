@@ -1,0 +1,2 @@
+The use of laminin modified linear ordered collagen scaffolds loaded with laminin-binding ciliary neurotrophic factor for sciatic nerve regeneration in rats
+['Laminin', 'LBD-CNTF', 'LOCS fibers', 'Nerve transection repair']

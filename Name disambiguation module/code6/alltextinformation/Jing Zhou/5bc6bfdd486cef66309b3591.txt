@@ -1,0 +1,2 @@
+Research on dynamic structural model tests of chimneys
+['Chimney structure', 'Distribution of dynamic stress', 'Dynamic model test', 'Form of rupture', 'Similarity specimen']

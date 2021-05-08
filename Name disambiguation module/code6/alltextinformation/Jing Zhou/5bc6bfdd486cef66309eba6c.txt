@@ -1,0 +1,2 @@
+Study the ways to forecast the discharge of restaurant wastewater in Beijing
+['Comprehensive method', 'Empirical method', 'Forecast', 'Restaurant wastewater', 'Water volume']

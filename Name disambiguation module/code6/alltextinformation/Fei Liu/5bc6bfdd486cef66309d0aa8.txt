@@ -1,0 +1,2 @@
+Stabilization of jump bilinear stochastic systems subject to actuator saturation
+['Actuator saturation', 'Bilinear systems', 'Ellipsoid invariant set', 'Jump systems', 'Stochastic stability']

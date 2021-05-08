@@ -1,0 +1,2 @@
+Process monitoring based on improved mixture probabilistic principal component analysis model
+['EM algorithm', 'Mixture probabilistic principal component analysis model', 'Process monitoring']

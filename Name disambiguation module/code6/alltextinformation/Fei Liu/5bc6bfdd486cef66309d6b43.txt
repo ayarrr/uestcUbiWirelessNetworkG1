@@ -1,0 +1,2 @@
+H∞ control with constrained input for fuzzy Markov jump systems
+['Constrained control', 'Fuzzy models', 'H∞ control', 'Linear matrix', 'Markov jump systems']

@@ -1,0 +1,2 @@
+Delayed-compensation algorithm for second-order leader-following consensus seeking under communication delay
+['Communication delay', 'Delayed-compensation algorithm', 'Leader-following consensus problem', 'Second-order multi-agent systems']

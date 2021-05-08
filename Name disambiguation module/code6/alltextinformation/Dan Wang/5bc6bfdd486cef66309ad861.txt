@@ -1,0 +1,2 @@
+Normal and inverse pose solutions to 3-RPS parallel robot based on ADAMS
+['ADAMS software', 'Inverse solution', 'Kinematic analysis', 'Normal solution', 'Parallel robot', 'Simulation']

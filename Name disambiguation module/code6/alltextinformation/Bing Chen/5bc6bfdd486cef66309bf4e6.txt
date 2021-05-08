@@ -1,0 +1,2 @@
+Robust stability for uncertain delayed fuzzy Hopfield neural networks with Markovian jumping parameters
+['Fuzzy systems', 'Hopfield neural networks (HNNs)', 'Interval delays', 'Linear matrix inequalities (LMIs)', 'Stochastic stability']

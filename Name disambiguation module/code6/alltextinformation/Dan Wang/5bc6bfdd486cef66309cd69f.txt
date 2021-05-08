@@ -1,0 +1,2 @@
+Research of a general method for the data migration in cutting parameters database of industry-oriented applications
+['Combination', 'Cutting parameters database', 'Industry-oriented', 'Metabase', 'Separation']

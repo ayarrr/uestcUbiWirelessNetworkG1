@@ -1,0 +1,2 @@
+Performance assessment strategy based on minimum variance for a class of nonlinear systems
+['Bicoherence', 'Minimum variance control', 'Nonlinearity detection', 'Performance assessment']

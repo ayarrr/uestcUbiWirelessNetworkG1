@@ -1,0 +1,2 @@
+Application of an improved SSOR-PCG iteration method to contact problems
+['Dynamic contact', 'Hydraulic structure', 'Lagrange multiplier method', 'PCG method']

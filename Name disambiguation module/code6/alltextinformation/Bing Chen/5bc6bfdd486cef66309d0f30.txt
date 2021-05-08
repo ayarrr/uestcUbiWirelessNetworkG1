@@ -1,0 +1,2 @@
+Observer-based H∞ control for T-S fuzzy systems with time delay: Delay-dependent design method
+['H∞ control', 'Observer', 'T-S fuzzy systems', 'Time delay']

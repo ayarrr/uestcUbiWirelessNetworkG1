@@ -1,0 +1,2 @@
+Laser-diode pumped CW Nd:GdVO4 green laser with periodically poled KTP
+['']

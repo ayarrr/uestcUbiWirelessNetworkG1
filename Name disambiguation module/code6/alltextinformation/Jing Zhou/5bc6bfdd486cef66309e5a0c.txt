@@ -1,0 +1,2 @@
+Piezoelectric and dielectric properties of CeO
+['A. Powders solid-state reaction', 'C. Dielectric properties', 'C. Piezoelectric properties', 'Na0.5Bi0.5TiO3']

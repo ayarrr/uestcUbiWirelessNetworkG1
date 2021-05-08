@@ -1,0 +1,2 @@
+Statics and stiffness of 3DOF parallel loading mechanism
+['Elastic deformation', 'Parallel mechanism', 'Static stiffness', 'Statics', 'Stiffness characteristic']

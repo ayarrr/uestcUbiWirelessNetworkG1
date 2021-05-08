@@ -1,0 +1,2 @@
+A centralized monitoring and analysis system of transmission lines in mined-out area
+['mined-out area', 'online monitoring', 'overhead lines', 'risk assessment', 'safety assessment']

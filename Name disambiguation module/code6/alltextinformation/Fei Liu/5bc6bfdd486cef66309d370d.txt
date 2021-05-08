@@ -1,0 +1,2 @@
+Monitoring computer numerical control machining progress based on information fusion
+['CNC machining', 'Information fusion', 'Machining path', 'Machining progress', 'Process track']

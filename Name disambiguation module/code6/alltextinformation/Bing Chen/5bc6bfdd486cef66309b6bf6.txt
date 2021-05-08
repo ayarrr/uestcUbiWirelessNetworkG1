@@ -1,0 +1,2 @@
+A simple broadband T-shaped waveguide branch in photonic crystals
+['Integrated optics', 'Photonic bandgaps', 'Photonic crystals', 'Waveguide branches']

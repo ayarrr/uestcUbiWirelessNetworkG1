@@ -1,0 +1,2 @@
+Design of parsing model by means of margin infused relaxed algorithm and estimation of distribution algorithm
+['Estimation of distribution algorithm (EDA)', 'Margin infused relaxed algorithm (MIRA)', 'Parsing model']

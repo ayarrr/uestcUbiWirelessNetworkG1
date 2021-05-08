@@ -1,0 +1,2 @@
+Modeling method of B-rep model oriented to CAD data reuse
+['B-rep model', 'Computer aided design', 'Data reuse', 'Outline search']

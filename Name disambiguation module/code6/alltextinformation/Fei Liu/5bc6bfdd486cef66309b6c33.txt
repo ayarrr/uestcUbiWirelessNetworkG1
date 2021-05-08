@@ -1,0 +1,2 @@
+Constrained predictive control of Markov jump linear systems based on terminal invariant sets
+['Constraint control', 'Markov jump systems', 'Receding horizon control (RHC)', 'Semidefinite programming (SDP)', 'Terminal invariant sets']

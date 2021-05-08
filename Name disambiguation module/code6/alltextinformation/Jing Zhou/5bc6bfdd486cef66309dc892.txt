@@ -1,0 +1,2 @@
+Effects of Ba(Mg1/3Ta2/3)O3 buffer layer on the fatigue behavior in Pb(Zr0.52Ti0.48)O3 thin films
+['BMT buffer layer', 'Fatigue behavior', 'PZT thin films', 'Sol–gel method']

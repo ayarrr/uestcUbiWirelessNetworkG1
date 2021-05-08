@@ -1,0 +1,2 @@
+Dynamical consensus algorithm for second-order multi-agent systems subjected to communication delay
+['communication delay', 'delay-dependent compensation', 'dynamical consensus', 'second-order multi-agent systems']

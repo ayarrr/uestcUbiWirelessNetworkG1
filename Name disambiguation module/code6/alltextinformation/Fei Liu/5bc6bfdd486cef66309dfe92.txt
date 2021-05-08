@@ -1,0 +1,2 @@
+A stochastic dynamic programming based model for uncertain production planning of re-manufacturing system
+['Production planning', 'Re-manufacturing system', 'Stochastic dynamic programming', 'Uncertainty']

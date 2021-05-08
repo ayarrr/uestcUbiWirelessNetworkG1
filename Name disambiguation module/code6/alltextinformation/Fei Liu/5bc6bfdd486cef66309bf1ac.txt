@@ -1,0 +1,2 @@
+A matrix approach to low-voltage low-power log-domain CMOS current-mode adjustable-bandwidth step-gain filter design
+['']

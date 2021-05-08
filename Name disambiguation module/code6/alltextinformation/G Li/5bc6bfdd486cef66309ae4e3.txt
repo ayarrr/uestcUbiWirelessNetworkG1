@@ -1,0 +1,2 @@
+Determination of the number of J/ψ events with J/ψ → inclusive decays
+['BESIII detector', 'Inclusive events', 'J/ψ→', 'Number of J/ψ events']

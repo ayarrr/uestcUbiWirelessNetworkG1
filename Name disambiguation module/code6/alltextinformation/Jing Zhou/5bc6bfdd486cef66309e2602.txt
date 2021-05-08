@@ -1,0 +1,2 @@
+Analytical study of imperfect pipeline on lateral buckling
+['Analytical solutions', 'Initial imperfection', 'Lateral critical buckling force', 'Submarine pipeline']

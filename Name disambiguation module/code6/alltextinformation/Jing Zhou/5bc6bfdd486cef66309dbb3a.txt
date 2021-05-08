@@ -1,0 +1,2 @@
+Electron structure and piezoelectric characteristics of PMZN system plezoceramics
+['Covalent bond order', 'Electron structure', 'Piezoceramics', 'Piezoelectric properties']

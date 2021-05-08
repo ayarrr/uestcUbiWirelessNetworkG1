@@ -1,0 +1,2 @@
+A centroid-based method of planar mechanism path indirect synthesis
+['Fuzzy recognition', 'Image matching', 'Indirect synthesis', 'Mechanism synthesis', 'Path atlas']

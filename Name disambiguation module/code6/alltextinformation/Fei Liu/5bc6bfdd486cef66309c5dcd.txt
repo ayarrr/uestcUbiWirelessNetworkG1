@@ -1,0 +1,2 @@
+Composition mechanism of applications based on Web services in networked manufacturing systems
+['Application composition mechanism', 'Aspect-oriented programming', 'Business rules', 'Networked manufacturing']

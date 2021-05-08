@@ -1,0 +1,2 @@
+Optimized motion control of an intelligent cane robot for easing muscular fatigue in the elderly during walking
+['Cane robot', 'Easing fatigue', 'Human walking intention', 'On-shoe load sensor']

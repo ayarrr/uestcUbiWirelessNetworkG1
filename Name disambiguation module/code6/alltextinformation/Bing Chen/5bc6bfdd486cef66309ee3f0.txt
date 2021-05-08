@@ -1,0 +1,2 @@
+A compact wavelength division de-multiplexer based on directional coupling of one-dimensional photonic crystal waveguides
+['Omnidirectional reflection bands', 'One-dimensional photonic crystal waveguides', 'Photonic integrated circuits', 'Wavelength division de-multiplexers']

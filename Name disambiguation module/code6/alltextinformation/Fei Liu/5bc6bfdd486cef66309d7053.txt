@@ -1,0 +1,2 @@
+Multi-source information integrated technology of workshop based on EPC criterion
+['EPC(electronic product code) criterion', 'Integrated', 'Multi-source information', 'System model']

@@ -1,0 +1,2 @@
+MiR-125b orchestrates cell proliferation, differentiation and migration in neural stem/progenitor cells by targeting Nestin
+['MiR-125b', 'Nestin', 'Neural stem/progenitor cells']

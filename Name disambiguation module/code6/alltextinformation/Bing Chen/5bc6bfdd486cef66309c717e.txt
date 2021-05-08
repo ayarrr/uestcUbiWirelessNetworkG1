@@ -1,0 +1,2 @@
+High-resolution mapping of anthropogenic heat in China from 1992 to 2010
+['Anthropogenic heat', 'DMSP-OLS', 'Major metropolis', 'Urban heat island']

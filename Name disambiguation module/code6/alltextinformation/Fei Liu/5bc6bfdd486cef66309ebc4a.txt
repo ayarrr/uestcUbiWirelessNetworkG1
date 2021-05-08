@@ -1,0 +1,2 @@
+Robust fuzzy control for nonlinear system with disk pole constraints
+['Discrete-time nonlinear systems', 'Disk pole constraints', 'Linear matrix inequalities (LMIs)', 'Parallel distributed compensation (PDC) approach', 'Robust guaranteed cost control', 'T-S fuzzy model']

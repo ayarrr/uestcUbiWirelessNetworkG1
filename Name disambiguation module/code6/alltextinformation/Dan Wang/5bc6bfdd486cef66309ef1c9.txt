@@ -1,0 +1,2 @@
+Study on aircraft carrier landing algorithm based on airborne electro-optical/inertial integrated navigation system
+['Carrier landing', 'Carrier-based aircraft', 'Inertial navigation', 'Infrared detecting', 'Motion estimation']

@@ -1,0 +1,2 @@
+Effect of complex network structure on synchronizability
+['Synchronization', 'Weighted network']

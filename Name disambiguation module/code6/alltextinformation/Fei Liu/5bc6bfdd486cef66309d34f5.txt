@@ -1,0 +1,2 @@
+H ∞ filtering for nonlinear systems via neural networks
+['H∞ filtering', 'Linear matrix inequalities (LMIs)', 'Neural networks', 'Nonlinear systems']

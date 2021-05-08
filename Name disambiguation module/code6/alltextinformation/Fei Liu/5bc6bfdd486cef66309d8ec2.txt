@@ -1,0 +1,2 @@
+Methods for integrating energy consumption and environmental impact considerations into the production operation of machining processes
+['Energy', 'Environmental impact', 'Green manufacturing', 'Machining', 'Production operation']

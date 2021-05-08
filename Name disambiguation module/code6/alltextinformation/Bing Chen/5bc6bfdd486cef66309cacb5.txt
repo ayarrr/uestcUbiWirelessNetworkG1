@@ -1,0 +1,2 @@
+Adaptive neural control for strict-feedback stochastic nonlinear systems with time-delay
+['Adaptive control', 'Backstepping', 'Neural network', 'Stochastic nonlinear time-delay systems']

@@ -1,0 +1,2 @@
+A band-notched UWB slot antenna with high skirt selectivity and controllable bandwidth
+['Band-notched', 'high selectivity', 'Slot antenna', 'ultra-wideband (UWB)']

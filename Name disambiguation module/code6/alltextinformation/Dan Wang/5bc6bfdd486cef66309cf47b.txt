@@ -1,0 +1,2 @@
+A new sample update strategy based on kringing
+['EGO', 'Kriging', 'Latin Hypercube Sampling', 'Optimization']

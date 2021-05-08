@@ -1,0 +1,2 @@
+Fluorescence molecular tomography reconstruction using hybrid regularization method
+['Fluorescence molecular tomography', 'Hybrid regularization', 'Lanczos bidiagonalization', 'Least square QR', 'Truncated singular value decomposition']

@@ -1,0 +1,2 @@
+A turbo FDE technique for OFDM system without cyclic prefix
+['Cyclic reconstruction', 'Frequency domain equalization', 'ICI', 'ISI', 'MMSE', 'OFDM']

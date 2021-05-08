@@ -1,0 +1,2 @@
+An improved limit for Γ<inf>ee</inf> of X(3872) and Γ<inf>ee</inf> measurement of ψ(3686)
+['BESIII', 'Charmonium spectroscopy', 'X(3872)', 'Γ<inf>ee</inf>', 'ψ(3686)']

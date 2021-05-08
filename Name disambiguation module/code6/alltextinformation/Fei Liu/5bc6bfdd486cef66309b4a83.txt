@@ -1,0 +1,2 @@
+Feedback predictive control for constrained fuzzy systems with Markovian jumps
+['Markovian jump parameters', 'model predictive control', 'partly unknown transition probabilities', 'semi-definite programming', 'Uncertain nonlinear systems']

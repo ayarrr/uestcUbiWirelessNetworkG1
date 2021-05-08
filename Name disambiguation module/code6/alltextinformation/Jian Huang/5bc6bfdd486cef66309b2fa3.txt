@@ -1,0 +1,2 @@
+Annealing of indium-doped CdMnTe single crystals under Cd vapors
+['A1. Characterization', 'A1. Point defects', 'A2. Bridgman technique', 'B2. Semiconducting II-VI materials']

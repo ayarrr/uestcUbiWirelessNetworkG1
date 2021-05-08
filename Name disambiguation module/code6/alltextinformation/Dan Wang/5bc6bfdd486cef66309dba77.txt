@@ -1,0 +1,2 @@
+Neural network adaptive control for cooperative path-following of marine surface vessels
+['Backstepping', 'Marine surface vessel', 'Neural network']

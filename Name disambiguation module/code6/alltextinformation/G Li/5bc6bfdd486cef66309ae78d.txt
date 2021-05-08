@@ -1,0 +1,2 @@
+Wellbore flow and heat transfer of drilling with foam
+['bottomhole pressure', 'foam drilling', 'minimum gas injection rate', 'minimum velocity', 'wellbore heat transfer']

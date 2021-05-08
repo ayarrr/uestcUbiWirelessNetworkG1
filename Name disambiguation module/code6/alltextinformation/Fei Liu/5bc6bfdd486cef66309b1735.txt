@@ -1,0 +1,2 @@
+An internet-based product customization system for CIM
+['Ceramic products', 'CIM', 'Internet based', 'Product customization']

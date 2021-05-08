@@ -1,0 +1,2 @@
+Design and implementation of the network electronic identity management system
+['Electronic identity (eID)', 'Identity management', 'Management system', 'Privacy protection', 'State transition']

@@ -1,0 +1,2 @@
+Analysis and simulation on dynamic stress of tracked vehicle sprocket based on rigid-flexible coupling
+['Dynamic stress', 'Rigid-flexible coupling', 'Sprocket gear ring', 'Tracked vehicle']

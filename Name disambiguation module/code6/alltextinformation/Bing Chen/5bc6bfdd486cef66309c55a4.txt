@@ -1,0 +1,2 @@
+MYC protein expression is associated with poor prognosis in diffuse large B cell lymphoma patients treated with RCHOP chemotherapy
+['Diffuse large B cell lymphoma', 'MYC', 'Rituximab']

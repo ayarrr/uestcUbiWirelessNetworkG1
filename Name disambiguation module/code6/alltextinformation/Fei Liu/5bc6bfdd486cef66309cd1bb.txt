@@ -1,0 +1,2 @@
+Evaluation of machine tool remanufacturing scheme based on entropy weight and AHP
+['Analytic hierarchy process', 'Entropy weight', 'Evaluation model', 'Machine tool', 'Remanufacturing']

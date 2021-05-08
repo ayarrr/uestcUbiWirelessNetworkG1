@@ -1,0 +1,2 @@
+A 47-dB linear CMOS variable gain amplifier using current squaring technique
+['CMOS', 'current squaring', 'decibel linear', 'VGA']

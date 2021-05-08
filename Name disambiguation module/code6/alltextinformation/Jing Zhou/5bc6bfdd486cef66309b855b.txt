@@ -1,0 +1,2 @@
+Growth rate model of InP epitaxial lateral overgrowth
+['Diffusion', 'Epitaxial lateral overgrowth', 'Growth model', 'Growth rate']

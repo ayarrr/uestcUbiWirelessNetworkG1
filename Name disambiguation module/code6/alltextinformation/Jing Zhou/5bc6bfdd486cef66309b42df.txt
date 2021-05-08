@@ -1,0 +1,2 @@
+Analysis of relationship between local and global ductility demands of multi-rise structures
+['Building structure', 'Ductility demand', 'Lateral stiffness', 'Theoretical analysis']

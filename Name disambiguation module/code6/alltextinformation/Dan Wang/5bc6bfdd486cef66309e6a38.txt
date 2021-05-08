@@ -1,0 +1,2 @@
+A bidding model for a virtual power plant considering uncertainties
+['Electricity market', 'Robust optimization', 'Stochastic programming', 'Uncertainty', 'Virtual power plant (VPP)']

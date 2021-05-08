@@ -1,0 +1,2 @@
+Integrated task-assigning model of energy saving and noise reduction in the machining systems and its application
+['Energy saving', 'Green manufacturing', 'Machining system', 'Noise reduction']

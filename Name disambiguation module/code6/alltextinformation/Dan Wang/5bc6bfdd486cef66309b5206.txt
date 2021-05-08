@@ -1,0 +1,2 @@
+Adaptive dynamic surface control for coordinated target tracking of autonomous surface vehicles using neural networks
+['Autonomous Surface Vehicles', 'Coordinated Target Tracking', 'Dynamic Surface Control', 'Neural Networks']

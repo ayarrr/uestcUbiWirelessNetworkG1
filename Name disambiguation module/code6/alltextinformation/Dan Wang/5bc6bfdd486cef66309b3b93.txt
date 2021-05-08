@@ -1,0 +1,2 @@
+An energy storage system sizing method for wind power integration
+['Energy storage system', 'Grid integration', 'Necessary capacity', 'Wind power']

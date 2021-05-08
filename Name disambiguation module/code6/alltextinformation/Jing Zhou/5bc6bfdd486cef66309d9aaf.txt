@@ -1,0 +1,2 @@
+Study on the integrated dynamic characteristics of a concrete gravity dam
+['Concrete gravity dam', 'Dynamic characteristic', 'Dynamic model test', 'Finite element analysis']

@@ -1,0 +1,2 @@
+On global adaptive synchronization in weighted complex networks
+['Lyapunov stability theory', 'pinning control', 'synchronization', 'weighted network']

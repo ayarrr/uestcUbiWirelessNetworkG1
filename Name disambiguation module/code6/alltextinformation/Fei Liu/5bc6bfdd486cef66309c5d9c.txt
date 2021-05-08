@@ -1,0 +1,2 @@
+A method of interactive surface free-form deformation based on control point and neighborhood constraints
+['Control point', 'Face modeling', 'Free-form deformation', 'Neighborhood constraints']

@@ -1,0 +1,2 @@
+Study on photon identification in photon spectrometer
+['ALICE photon spectrometer', 'Photon discrimination', 'Principal component analysis']

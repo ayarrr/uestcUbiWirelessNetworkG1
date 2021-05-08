@@ -1,0 +1,2 @@
+Design and experimental study of a 3-DOF parallel swivel head
+['Hybrid machine tool', 'Kinematic redundancy', 'Parallel robot', 'Singularity-free workspace']

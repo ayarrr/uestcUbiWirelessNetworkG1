@@ -1,0 +1,2 @@
+Fuel consumption estimate based on meso traffic characteristics and typical road environment
+['Driving pattern', 'Fuel consumptioin', 'Traffic characteristics', 'Traffic lights']

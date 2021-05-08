@@ -1,0 +1,2 @@
+Analysis of anti-disaster ability of lifeline network system based on proportionality
+['Entropy', 'Functional importance degree', 'Proportion', 'Topology importance degree']

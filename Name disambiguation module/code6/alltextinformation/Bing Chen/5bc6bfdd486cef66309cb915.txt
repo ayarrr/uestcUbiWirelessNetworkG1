@@ -1,0 +1,2 @@
+Structural classification and functional characterization of short-chain scorpion toxic peptides
+['Function', 'K+ channels', 'Scorpion toxin', 'Structure']

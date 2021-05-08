@@ -1,0 +1,2 @@
+Full-wave analysis of a microwave rectifying circuit using finite difference time domain algorithm
+['FDTD method', 'multiple FDTD cells', 'rectifying circuit', 'Schottky diode']

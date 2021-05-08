@@ -1,0 +1,2 @@
+Mathematical model of critical velocity for cuttings transport in microhole drilling
+['Critical velocity', 'Cuttings transport', 'Mechanism model', 'Microhole drilling', 'Solid-liquid flow']

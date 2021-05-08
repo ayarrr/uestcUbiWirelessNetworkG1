@@ -1,0 +1,2 @@
+Stiffness analysis of a hexaglide parallel loading mechanism
+['Eigenscrew decomposition', 'Parallel loading mechanism', 'Stiffness', 'Workspace']

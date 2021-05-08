@@ -1,0 +1,2 @@
+A two-step deposition process for electrode fabrication of CdZnTe detectors
+['CdZnTe', 'Deposition process', 'Electrode fabrication', 'Radiation detector', 'Two-step process']

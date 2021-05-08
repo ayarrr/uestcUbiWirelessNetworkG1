@@ -1,0 +1,2 @@
+Modeling using dynamic factor analysis and its application in process monitoring
+['Dynamic factor analysis', 'Modeling', 'Monitoring indices', 'Process monitoring']

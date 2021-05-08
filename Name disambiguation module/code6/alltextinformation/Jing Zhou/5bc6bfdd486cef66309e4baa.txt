@@ -1,0 +1,2 @@
+Theoretical analysis of band-gap properties of B
+['Band-gap', 'Boride alloy', 'Bowing parameter', 'GGA']

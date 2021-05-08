@@ -1,0 +1,2 @@
+Fuzzy approximate disturbance decoupling of MIMO nonlinear systems by backstepping and application to chemical processes
+['Adaptive control', 'Disturbance decoupling', 'Fuzzy control', 'Nonlinear systems', 'Stabilization', 'State feedback']

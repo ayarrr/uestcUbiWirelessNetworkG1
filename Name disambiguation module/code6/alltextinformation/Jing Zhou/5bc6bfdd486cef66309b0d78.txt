@@ -1,0 +1,2 @@
+Research in security of optic-based information communication architecture for next generation power system applications
+['Optic-based information communciation infrasture (OICI)', 'Real-time information applications of power system', 'Security', 'Vulnerability']

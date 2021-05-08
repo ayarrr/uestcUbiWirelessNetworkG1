@@ -1,0 +1,2 @@
+Consensus analysis for multiple autonomous agents with input delay and communication delay
+['Asynchronously-coupled consensus algorithm', 'Communication delay', 'Consensus', 'Input delay', 'Multi-agent systems']

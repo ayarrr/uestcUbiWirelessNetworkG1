@@ -1,0 +1,2 @@
+One-channel hit-miss transform with zero threshold by polarization encoding
+['Image processing', 'Morphological hit-miss transformation', 'Polarization encoding', 'Zero threshold']

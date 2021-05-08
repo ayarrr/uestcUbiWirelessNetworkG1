@@ -1,0 +1,2 @@
+Receding horizon H∞ control for discrete-time Markovian jump linear systems
+['Control', 'Current time jump mode', 'Markov jump linear systems', 'Mean square stability', "Pontryagin's minimum principle", 'Receding horizon H∞', 'Terminal weighting matrix']

@@ -1,0 +1,2 @@
+Factor analysis and its application to process monitoring
+['Factor analysis', 'Monitoring indices', 'Principal component analysis', 'TE process']

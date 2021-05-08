@@ -1,0 +1,2 @@
+Precision measurement of the integrated luminosity of the data taken by BESIII at center-of-mass energies between 3.810 GeV and 4.600 GeV
+['Bhabha scattering', 'charmonium', 'luminosity', 'precision measurement']

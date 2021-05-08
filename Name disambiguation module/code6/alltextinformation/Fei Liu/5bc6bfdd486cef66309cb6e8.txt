@@ -1,0 +1,2 @@
+Application of Kriging model to reliability analysis of solid rocket motor grain
+['Kriging method', 'Reliability analysis', 'Solid rocket motor', 'Viscoelasticity']

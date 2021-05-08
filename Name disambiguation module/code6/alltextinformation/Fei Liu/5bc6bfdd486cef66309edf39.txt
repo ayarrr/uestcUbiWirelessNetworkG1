@@ -1,0 +1,2 @@
+Dynamic process monitoring method based on recursive generalized eigenvalue decomposition using temporal covariance matrix
+['Dynamic process monitoring', 'Recursive generalized eigenvalue decomposition', 'Temporal predictability covariance matrix']

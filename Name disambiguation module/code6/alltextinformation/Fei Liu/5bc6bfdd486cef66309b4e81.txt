@@ -1,0 +1,2 @@
+On-line tool breakage monitoring method based on power information and cross-correlation algorithm
+['Condition on-line monitoring', 'Cross-correlation algorithm', "Cutting tools' condition", 'Motor power', 'Wavelet transforms']

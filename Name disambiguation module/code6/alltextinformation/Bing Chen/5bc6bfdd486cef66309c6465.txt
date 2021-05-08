@@ -1,0 +1,2 @@
+Adaptive fuzzy output tracking control of MIMO nonlinear uncertain systems
+['Adaptive fuzzy control', 'Backstepping', 'Multiple-input-multiple-output (MIMO) nonlinear systems', 'Output tracking', 'Uncertainty']

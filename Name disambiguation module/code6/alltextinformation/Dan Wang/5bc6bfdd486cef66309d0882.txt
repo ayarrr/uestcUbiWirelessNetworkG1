@@ -1,0 +1,2 @@
+Design and experimental study of a 6-DOF material testing machine
+['Compliant axis', 'Material test', 'Multiaxial material testing machine', 'Parallel robot']

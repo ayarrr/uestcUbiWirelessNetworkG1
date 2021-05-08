@@ -1,0 +1,2 @@
+Optimum sensor placement for health monitoring of latticed shell structure
+['Damage detection', 'Health monitoring', 'Latticed shell', 'Optimum placement', 'Sensor']

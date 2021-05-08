@@ -1,0 +1,2 @@
+Energy consumption and economic growth in China: A multivariate causality test
+['Autoregressive distributed lag', 'China', 'Energy consumption']

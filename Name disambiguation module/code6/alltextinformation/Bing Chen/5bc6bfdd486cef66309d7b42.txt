@@ -1,0 +1,2 @@
+The bone-derived collagen containing mineralized matrix for the loading of collagen-binding bone morphogenetic protein-2
+['BMP2', 'Bone regeneration', 'CCMBM', 'Ectopic bone formation']

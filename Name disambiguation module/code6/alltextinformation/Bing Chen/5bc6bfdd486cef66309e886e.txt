@@ -1,0 +1,2 @@
+Smart behavior of cement-based composite containing carbon fibers under three-point-bending load
+['Carbon fiber', 'Cement composite', 'Electrical conductivity', 'Smart behavior']

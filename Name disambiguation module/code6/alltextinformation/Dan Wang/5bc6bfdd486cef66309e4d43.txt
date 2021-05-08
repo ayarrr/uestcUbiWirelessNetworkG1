@@ -1,0 +1,2 @@
+Seamless transfer control strategy for grid-interactive inverters
+['batteries energy storage system', 'dual mode inverters', 'grid-tied/ standalone mode transfer', 'hysteresis current control', 'LCL filter', 'load voltage sag', 'power quality', 'PR control', 'seamless transfer', 'single-phase grid-interactive inverters']

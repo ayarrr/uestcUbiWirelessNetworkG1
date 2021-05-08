@@ -1,0 +1,2 @@
+Neural network-based robust adaptive control of nonlinear systems with unmodeled dynamics
+['Adaptive control', 'Neural networks', 'Nonlinear control', 'Robustness', 'Unmodeled dynamics']

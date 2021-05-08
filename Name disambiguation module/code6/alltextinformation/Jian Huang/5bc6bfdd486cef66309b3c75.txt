@@ -1,0 +1,2 @@
+Linc-UBC1 physically associates with polycomb repressive complex 2 (PRC2) and acts as a negative prognostic factor for lymph node metastasis and survival in bladder cancer
+['Bladder cancer', 'Linc-UBC1', 'Long intergenic noncoding RNA', 'Polycomb repressive complex 2', 'Prognostic factor']

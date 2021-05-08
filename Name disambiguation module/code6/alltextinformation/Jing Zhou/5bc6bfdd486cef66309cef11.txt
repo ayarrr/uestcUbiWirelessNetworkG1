@@ -1,0 +1,2 @@
+Study on nonlinear dynamic response of a beam with a breathing crack
+['Amplitude spectra', 'Breathing crack', 'Contact analysis', 'Sub-harmonics', 'Super-harmonics']

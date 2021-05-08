@@ -1,0 +1,2 @@
+Simulation research on adaptive control of a six-degree-of-freedom material-testing machine
+['6-DOF material-testing Machine', 'Adaptive control', 'Parallel robot', 'Stiffness estimation']

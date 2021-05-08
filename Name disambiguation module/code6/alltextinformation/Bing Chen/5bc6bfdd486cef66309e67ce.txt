@@ -1,0 +1,2 @@
+Delay-dependent stability analysis and controller synthesis for Markovian jump systems with state and input delays
+['Input delay', 'LMIs', 'Markovian parameters', 'Robust stochastic stability', 'Uncertain systems']

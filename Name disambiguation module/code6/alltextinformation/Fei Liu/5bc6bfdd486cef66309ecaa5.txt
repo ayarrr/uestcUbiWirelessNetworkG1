@@ -1,0 +1,2 @@
+Green manufacturing implementation assessment method based on risk matrix and fuzzy set theory
+['Fuzzy set theory', 'Green manufacturing', 'Risk assessment', 'Risk matrix']

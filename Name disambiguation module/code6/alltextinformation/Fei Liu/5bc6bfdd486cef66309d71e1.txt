@@ -1,0 +1,2 @@
+Method of discreting cusp vectors of helicoid and its application in minimization of the relief grinding of double circular-arc gear hob
+['Cusp', 'Form grinding', 'Grinding wheel', 'Helicoid', 'Optimization', 'Transitional surface']

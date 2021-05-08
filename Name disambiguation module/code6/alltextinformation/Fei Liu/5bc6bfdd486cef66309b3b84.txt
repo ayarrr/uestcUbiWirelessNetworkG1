@@ -1,0 +1,2 @@
+Energy efficiency acquisition method for electro-mechanical main driving system during the service process of machine tools
+['Efficiency', 'Energy', 'Machine tools']

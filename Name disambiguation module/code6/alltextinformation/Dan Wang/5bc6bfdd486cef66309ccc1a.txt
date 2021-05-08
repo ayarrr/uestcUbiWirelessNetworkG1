@@ -1,0 +1,2 @@
+Design of compact bandpass filter with enhanced stopband characteristics
+['bandpass filter', 'closed loop stepped impedance resonators', 'transmission zeros']

@@ -1,0 +1,2 @@
+Differential serum peptide profiling of patients with bone metastasis from primary hepatocellular carcinoma using MALDI-TOF-MS
+['Liver neoplasms', 'Matrix-assisted laser desorption ionization-time of flight mass spectrometry', 'Peptides', 'Serum', 'Tumor biomarker']

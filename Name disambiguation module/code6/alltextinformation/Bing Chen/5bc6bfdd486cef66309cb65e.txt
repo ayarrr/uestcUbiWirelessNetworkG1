@@ -1,0 +1,2 @@
+Adaptive neural control for a class of large-scale pure-feedback nonlinear systems
+['Adaptive decentralized control', 'Backstepping approach', 'Neural networks', 'Pure-feedback nonlinear large-scale systems']

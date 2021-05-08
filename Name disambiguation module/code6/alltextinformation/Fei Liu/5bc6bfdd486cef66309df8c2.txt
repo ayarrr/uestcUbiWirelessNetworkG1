@@ -1,0 +1,2 @@
+Unbiased H∞ filtering for neutral Markov jump systems
+['Linear matrix inequality', 'Markov jump system', 'Neutral time-delay', 'Stochastic Lyapunov-Krasovskii function', 'Unbiased H∞ filtering']

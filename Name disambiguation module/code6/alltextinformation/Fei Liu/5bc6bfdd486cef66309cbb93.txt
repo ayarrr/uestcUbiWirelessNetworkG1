@@ -1,0 +1,2 @@
+Fault detection based on probability principal component analysis without a prior information
+['Fault detection', 'Number of principal components', 'Probability principal component analysis']

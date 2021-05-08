@@ -1,0 +1,2 @@
+Evaluation of intensity measures for pulse-like ground motions
+['Correlation', 'Efficiency', 'Intensity measures', 'Pulse-like ground motion', 'Single degree freedom system']

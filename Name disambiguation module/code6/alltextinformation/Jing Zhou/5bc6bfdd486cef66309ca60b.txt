@@ -1,0 +1,2 @@
+Condition identification based on vibration measurements for free spanning submarine pipelines
+['Condition identification', 'Free span', 'Frequency structure', 'Kernel discriminant analysis (KDA)', 'Submarine pipelines']

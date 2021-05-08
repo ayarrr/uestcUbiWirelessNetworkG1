@@ -1,0 +1,2 @@
+Adaptive neural tracking control of nonlinear time-delay systems with disturbances
+['Adaptive control', 'Decoupled backstepping', 'Neural control', 'Nonlinear time-delay systems']

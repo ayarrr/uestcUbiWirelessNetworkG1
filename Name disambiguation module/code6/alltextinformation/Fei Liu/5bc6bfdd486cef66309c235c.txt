@@ -1,0 +1,2 @@
+Improved relief grinding method of gear hob with equal relief angle
+['Gear hob', 'Grinding wheel', 'Regrinding error', 'Relief grinding', 'Simulation']

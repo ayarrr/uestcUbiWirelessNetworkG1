@@ -1,0 +1,2 @@
+Research of the aeroacoustic noise simulation based on transition/scale-adapt model and FW-H equation
+['γ-(Reθt)̄ transition model', 'Aeroacoustic noise', 'Ffowcs Williams-Hawkings equation', 'Scale-adaptive model', 'Transition/separated flow mode']

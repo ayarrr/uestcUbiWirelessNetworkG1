@@ -1,0 +1,2 @@
+Information interactive model and implementation technology in shop floor for networked manufacturing
+['Information exchange', 'Information terminal', 'Networked manufacturing', 'Peer-to-peer', 'Shop floor']

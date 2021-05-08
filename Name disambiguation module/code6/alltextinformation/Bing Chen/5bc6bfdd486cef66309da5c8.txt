@@ -1,0 +1,2 @@
+Erk1/2 promotes proliferation and inhibits neuronal differentiation of neural stem cells
+['Development', 'Differentiation', 'Neural stem cells', 'Proliferation', 'Signal']

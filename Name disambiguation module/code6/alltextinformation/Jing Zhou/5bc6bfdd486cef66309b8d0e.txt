@@ -1,0 +1,2 @@
+Tensor form and rate form of S-R decomposing theorem
+['Continuous medium', 'Deformation gradient', 'Direct division', 'Real square matrix', 'Rotation rate', 'S-R decomposing theorem', 'Strain rate']

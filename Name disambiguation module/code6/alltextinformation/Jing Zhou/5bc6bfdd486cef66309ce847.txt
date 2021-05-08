@@ -1,0 +1,2 @@
+Photon discrimination simulation with the PCA method
+['ALICE', 'PCA', 'PHOS', 'Photon discrimination']

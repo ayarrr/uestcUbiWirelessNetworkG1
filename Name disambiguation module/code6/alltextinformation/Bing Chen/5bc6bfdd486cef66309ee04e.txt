@@ -1,0 +1,2 @@
+Standard chemotherapy is superior to high-dose chemotherapy with autologous stem cell transplantation on overall survival as the first-line therapy for patients with aggressive non-Hodgkin lymphoma: A meta-analysis
+['Autologous stem cell transplantation', 'High-dose chemotherapy', 'Meta-analysis', "Non-Hodgkin's lymphoma"]

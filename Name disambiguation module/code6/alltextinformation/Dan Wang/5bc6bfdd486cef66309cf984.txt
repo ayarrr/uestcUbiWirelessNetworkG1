@@ -1,0 +1,2 @@
+User comfort constraint demand response for residential thermostatically-controlled loads and efficient power plant modeling
+['Demand response', 'Demand side management', 'Efficiency power generator (EPG)', 'Efficiency power plant (EPP)', 'Renewable integration', 'Thermostatically-controlled load']

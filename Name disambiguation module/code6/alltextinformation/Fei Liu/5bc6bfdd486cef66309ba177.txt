@@ -1,0 +1,2 @@
+Research and modeling on real-time control of consignment-sales inventory resource in distribution
+['Consignment-sales', 'Distribution', 'Fulfill order', 'Inventory', 'Real-time control']

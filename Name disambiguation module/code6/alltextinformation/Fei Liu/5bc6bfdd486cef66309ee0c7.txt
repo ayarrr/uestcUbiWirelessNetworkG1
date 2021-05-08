@@ -1,0 +1,2 @@
+Outsourcing resources integration service mode and semantic description in cloud manufacturing environment
+['Cloud manufacturing', 'Ontology', 'Outsourcing', 'Resources integration', 'Semantic description', 'Web service modeling language', 'Web services']

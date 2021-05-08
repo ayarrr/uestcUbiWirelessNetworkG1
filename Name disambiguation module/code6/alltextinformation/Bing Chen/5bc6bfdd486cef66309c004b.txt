@@ -1,0 +1,2 @@
+Simulation studies of coupled rigid and flexible multi-body dynamics for multiple launch rocket systems
+['Coupled rigid and flexible multi-body dynamics', 'Lagrange equation', 'Launch dynamics', 'Multiple launch rocket system', 'Vibration and wave']

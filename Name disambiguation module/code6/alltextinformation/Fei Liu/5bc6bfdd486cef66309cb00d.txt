@@ -1,0 +1,2 @@
+Research of CAD system for space-grid structures based on objectARX
+['ObjectARX', 'Parametric drive', 'Space grid structures']

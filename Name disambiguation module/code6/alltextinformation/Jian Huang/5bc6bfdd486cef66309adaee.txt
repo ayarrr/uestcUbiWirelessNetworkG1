@@ -1,0 +1,2 @@
+Novel wearable multi-DOF upper limb rehabilitation robot driven by pneumatic muscle
+['Multiple degrees of freedom', 'Pneumatic muscle', 'Proportion integration differentiation (PID) control', 'Rehabilitation robot', 'Wearable']

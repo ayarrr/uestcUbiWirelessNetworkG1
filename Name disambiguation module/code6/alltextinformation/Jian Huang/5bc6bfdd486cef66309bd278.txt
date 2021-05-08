@@ -1,0 +1,2 @@
+Study on capacitive Frisch grid CdZnTe detector parameter optimization and fabrication
+['CdZnTe', 'Design', 'Nuclear detector', 'Operation', 'Simulation']

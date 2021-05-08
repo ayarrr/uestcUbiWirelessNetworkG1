@@ -1,0 +1,2 @@
+A Communication Performance Evaluation on Smoothing Power Fluctuations Based on Demand Response Control of Thermostatically-controlled Appliances
+['Demand response', 'Distributed heat pumps', 'Smart power consumption', 'Wind power']

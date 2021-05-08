@@ -1,0 +1,2 @@
+Five-axis flank milling of sculptured surface with barrel cutters
+['Barrel cutter', 'Flank milling', 'Iterference avoidance', 'Sculptured surface']

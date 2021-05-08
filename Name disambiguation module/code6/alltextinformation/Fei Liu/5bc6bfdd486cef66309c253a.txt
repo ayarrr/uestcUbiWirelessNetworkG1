@@ -1,0 +1,2 @@
+Output peak performance control of Markov jump systems
+['LMI', 'Markov linear jump system', 'Peak index', 'Stochastic stability']

@@ -1,0 +1,2 @@
+Study on layed data processing of sheet metal and its applications in reverse engineering
+['Form error', 'Layer point cloud processing algorithm', 'Reverse engineering', 'Sheet metal']

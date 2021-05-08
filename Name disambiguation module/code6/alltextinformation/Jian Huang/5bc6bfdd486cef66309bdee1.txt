@@ -1,0 +1,2 @@
+Effect of Ar pressure on properties of polycrystalline CdZnTe films
+['Ar pressure', 'CdZnTe film', 'Close-spaced sublimation']

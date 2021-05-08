@@ -1,0 +1,2 @@
+Simultaneous determination of citalopram and its metabolite in human plasma by LC-MS/MS applied to pharmacokinetic study
+['Citalopram', 'Desmethylcitalopram', 'LC-MS/MS', 'Pharmacokinetics']

@@ -1,0 +1,2 @@
+Discussion on focus inversion algorithm of 2-D MT data
+['Conjugate gradient', 'Focus inversion imaging', 'MT', 'Objective function', 'Stable function']

@@ -1,0 +1,2 @@
+Improved neovascularization and wound repair by targeting human basic fibroblast growth factor (bFGF) to fibrin
+['Fibrin', 'Growth factor', 'Kringle', 'Neovascularization', 'Plasma', 'Wound healing']

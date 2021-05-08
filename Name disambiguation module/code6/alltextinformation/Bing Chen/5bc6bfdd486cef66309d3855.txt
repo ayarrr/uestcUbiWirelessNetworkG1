@@ -1,0 +1,2 @@
+Adaptive fuzzy tracking control for induction motors via backstepping
+['Adaptive control', 'Backstepping', 'Fuzzy control', 'Induction motor', 'Nonlinear system', 'Uncertainty']

@@ -1,0 +1,2 @@
+Dual-loss-modulated Q-switched and mode-locked Nd:GdVO
+['Dual loss modulation', 'Laser stability', 'Modulation depth', 'Q-switching and mode-locking']

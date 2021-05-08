@@ -1,0 +1,2 @@
+Multi-period energy model of electro-mechanical main driving system during the service process of machine tools
+['Energy', 'Machine tools', 'Model', 'Period']

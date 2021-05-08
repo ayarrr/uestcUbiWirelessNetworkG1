@@ -1,0 +1,2 @@
+Cloning and expression of human PTP1B cDNA in E. coli
+['cDNA', 'High level expression', 'Inclusion body', 'pET-28a(+)', 'Protein tyrosine phosphatase 1B']

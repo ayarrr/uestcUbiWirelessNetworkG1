@@ -1,0 +1,2 @@
+Experimental study of mechanical properties of normal-strength concrete exposed to high temperatures at an early age
+['Compressive strength', 'Concrete', 'Curing', 'High temperature', 'Mechanical properties']

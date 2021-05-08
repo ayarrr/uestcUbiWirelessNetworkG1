@@ -1,0 +1,2 @@
+Evidence for e<sup>+</sup>e<sup>-</sup> →γχc1,2 at center-of-mass energies from 4.009 to 4.360 GeV
+['decays of hadronic', 'electron-positron collisions', 'hadron production by', 'Heavy quarkonia']

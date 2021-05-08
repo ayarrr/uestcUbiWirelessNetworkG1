@@ -1,0 +1,2 @@
+The targeting behavior of folate-nanohydrogel evaluated by near infrared imaging system in tumor-bearing mouse model
+['Active targeting', 'Folate receptor', 'Nanohydrogel', 'NIR imaging', 'Tumor']

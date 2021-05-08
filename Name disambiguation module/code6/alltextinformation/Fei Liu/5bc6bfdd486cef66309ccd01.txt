@@ -1,0 +1,2 @@
+The inhibitory effect of OGT gene expression on the level of tau phosphorylation
+["Alzheimer's disease", 'OGT', 'RNA interference', 'Tau']

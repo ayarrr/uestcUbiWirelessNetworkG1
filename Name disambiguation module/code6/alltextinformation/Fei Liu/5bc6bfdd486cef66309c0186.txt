@@ -1,0 +1,2 @@
+New approach to robust controller design for time-varying uncertain systems
+['Linear matrix inequalities', 'Piecewise Lyapunov functions', 'Robust control']

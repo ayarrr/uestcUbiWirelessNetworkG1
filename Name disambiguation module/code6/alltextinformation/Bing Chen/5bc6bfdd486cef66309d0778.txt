@@ -1,0 +1,2 @@
+Grey matter abnormalities in untreated hyperthyroidism: A voxel-based morphometry study using the DARTEL approach
+['DARTEL', 'Hyperthyroidism', 'Magnetic resonance imaging', 'Voxel-based morphometry']

@@ -1,0 +1,2 @@
+H∞ control for discrete-time markov jump systems with uncertain transition probabilities
+['H∞ control', 'Markov jump systems', 'uncertain transition probabilities']

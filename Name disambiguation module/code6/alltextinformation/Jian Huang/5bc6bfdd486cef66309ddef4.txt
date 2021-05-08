@@ -1,0 +1,2 @@
+Photoluminescence analysis of Cd0.8Mn0.2Te single crystal grown by the vertical Bridgman method
+['Crystal growth', 'Luminescence', 'Recombination and trapping', 'Semiconductors']

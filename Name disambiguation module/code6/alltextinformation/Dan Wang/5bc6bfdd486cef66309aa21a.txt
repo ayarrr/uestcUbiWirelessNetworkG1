@@ -1,0 +1,2 @@
+Technology for locating system of the laying pipe manipulator
+['Laying pipe manipulator', 'Locating system', 'Photoelectric target']

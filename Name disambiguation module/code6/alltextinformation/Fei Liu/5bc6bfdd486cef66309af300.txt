@@ -1,0 +1,2 @@
+Cyclic AMP-dependent protein kinase regulates 9G8-mediated alternative splicing of tau exon 10
+['9G8', 'Alternative splicing', 'PKA', 'Tau']

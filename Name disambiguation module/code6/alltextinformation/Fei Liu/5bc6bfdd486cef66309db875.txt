@@ -1,0 +1,2 @@
+Hybrid formation control of multiple mobile robots with obstacle avoidance
+['Active behaviors', 'Formation control', 'Multiple mobile robots', 'Supervision mechanism', 'Virtual target structure']

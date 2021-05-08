@@ -1,0 +1,2 @@
+Relationship between resources use and economic growth in Fujian Province: An ARDL approach
+['Autoregressive distributed lag', 'Economic growth', 'Fujian Province', 'Material flow analysis', 'Resource use']

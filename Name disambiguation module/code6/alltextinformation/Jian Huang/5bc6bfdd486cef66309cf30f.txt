@@ -1,0 +1,2 @@
+A versatile microprocessor-based multichannel stimulator for experimental use in epidural spinal cord stimulation
+['Epidural spinal cord stimulation', 'Microprocessor-based', 'Multichannel', 'Stimulator']

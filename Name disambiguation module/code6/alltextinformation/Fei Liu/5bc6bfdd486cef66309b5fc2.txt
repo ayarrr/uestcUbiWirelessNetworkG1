@@ -1,0 +1,2 @@
+Nonsynonymous substitution rate (Ka) is a relatively consistent parameter for defining fast-evolving and slow-evolving protein-coding genes
+['']

@@ -1,0 +1,2 @@
+The main technology of laying pipe manipulator
+['Control system', 'Layingpipe manipulator', 'Photoelectric locating system']

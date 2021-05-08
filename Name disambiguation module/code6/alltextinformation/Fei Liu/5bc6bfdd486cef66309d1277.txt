@@ -1,0 +1,2 @@
+Mixed-skill worker assignment optimization model for assembly line
+['Algorithms', 'Assembly line', 'Assignment', 'Model', 'Optimization']

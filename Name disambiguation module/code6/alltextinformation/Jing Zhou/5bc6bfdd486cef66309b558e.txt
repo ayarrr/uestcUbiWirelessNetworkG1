@@ -1,0 +1,2 @@
+Epitaxial lateral overgrowth of InP/GaAs (1 0 0) heterostructures by metalorganic chemical vapor deposition
+['Epitaxial lateral overgrowth', 'MOCVD', 'Scanning electronic microscopy', 'X-ray diffraction']

@@ -1,0 +1,2 @@
+Study on defects in Cd1-xMnxTe crystals grown by vertical Bridgman method
+['Cd1-xMnxTe', 'Dislocation', 'IR transmittance', 'Te inclusion', 'Twin']

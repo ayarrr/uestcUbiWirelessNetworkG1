@@ -1,0 +1,2 @@
+Buffer optimization for high-quality InP-on-GaAs(001) quasi-substrates
+['Compliant', 'Double low-temperature buffers', 'InGaP/InP SLSs', 'InP-on-GaAs', 'MOCVD']

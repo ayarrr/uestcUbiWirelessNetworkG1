@@ -1,0 +1,2 @@
+A 270-MHz to 1.5-GHz CMOS PLL clock generator with reconfigurable multi-functions for FPGA
+['clock generator', 'PLL', 'reconfigurable', 'VCO']

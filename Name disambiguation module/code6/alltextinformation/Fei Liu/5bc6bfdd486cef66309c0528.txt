@@ -1,0 +1,2 @@
+Networked marketing operation model based on A2C and D2C
+['A2C and D2C', 'Architecture', 'Networked marketing', 'Operation model']

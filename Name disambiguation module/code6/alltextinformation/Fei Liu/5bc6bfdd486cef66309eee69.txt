@@ -1,0 +1,2 @@
+Realistic wrinkle generation for 3D face modeling based on automatically extracted curves and improved shape control functions
+['3D face modeling', 'Adaptive subdivision technique', 'Feature alignment', 'Image preprocessing', 'Wrinkle']

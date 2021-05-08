@@ -1,0 +1,2 @@
+XenMVM: Exploring potential performance of virtualized multi-core systems
+['Multi-core system', 'Resource management', 'Scheduling algorithms', 'Virtual machine']

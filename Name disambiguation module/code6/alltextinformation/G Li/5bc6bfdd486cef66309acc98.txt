@@ -1,0 +1,2 @@
+LD-pumped passively Q-switched Nd:YVO4/YVO4 green laser with a MgO-PPLM and Cr4+:YAG saturable absorber
+['MgO-PPLN', 'Nd:YVO4/YVO4 crystals', 'Solid-state laser']

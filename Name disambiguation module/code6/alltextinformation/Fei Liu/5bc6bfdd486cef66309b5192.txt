@@ -1,0 +1,2 @@
+Workpiece online identification method based on SVM and power information
+['Job shop', 'Machining', 'Motor power', 'Support vector machine(SVM)', 'Workpiece identification']

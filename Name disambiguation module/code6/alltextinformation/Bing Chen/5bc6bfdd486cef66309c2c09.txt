@@ -1,0 +1,2 @@
+Homozygous lethality and heterozygous spotting due to a novel missense mutation in the mouse Kit gene
+['Death', 'Identification', 'Kit', 'Mapping', 'White spotting']

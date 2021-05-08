@@ -1,0 +1,2 @@
+Multi-class support vector machines for brain neural signals recognition
+['Extraction algorithm', 'Neural ensembles', 'Neural prosthesis', 'Support vector machines (SVMs)']

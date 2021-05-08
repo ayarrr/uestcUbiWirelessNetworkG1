@@ -1,0 +1,2 @@
+Study on magnetic field and free boundary of magnetic fluid seal
+['Free boundary', 'Magnetic field analysis', 'Magnetic fluid', 'Numerical simulation', 'Seal']

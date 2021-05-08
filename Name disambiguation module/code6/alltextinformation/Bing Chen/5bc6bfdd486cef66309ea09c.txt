@@ -1,0 +1,2 @@
+A compact optical wavelength splitter in one-dimensional photonic crystal waveguides
+['integrated optics', 'omnidirectional reflection band', 'photonic crystals', 'wavelength splitter']

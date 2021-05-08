@@ -1,0 +1,2 @@
+Evaluation of the potential regulation capacity of water heater loads
+['demand response', 'lifetime', 'load shedding', 'potential regulation capacity', 'water heaters']

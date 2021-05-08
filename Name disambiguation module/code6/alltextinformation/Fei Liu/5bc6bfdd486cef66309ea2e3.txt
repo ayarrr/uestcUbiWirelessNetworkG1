@@ -1,0 +1,2 @@
+Two-phase decision-making strategy for remanufacturing process planning
+['Decision-making', 'Expert assessment', 'Fuzzy linear regression', 'Process planning', 'Remanufacturing']

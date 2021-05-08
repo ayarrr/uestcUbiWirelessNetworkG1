@@ -1,0 +1,2 @@
+Design and implementation of digital battery simulator
+['Control', 'Dynamic models', 'Electric batteries', 'Exterior characteristics', 'Simulator', 'Voltage source PWM converter']

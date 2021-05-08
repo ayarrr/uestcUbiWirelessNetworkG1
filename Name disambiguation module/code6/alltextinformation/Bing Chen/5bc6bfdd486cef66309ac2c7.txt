@@ -1,0 +1,2 @@
+Design and dynamic simulation on adjustable stiffness hydro-pneumatic suspension vibration characters of tracked vehicle
+['adjustable stiffness', 'dynamics response', 'hydro-pneumatic suspension', 'multibody system simulation', 'styling']

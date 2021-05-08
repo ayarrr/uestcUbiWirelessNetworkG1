@@ -1,0 +1,2 @@
+Neural adaptive control for leader-follower flocking of networked nonholonomic agents with unknown nonlinear dynamics
+['distributed control', 'flocking', 'neural networks', 'nonholonomic agents']

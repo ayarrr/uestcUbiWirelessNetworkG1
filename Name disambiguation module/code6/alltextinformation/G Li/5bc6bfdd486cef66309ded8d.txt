@@ -1,0 +1,2 @@
+High efficient continuous wave operation of a Ho:YAP laser at room temperature
+['Diode pumping', 'Ho:YAP', 'Solid-state lasers', 'Tm:YLF']

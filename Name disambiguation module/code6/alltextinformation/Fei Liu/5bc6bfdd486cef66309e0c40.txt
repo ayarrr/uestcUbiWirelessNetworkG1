@@ -1,0 +1,2 @@
+Gain-scheduled fault detection on stochastic nonlinear systems with partially known transition jump rates
+['Continuous gain scheduling', 'Fault detection (FD)', 'Markov jump system', 'Nonlinearities', 'Observer']

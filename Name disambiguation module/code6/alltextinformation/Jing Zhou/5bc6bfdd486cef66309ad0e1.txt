@@ -1,0 +1,2 @@
+A high-resolution compact optical true-time delay beamformer using fiber Bragg grating and highly dispersive fiber
+['Beamformer', 'Dispersive fiber', 'Optical fiber grating', 'True time delay']

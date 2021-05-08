@@ -1,0 +1,2 @@
+Analysis of weld pool dynamic during stationary laser-MIG hybrid welding
+['Fluid flow', 'Laser-MIG hybrid welding', 'Mathematical model', 'Weld pool']

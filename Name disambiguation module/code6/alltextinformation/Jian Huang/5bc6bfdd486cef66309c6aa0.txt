@@ -1,0 +1,2 @@
+Microstructure and softening of laser-welded 960 MPa grade high strength steel joints
+['HAZ', 'laser welding', 'microstructure', 'softening']

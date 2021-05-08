@@ -1,0 +1,2 @@
+Industrial process monitoring and fault diagnosis with nonlinear independent component analysis
+['Fault diagnosis', 'Multi-layer perceptions', 'NICA', 'Process monitoring', 'TE process']

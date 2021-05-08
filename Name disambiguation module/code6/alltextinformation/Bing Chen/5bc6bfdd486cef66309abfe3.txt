@@ -1,0 +1,2 @@
+Flash electroretinogram for various dark adaptation duration in adult cats
+['Cats', 'Dark adaptation', 'Electroretinogram']

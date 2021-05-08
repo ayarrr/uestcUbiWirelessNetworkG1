@@ -1,0 +1,2 @@
+Bayesian analysis of three-parameter Weibull distribution based on Gibbs sampling algorithm
+['Adaptive rejection sampling', 'Bayesian analysis', 'Gibbs sampling', 'Hazard rate', 'Reliability', 'Three-parameter Weibull distribution']

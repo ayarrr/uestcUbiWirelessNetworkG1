@@ -1,0 +1,2 @@
+Research on demand response for thermostatically controlled appliances based on normalized temperature extension margin control strategy
+['Demand response', 'Heat pump', 'Normalized temperature extension margin', 'Smart power consumption', 'Thermostatically controlled appliances']

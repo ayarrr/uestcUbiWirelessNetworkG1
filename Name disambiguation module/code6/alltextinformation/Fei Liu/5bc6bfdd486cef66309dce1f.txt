@@ -1,0 +1,2 @@
+Aqueous synthesis of PbS quantum dots for noninvasive near-infrared fluorescence imaging in a mouse model
+['Biomedical imaging', 'Near-infrared', 'PbS', 'Quantum dots']

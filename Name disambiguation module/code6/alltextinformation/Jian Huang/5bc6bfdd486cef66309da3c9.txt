@@ -1,0 +1,2 @@
+Fabrication and characterization of transparent n-ZnS/p-diamond film heterojunction
+['Diamond', 'Heterojunction', 'ZnS']

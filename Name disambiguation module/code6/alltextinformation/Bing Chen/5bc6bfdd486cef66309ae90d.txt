@@ -1,0 +1,2 @@
+The human pluripotency gene NANOG/NANOGP8 is expressed in gastric cancer and associated with tumor development
+['Gastric cancer', 'NANOG', 'NANOGP8', 'Stem cell']

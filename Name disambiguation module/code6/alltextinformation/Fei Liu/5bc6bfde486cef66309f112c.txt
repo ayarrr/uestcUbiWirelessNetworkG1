@@ -1,0 +1,2 @@
+An integrated method for product material selection considering environmental factors and a case study
+['Analytic hierarchy process', 'Environmental impact', 'Grey relational analysis', 'Material selection']

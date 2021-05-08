@@ -1,0 +1,2 @@
+Synthesis of anisole from phenol with dimethyl carbonate over inorganic nitrate
+['Anisole', 'Dimethyl carbonate', 'Nitrate catalyst', 'Phenol']

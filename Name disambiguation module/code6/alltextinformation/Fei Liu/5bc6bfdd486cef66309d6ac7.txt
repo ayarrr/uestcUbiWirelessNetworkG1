@@ -1,0 +1,2 @@
+Image reconstruction for synchronous data acquisition in fluorescence molecular tomography
+['Fluorescence', 'image reconstruction', 'synchronous data acquisition', 'tomography']

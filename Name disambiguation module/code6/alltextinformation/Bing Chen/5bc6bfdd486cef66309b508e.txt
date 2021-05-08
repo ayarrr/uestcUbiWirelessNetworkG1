@@ -1,0 +1,2 @@
+Robust adaptive neural speed tracking control for the induction motor drive system
+['Adaptive control', 'Backstepping', 'Induction motor', 'Neural control', 'Nonlinear system', 'Uncertainty']

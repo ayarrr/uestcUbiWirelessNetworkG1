@@ -1,0 +1,2 @@
+Consensus of second-order multi-agent systems under communication delay
+['Consensus', 'Second-order multi-agent systems', 'Switching topology', 'Time-varying communication delay']

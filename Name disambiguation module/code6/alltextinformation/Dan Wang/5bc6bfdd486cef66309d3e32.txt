@@ -1,0 +1,2 @@
+Robust adaptive neural network control for strict-feedback nonlinear systems with uncertainties
+['robust adaptive control', 'single neural network', 'Strict-feedback nonlinear systems', 'uncertainties']

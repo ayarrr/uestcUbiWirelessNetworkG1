@@ -1,0 +1,2 @@
+TLCD semi-active control methodology for fixed offshore platform using discrete-time neural networks sliding mode law
+['Fixed offshore platform', 'Neural networks', 'Semi-active control', 'Sliding mode variables tructure control', 'Tuned liquid column damper']

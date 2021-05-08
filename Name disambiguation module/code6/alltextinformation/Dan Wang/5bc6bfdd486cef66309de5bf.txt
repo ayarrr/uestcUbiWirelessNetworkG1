@@ -1,0 +1,2 @@
+Power control strategy of directly driven wind turbine with energy storage system
+['Directly-driven', 'Energy storage system', 'Low voltage ride-through', 'Smoothing of output power', 'Wind power system']

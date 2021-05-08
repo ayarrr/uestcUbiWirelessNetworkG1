@@ -1,0 +1,2 @@
+Robust H∞ control of Takagi-Sugeno fuzzy systems with state and input time delays
+['Delay-dependent stabilization', 'H∞ control', 'T-S fuzzy system', 'Time delay', 'Uncertainty']

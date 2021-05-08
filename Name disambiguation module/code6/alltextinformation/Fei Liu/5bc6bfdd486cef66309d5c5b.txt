@@ -1,0 +1,2 @@
+Neural-network-based finite-time H∞ control for extended Markov jump nonlinear systems
+['Finite-time stabilization', 'H ∞ control', 'Markov jump systems', 'Neural networks', 'Nonlinearities', 'Transition probabilities']

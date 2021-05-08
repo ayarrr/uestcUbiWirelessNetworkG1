@@ -1,0 +1,2 @@
+Neural network based stochastic optimal control for nonlinear Markov jump systems
+['Linear matrix inequalities (LMIs)', 'Markovian jump systems', 'Multilayer neural', 'Nonlinearities', 'Stochastic optimal control']

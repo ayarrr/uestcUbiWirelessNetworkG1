@@ -1,0 +1,2 @@
+Stabilization of cluster in wireless sensor and actor network
+['Jump linear system', 'Markov chains', 'Wireless sensor and actor networks']

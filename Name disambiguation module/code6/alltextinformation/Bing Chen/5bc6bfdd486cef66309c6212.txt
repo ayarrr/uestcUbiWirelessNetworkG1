@@ -1,0 +1,2 @@
+Clinical features and prognostic factors of kidney cancer patients with bone metastases
+['Bone metastasis', 'Carcinoma, renal cell', 'Neoplasm metastasis', 'Prognosis']

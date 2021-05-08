@@ -1,0 +1,2 @@
+Estimation of fine dust particles distribution in machining workshop based on COwZ model
+['COwZ model', 'Dry cutting', 'Dust emission', 'Fine dust particles', 'Green manufacturing']

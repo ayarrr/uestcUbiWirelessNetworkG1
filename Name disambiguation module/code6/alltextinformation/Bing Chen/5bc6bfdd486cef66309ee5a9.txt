@@ -1,0 +1,2 @@
+Olfactory ensheathing cell apoptosis induced by hypoxia and serum deprivation
+['Apoptosis', 'Caspase', 'Ischemia', 'Mitochondria', 'OECs', 'p53']

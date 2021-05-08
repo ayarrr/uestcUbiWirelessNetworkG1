@@ -1,0 +1,2 @@
+Dynamic kernel probabilistic principal component analysis model
+['Dynamic kernel probabilistic principal component analysis (DKPPCA)', 'High-dimensional space', 'Nonlinear', 'Process monitoring']

@@ -1,0 +1,2 @@
+Customization product green design support system based on disassembly tree model
+['Customization', 'Disassembly tree model', 'Green design', 'Green manufacturing']

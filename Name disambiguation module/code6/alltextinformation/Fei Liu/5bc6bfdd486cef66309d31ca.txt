@@ -1,0 +1,2 @@
+Information interaction and its implementation for virtual enterprise based on P2P
+['Multi-agent', 'Peer-to-peer', 'Virtual enterprise', 'XML']

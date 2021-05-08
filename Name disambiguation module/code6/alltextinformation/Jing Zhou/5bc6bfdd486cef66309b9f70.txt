@@ -1,0 +1,2 @@
+Ductility reduction factor for vertically irregular structures under strong earthquake actions
+['Ductility reduction factor', 'Modification factor', 'Nonlinear dynamic analysis', 'Pulse-like ground motion', 'Vertical irregularity']

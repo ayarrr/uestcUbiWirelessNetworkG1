@@ -1,0 +1,2 @@
+Concurrent PLS-based process monitoring with incomplete input and quality measurements
+['CPLS', 'Incomplete measurement', 'Monitoring statistic', 'Process monitoring']

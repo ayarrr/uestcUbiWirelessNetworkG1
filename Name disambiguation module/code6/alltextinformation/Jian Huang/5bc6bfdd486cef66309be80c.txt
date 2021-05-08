@@ -1,0 +1,2 @@
+Structural and optical analysis of the diamond films for FED application
+['(111) diamond film', 'Emission current', 'Field emission', 'Raman spectra', 'Turn-on-field']

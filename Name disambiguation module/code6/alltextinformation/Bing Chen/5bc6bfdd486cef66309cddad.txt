@@ -1,0 +1,2 @@
+Performance analysis of large radial equal-thickness vibratory feeder
+['Amplitude', 'Vibration direction angle', 'Vibration locus', 'Vibratory feeder']

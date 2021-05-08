@@ -1,0 +1,2 @@
+High expression of Musashi-2 indicates poor prognosis in adult B-cell acute lymphoblastic leukemia
+['Adults', 'B-cell acute lymphoblastic leukemia', 'BCR-ABL-negative', 'Musashi-2', 'Prognosis']

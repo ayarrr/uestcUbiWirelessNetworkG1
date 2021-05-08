@@ -1,0 +1,2 @@
+A class of P-type fuzzy iterative learning control design
+['Control Input', 'Derivative of Error', 'Error', 'Fuzzy iterative learning']

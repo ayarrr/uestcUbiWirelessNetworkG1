@@ -1,0 +1,2 @@
+Land vehicle navigation using odometry/INS/vision integrated system
+['INS', 'Integrated navigation', 'Land navigation', 'Odometry', 'The electro-optical detection system']

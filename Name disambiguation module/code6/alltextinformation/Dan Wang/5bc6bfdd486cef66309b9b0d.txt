@@ -1,0 +1,2 @@
+Model of total supply capability for distribution network considering customer classification and interaction
+['Customer classification', 'Customer interaction', 'Distribution network', 'N-1 operation mode', 'Total supply capability (TSC)']

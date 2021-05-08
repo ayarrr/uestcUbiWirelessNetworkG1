@@ -1,0 +1,2 @@
+An analysis model for environmental impact in manufacturing process based on eco-indicator 99
+['Eco-indicator 99', 'Environment impact', 'Green manufacturing', 'Manufacturing process']

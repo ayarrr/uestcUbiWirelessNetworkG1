@@ -1,0 +1,2 @@
+A networked sharing application system for reverse engineering
+['Application sharing network', 'Digital product modeling', 'Network collaborative design', 'Reverse engineering']

@@ -1,0 +1,2 @@
+Eicosanoids mediate nodulation reactions to bacterial Escherichia coli K 12 infections in larvae of the oriental blowfly, Chrysomya megacephala
+['Bacteria', 'Chrysomya megacephala', 'Eicosanoids', 'Escherichia coli K 12', 'Nodulation']

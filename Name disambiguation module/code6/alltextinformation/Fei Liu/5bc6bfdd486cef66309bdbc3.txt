@@ -1,0 +1,2 @@
+Site-specific phosphorylation of tau by GSK-3β
+['Glycogen synthase kinase-3β(GSK-3β)', 'Phosphorylation', 'Tau']

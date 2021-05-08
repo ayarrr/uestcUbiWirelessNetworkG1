@@ -1,0 +1,2 @@
+CdZnTe detectors with parallel capacitive frisch grid
+['Capacitive Frisch', 'CdZnTe detector', 'Parallel detector', 'Schottky contact']

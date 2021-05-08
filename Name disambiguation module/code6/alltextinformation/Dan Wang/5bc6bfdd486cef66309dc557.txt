@@ -1,0 +1,2 @@
+Study of a fuzzy decision making based energy-saving controller for marine power system
+['Energy-saving controller', 'Energy-saving technology', 'Floating frequency and voltage', 'Fuzzy set theory', 'Marine power system']

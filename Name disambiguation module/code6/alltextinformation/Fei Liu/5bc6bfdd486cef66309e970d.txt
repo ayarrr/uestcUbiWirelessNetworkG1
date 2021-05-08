@@ -1,0 +1,2 @@
+Method for analyzing the product material resource consumption situation of manufacturing systems
+['']

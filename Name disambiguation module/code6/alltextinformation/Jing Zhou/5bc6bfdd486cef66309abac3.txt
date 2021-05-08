@@ -1,0 +1,2 @@
+A network optimization method based on resource sharing of power optical cable lines
+['Evaluation index of resource sharing', 'Network optimization', 'Optical cable route', 'TSP model']

@@ -1,0 +1,2 @@
+Robust finite-time H ∞ control of stochastic jump systems
+['Finite-time H ∞ controller', 'linear matrix inequalities', 'Markov jump systems', 'stochastic finite-time boundedness', 'stochastic finite-time stabilization', 'time-delays']

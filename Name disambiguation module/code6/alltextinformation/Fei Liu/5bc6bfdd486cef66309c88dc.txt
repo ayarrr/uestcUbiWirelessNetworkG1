@@ -1,0 +1,2 @@
+A 12-bit, 40-Ms/s pipelined ADC with an improved operational amplifier
+['compensation technique', 'operational amplifier', 'pipelined ADC']

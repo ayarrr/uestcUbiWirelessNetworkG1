@@ -1,0 +1,2 @@
+A coordination control strategy of battery and virtual energy storage to smooth the micro-grid tie-line power fluctuations
+['Demand response', 'Index priority list (IPL)', 'State of charge (SOC)', 'Thermostatically-controlled load (TCL)', 'Tie-line power flow fluctuations of micro grid', 'Virtual energy storage']

@@ -1,0 +1,2 @@
+Damage analysis for RC column under explosive loads
+['Explosive loading', 'Finite element (FEM) analysis', 'Plastic damage', 'RC column', 'Safe distance', 'Strain rate effect']

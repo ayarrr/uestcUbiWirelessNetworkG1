@@ -1,0 +1,2 @@
+Adaptive fuzzy tracking control for a class of perturbed strict-feedback nonlinear time-delay systems
+['Adaptive control', 'Backstepping', 'Fuzzy control', 'Nonlinear time-delay systems']

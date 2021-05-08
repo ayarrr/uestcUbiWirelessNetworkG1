@@ -1,0 +1,2 @@
+Improvements of dielectric columniation triangular lattice for obtaining absolute band gap in visible range
+['Absolute band gaps (abgs)', 'Deformed triangular lattice', 'Photonic crystals (pcs)']

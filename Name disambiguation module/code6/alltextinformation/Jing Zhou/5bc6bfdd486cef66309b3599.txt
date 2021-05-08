@@ -1,0 +1,2 @@
+Theoretical study on local flexibility of pipe with a part-through straight front crack
+['Crack', 'Fracture mechanics', 'Pipe', 'Vibration analysis, local flexibility']

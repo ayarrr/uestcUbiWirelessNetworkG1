@@ -1,0 +1,2 @@
+Parameter optimization of polymer materials degradation model based on improved PSO algorithm
+['Algorithm improvement', 'Biodegradable polymers', 'Degradation', 'Parameter estimation', 'Particle swarm optimization (PSO)']

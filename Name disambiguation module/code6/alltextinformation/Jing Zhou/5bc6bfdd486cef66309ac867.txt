@@ -1,0 +1,2 @@
+Anti-disaster ability evaluation of lifeline network based on network complexity
+['Anti-disaster ability', 'Complexity', 'Key nodes', 'Lifeline system', 'Topology structure']

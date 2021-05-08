@@ -1,0 +1,2 @@
+Robust passive control based on observer for uncertain nonlinear time-delay systems
+['Linear matrix inequality', 'Nonlinear systems', 'Observer', 'Robust passive control', 'Time-delay system', 'Uncertainties']

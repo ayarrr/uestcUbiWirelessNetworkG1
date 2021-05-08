@@ -1,0 +1,2 @@
+Response of mesenchymal stem cells to shear stress in tissue-engineered vascular grafts
+['α-smooth muscle actin', 'Calponin', 'Differentiation', 'Endothelial cells', 'Mesenchymal stem cells', 'Platelet-endothelial cell adhesion molecule-1', 'Shear stress', 'Vecadherin', 'VWF']

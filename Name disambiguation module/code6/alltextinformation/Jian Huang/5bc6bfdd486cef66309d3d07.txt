@@ -1,0 +1,2 @@
+Tempering softening of overlapping zones during multi-track laser quenching for carbon steel and alloy steel
+['Diffusion energy', 'Laser quenching', 'Overlapping zone', 'Tempering', 'Tempering time']

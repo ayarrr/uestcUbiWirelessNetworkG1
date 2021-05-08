@@ -1,0 +1,2 @@
+Application of ZnO varistor in overvoltage protection of neutral point clamped three-level high voltage inverter
+['High voltage inverter', 'Overvoltage protection', 'Three-level', 'ZnO varistor']

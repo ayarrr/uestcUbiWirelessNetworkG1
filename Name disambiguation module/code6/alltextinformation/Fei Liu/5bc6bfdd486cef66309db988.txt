@@ -1,0 +1,2 @@
+Application research of statistical monitoring index based on mahalanobis distance
+['Mahalanobis distance', 'Overall index', 'Principal component analysis (PCA)', 'Process monitoring']

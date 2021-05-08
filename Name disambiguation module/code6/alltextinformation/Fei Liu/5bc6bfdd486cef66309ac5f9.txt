@@ -1,0 +1,2 @@
+Distributed integrating method for enterprise information based on peer-to-peer network
+['Distributed', 'Information integration', 'Peer to peer']

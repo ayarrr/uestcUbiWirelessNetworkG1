@@ -1,0 +1,2 @@
+Delay-dependent stability analysis and control synthesis of fuzzy dynamic systems with time delay
+['Delay-dependent', 'Linear matrix inequality', 'Observer', 'Stabilization', 'T-S fuzzy systems']

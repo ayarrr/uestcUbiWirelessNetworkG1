@@ -1,0 +1,2 @@
+Measurement of worker differences and optimization of personnel assignment for assembly production
+['Assembly', 'Measurement', 'Personnel assignment', 'Worker difference']

@@ -1,0 +1,2 @@
+Shifting control and simulation of wet dual clutch transmission
+['Dual clutch transmission', 'Fuzzy control', 'Integrated control', 'Shift control', 'Wet clutch']

@@ -1,0 +1,2 @@
+A method for feature contour extraction of triangular meshes based on multi-seed points
+['Feature extraction', 'Function evaluation', 'Smoothing', 'Triangular meshes']

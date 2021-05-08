@@ -1,0 +1,2 @@
+Product ontology screening and its application in variant design
+['Case-based reasoning', 'Ontology', 'Ontology screening', 'Product resources view', 'Variant design']

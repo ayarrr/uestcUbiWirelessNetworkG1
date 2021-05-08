@@ -1,0 +1,2 @@
+Application of tube-packaged FBG strain sensor in vibration experiment of submarine pipeline model
+['Fiber Bragg grating sensor', 'Strain sensor', 'Submarine pipeline model', 'Tube-packaged']

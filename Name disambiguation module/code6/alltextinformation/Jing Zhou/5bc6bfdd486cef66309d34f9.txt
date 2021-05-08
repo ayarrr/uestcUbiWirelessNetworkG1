@@ -1,0 +1,2 @@
+Fire risk assessment of transmission line based on BP neural network
+['BP neural network', 'Forest fire', 'Risk assessment', 'Transmission line']

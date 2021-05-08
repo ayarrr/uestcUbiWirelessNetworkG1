@@ -1,0 +1,2 @@
+Optimal design of hybrid energy storage system capacity for wind farms
+['Capacity', 'Genetic algorithm', 'Hybrid energy storage system', 'Neural network', 'Smoothing time constant', 'Wind power']

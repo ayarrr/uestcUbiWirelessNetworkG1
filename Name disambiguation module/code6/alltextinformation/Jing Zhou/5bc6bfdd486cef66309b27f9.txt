@@ -1,0 +1,2 @@
+A local convergent method for simulating multi-point earthquake ground motion
+['Ground motion simulation', 'Multi-support excitation', 'Non-stationary', 'Spatial correlation']

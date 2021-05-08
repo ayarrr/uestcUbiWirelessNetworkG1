@@ -1,0 +1,2 @@
+Industrial monitoring based on moving average PCA and neural network
+['']

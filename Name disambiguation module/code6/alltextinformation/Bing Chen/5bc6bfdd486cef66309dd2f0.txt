@@ -1,0 +1,2 @@
+Maintenance of the self-renewal properties of neural progenitor cells cultured in three-dimensional collagen scaffolds by the REDD1-mTOR signal pathway
+['MTOR', 'Neural progenitor cells', 'REDD1', 'Self-renewal', 'Three-dimensional culture']

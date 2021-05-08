@@ -1,0 +1,2 @@
+Application of number theoretic methods in maximum likelihood estimation
+['Maximum likelihood estimation', 'Number theory method', 'Sequential number-theoretic method for optimization', 'Weibull distribution']

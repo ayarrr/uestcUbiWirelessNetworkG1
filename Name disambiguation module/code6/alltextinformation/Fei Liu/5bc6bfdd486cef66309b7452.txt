@@ -1,0 +1,2 @@
+Grouping optimization method of large-scale parts based on cutting stock characteristics
+['Cutting stock', 'Minimum spanning tree', 'Optimization', 'Parts grouping', "Parts' cutting stock characteristics"]

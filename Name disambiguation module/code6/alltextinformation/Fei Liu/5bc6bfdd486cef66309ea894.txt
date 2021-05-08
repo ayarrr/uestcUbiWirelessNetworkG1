@@ -1,0 +1,2 @@
+Research on Internet-based application sharing supporting systems for distributed electromechanical instruments and its application
+['Case study', 'Electromechanical instruments', 'Management grid', 'Sharing system']

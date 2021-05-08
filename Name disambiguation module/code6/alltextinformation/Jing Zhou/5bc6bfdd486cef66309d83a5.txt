@@ -1,0 +1,2 @@
+Fragility analysis of vertically irregular reinforced concrete frame structures subjected to pulse-like ground motions
+['Fragility analysis', 'Frame structure', 'Numerical analysis', 'Velocity pulse-like ground motion', 'Vertical irregularities']

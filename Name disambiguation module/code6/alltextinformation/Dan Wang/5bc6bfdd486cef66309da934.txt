@@ -1,0 +1,2 @@
+Routing strategy based on static and dynamic information
+['Preferential Attachment', 'Routing Strategy', 'Scale-free Networks', 'Triangle Formation']

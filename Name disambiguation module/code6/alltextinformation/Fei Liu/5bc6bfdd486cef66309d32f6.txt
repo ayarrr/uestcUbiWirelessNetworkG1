@@ -1,0 +1,2 @@
+Numerical analysis of controlling separation in axial cascade by unsteady excitation
+['Compressor cascade', 'Incoming wake', 'Separation control', 'Unsteady excitation', 'Vortex shedding']

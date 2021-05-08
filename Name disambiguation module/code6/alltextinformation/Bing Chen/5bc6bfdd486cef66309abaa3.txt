@@ -1,0 +1,2 @@
+Adaptive neural tracking control for a class of stochastic nonlinear systems with unknown dead-zone
+['Adaptive neural control', 'Backstepping', 'Non-symmetric dead-zone', 'Stochastic nonlinear systems']

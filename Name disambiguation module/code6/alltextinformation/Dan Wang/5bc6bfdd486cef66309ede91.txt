@@ -1,0 +1,2 @@
+An approach to neural control of a class of strict-feedback nonlinear systems
+['Robust adaptive control', 'Single neural network', 'Uncertain strict-feedback nonlinear systems']

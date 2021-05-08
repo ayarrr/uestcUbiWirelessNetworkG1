@@ -1,0 +1,2 @@
+Stress-life model of truncated distribution
+['']

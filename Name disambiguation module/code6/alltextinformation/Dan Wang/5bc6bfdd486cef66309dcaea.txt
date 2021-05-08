@@ -1,0 +1,2 @@
+Technology for concrete pipe manipulator
+['Lifting fork', 'Mechanical system', 'Photoelectric location', 'Photoelectric target', 'Pipe manipulator', 'Self-lock mechanism']

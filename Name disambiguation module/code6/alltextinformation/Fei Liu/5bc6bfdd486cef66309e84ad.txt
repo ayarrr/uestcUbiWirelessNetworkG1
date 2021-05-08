@@ -1,0 +1,2 @@
+Numerical analysis of vortex structures and noise characteristics in cross flow fan
+['Cross flow fan', 'Eccentric vortex', 'Far-field noise', 'Shedding vortex']

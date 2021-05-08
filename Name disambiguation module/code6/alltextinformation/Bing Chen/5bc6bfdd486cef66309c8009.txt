@@ -1,0 +1,2 @@
+Performance parameters analysis of vibrating cooler
+['Amplitude', 'Trajectory', 'Vibrating cooler', 'Vibration tests']

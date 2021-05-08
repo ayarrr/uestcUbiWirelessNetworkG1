@@ -1,0 +1,2 @@
+Analysis of the internal electrical characteristics of electronic power transformers
+['DC-bus voltage', 'Electronic power transformer (EPT)', 'High-frequency isolation transformer (HFIT)', 'Internal electrical characteristics of EPT', 'Peak current of HFIT']

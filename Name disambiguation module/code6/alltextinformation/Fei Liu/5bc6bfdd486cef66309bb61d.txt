@@ -1,0 +1,2 @@
+The effect of O-GlcNAcylation on phosphorylation of tau
+['Alzheimer disease', 'O-GlcNAcase', 'OGT', 'Protein O-GlcNAcylation', 'Protein phosphorylation', 'Tau']

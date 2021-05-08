@@ -1,0 +1,2 @@
+Stress testing and strength analysis of vibrating cooler
+['Strength', 'Stress testing', 'Vibrating cooler']

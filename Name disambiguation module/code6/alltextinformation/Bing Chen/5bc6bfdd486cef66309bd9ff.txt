@@ -1,0 +1,2 @@
+Direct adaptive fuzzy-based robust control design for uncertain nonlinear stochastic systems
+['Backstepping', 'Direct adaptive fuzzy control', 'Stochastic nonlinear systems']

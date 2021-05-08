@@ -1,0 +1,2 @@
+Sfrp5 expression and secretion in adipocytes are up-regulated during differentiation and are negatively correlated with insulin resistance
+['3T3-L1 pre-adipocytes', 'Adipogenesis', 'Insulin resistance', 'Obese', 'Sfrp5']

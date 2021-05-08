@@ -1,0 +1,2 @@
+The novel OCT4 spliced variant OCT4B1 can generate three protein isoforms by alternative splicing into OCT4B
+['Alternative splicing', 'Alternative translation initiation', 'OCT4', 'Stress']

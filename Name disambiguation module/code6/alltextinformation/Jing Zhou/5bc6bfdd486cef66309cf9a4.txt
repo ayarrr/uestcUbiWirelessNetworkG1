@@ -1,0 +1,2 @@
+Experimental investigations on detecting lateral buckling for subsea pipelines with distributed fiber optic sensors
+['BOTDA', 'Buckling detection', 'Distributed fiber optic sensor', 'Lateral buckling', 'Structural integrity', 'Subsea pipeline']

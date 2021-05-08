@@ -1,0 +1,2 @@
+Reusability of business process among enterprises in networked manufacturing
+['Aspect-oriented programming', 'Business process composition', 'Coordination theory', 'Reuse composition mechanism']

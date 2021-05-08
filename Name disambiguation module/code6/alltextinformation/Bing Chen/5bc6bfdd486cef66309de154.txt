@@ -1,0 +1,2 @@
+Observer-based stabilization of T-S fuzzy systems with input delay
+['Delay-dependent', 'Fuzzy control', 'Input delay', 'Observer', 'Takagi-Sugeno (T-S) fuzzy system']

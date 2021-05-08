@@ -1,0 +1,2 @@
+Assessment of the flexural capacity of corroded steel pipes
+['Constant-depth', 'Corrosion', 'Elliptical', 'Flexural capacity', 'Parabolic', 'Steel pipes']

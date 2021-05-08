@@ -1,0 +1,2 @@
+Effect of epidermal growth factor on the expression of Cx43mRNA of human retina pigment epithelium cells
+['Cx43', 'Epidermal growth factor', 'Gap Junctions', 'Retina pigment epithelium cells']

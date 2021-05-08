@@ -1,0 +1,2 @@
+Treatment of severe acute deep venous thrombosis in lower extremity
+['Extremity,lower', 'Surgical procedures,operative', 'Venous thrombosis']

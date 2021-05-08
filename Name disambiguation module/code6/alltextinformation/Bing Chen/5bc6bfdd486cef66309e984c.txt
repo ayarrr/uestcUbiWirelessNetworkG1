@@ -1,0 +1,2 @@
+Direct adaptive neural tracking control for a class of stochastic pure-feedback nonlinear systems with unknown dead-zone
+['adaptive neural control', 'backstepping', 'stochastic pure-feedback nonlinear systems']

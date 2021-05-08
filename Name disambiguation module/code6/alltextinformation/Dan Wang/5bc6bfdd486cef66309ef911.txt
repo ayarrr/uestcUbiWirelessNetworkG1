@@ -1,0 +1,2 @@
+Effect of weighted scheme on synchronizability based on different network structures
+['Scale-free networks', 'Small world networks', 'Synchronizability', 'Synchronization-optimal']

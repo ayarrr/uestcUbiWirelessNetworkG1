@@ -1,0 +1,2 @@
+A weighted scale-free network model with high clustering and its synchronizability
+['Clustering coefficient', 'Scale-free network', 'Synchronizability', 'Weighted network']

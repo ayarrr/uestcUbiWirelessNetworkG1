@@ -1,0 +1,2 @@
+Research on scalability of distribution management system
+['Architecture', 'Distribution management system (DMS)', 'Distribution mode', 'Distribution strategy', 'Running mode', 'Scalability']

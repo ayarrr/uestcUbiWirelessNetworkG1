@@ -1,0 +1,2 @@
+Effect of newly identified hTERT-interacting proteins on telomerase activity
+['co-immunoprecipitation', 'hTERT', 'telomerase', 'yeast two-hybrid screen']

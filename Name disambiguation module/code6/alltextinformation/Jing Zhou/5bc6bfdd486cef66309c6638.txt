@@ -1,0 +1,2 @@
+Experimental study of dynamic response of ribbed arch bridge with damaged ribs
+['Damage signature', 'Model test', 'Ribbed arch bridge', 'Sensitivity analysis']

@@ -1,0 +1,2 @@
+Estimation of the anthropogenic heat release distribution in China from 1992 to 2009
+['Anthropogenic heat flux', 'China', 'Distribution', 'DMSP/OLS data', 'Estimation']

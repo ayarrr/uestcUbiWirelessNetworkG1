@@ -1,0 +1,2 @@
+Simulation of SSR evoked by TCSC for UHVAC transmission system from Yimin to fengtun on RTDS
+['Impedance controller', 'Real time digital simulator(RTDS)', 'Sub synchronous resonance(SSR)', 'Thyristor controlled series capacitor(TCSC)', 'Yimin-fengtun']

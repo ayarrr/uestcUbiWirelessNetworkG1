@@ -1,0 +1,2 @@
+Neural network-based adaptive dynamic surface control of uncertain nonlinear pure-feedback systems
+['adaptive control', 'neural networks', 'nonlinear control', 'pure-feedback systems']

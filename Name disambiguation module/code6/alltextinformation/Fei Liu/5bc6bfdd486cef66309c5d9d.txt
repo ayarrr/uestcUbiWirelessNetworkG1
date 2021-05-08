@@ -1,0 +1,2 @@
+Bayesian model for missile storage reliability analysis based on success-failure test
+['Aerospace propulsion system', 'Bayesian estimation', 'Dirichlet distribution', 'Gibbs sampling algorithm', 'Missile', 'Storage reliability']

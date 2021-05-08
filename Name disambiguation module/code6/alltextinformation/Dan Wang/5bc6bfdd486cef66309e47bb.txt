@@ -1,0 +1,2 @@
+A real-time and closed-loop control algorithm for cascaded multilevel inverter based on artificial neural network
+['']

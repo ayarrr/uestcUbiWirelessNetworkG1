@@ -1,0 +1,2 @@
+The design of a polarizing beam splitter made from a dielectric rectangular-groove grating
+['Diffraction', 'Grating', 'Polarizing beam splitter']

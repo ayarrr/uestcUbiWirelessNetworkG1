@@ -1,0 +1,2 @@
+Analytical design of centralized PI controller for high dimensional multivariable systems
+['Centralized control', 'High dimension', 'Multivariable system', 'PI controller']

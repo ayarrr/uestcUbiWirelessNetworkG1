@@ -1,0 +1,2 @@
+Analysis on competitive interaction between arenobufagin and verapamil hydrochloride with serum albumin
+['Arenobufagin', 'Bovine serum', 'Bovine serum albumin', 'Equilibrium dialysis', 'Fluorescence spectroscopy', 'High-performance liquid chromatography', 'Human serum albumin', 'Verapamil hydrochloride']

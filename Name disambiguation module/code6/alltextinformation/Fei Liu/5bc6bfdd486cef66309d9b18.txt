@@ -1,0 +1,2 @@
+H
+['Admissible', 'Discrete singular system', 'H∞ control', 'Linear matrix inequalities']

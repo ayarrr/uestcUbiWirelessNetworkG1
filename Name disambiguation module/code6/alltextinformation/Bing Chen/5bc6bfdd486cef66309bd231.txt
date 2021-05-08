@@ -1,0 +1,2 @@
+Adaptive fuzzy decentralized control for a class of pure-feedback large-scale nonlinear systems
+['Adaptive decentralized control', 'Backstepping', 'Fuzzy control', 'Pure-feedback large-scale systems']

@@ -1,0 +1,2 @@
+Dynamic non-Gaussian process monitoring method based on DIFA and its application
+['Dynamic characteristics', 'IFA', 'Non-Gaussian', 'PCA', 'Process monitoring']

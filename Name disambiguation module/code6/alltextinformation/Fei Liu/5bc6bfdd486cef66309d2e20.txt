@@ -1,0 +1,2 @@
+Research on fusion approach for hyperspectral image and Multispectral image of HJ-1A
+['3D wavelet transform', 'Fusion', 'HJ-1A', 'Hyperspectral image', 'RS']

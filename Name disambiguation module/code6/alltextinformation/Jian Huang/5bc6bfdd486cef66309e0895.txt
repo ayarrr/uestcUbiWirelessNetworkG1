@@ -1,0 +1,2 @@
+Toward context-aware location based services
+['Context awareness', 'Context management', 'Location based services', 'Preference-based service', 'Service trigger mechanism']

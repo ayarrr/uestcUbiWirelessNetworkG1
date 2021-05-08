@@ -1,0 +1,2 @@
+Heparin-conjugated PCL scaffolds fabricated by electrospinning and loaded with fibroblast growth factor 2
+['anticoagulation', 'electrospinning', 'FGF2', 'heparin-polyester conjugate', 'Vascular tubular scaffold']

@@ -1,0 +1,2 @@
+Bayesian filtering for non-linear Markov jump systems with non-homogeneous transition probabilities
+['Bayesian estimation', 'Non-linear non-homogeneous Markov jump systems', 'Particle approximation', 'Reference probability method']

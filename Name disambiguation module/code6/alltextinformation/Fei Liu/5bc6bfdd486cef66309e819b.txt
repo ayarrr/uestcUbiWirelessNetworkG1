@@ -1,0 +1,2 @@
+Thrust force calculation of LSM with asymmetric long stator
+['Flux density', 'LSM', 'MC functions', 'MMF', 'Stators array', 'Thrust force']

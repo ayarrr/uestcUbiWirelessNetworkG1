@@ -1,0 +1,2 @@
+A Two-phases-based general framework for design of parsing model
+['Genetic Algorithm (GA)', 'Margin Infused Relaxed Algorithm (MIRA)', 'Model Optimization', 'Parsing Model']

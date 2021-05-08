@@ -1,0 +1,2 @@
+Study on the AE characteristics of fracture process of concrete beams
+['Acoustic emission (AE)', 'Duration', 'Failure mechanism']

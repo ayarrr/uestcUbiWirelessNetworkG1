@@ -1,0 +1,2 @@
+Three-dimensional numerical simulation of gas-solid flow and roasting process coupling in pelletizing shaft furnace
+['Eulerian model', 'Gas-solid flow', 'Numerical simulation', 'Pelletizing shaft furnace', 'Roasting process']

@@ -1,0 +1,2 @@
+Adaptive dynamic surface control for cooperative path following of multiple autonomous surface vessels
+['Autonomous surface vessels', 'Cooperative path following', 'Dynamic surface control', 'Neural networks', 'Uncertainties']

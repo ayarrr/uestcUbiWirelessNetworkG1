@@ -1,0 +1,2 @@
+Start-up analysis for differential ring oscillator with even number of stages
+['Even-Stage', 'Ring Oscillator', 'Start-up', 'VCO']

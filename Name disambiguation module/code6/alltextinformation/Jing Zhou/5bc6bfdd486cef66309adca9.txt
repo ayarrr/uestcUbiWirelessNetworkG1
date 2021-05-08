@@ -1,0 +1,2 @@
+Effect of number of unit cells of fcc photonic crystal on property of band gaps
+['Fcc structure', 'Number of lattice', 'Photonic band gaps']

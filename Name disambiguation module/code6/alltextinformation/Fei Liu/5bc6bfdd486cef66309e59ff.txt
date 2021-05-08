@@ -1,0 +1,2 @@
+Consensus of multi-agent systems with sampled information and input delay
+['Consensus', 'Input delay', 'Sampled information', 'Second-order multi-agent systems']

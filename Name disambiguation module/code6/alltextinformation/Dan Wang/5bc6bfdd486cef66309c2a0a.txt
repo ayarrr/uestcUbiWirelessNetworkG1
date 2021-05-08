@@ -1,0 +1,2 @@
+Machining of composite surface based on z-buffer method with torus tools
+['Composite surface', 'Computer graphics Interference checking', 'Depth buffer', 'Tool path generation method']

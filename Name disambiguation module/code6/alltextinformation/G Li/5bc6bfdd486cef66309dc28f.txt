@@ -1,0 +1,2 @@
+Measurement of y<inf>CP</inf> in D<sup>0</sup>-D<sup>0</sup> oscillation using quantum correlations in e<sup>+</sup>e<sup>-</sup> → D<sup>0</sup>D<sup>0</sup> at √s = 3.773 GeV
+['BESIII', 'D<sup>0</sup>-D<sup>0</sup>oscillation', 'Quantum correlation', 'Y<inf>CP</inf>']

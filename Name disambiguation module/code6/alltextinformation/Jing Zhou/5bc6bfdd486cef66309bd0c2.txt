@@ -1,0 +1,2 @@
+Research on improving security of protection for power system secondary system by quantum key technology
+['Electric power communication network', 'Power grid secondary system', 'Quantum communication', 'Quantum cryptography equipment', 'Quantum key distribution (QKD)']

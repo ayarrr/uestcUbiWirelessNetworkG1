@@ -1,0 +1,2 @@
+Experimental study of effect of local variation of arch rib on dynamic property of arch bridge
+['Arch bridge', 'Dynamic property', 'FEM analysis', 'Health monitoring', 'Model test']

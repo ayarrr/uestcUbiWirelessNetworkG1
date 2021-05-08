@@ -1,0 +1,2 @@
+Dielectric and piezoelectric properties of Na
+['Dielectric properties', 'Na0.5Bi 0.5TiO3', 'Perovskite', 'Piezoelectric properties', 'Relaxor']

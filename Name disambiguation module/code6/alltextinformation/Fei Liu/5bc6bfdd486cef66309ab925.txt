@@ -1,0 +1,2 @@
+Machine tool selection model and its application for green manufacturing
+['Green manufacturing', 'Grey relation coefficient', 'Machine tool selection model']
