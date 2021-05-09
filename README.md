@@ -7,6 +7,10 @@
 
 （3）Music_Recommendation：Wang R, Ma X, Jiang C, et al. Heterogeneous information network-based music recommendation system in mobile networks[J]. Computer Communications, 2020, 150: 429-437.
 
-（4）Name_Disambiguation_Module: Ma X, Wang R, Zhang Y, et al. A name disambiguation module for intelligent robotic consultant in industrial internet of things[J]. Mechanical Systems and Signal Processing, 2020, 136: 106413.
+（4）Name_Disambiguation_Module:  Ma X, Wang R, Zhang Y, et al. A name disambiguation module for intelligent robotic consultant in industrial internet of things[J]. Mechanical Systems and Signal Processing, 2020, 136: 106413.
 
 （5）Session_Based_Recommendation：Zhang Y, Li Y, Wang R, et al. Multi-aspect aware session-based recommendation for intelligent transportation services[J]. IEEE Transactions on Intelligent Transportation Systems, 2020.
+
+（6）CIFT： Hu G, Ye Y, Zhang Y, et al. CIFT: Connected Intelligent Fund Transaction System Based on Deep Learning[C]//2019 IEEE Globecom Workshops (GC Wkshps). IEEE, 2019: 1-6.（智能基金交易系统）
+
+（7）DuReader-all-baseline：2019年百度机器阅读理解比赛。
