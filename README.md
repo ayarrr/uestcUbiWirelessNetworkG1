@@ -14,3 +14,5 @@
 （6）CIFT： Hu G, Ye Y, Zhang Y, et al. CIFT: Connected Intelligent Fund Transaction System Based on Deep Learning[C]//2019 IEEE Globecom Workshops (GC Wkshps). IEEE, 2019: 1-6.（智能基金交易系统）
 
 （7）DuReader-all-baseline：2019年百度机器阅读理解比赛。
+(8)2021届毕业生相关实验及数据
+    链接：https://pan.baidu.com/s/19Enu03WCQdpQvXfSVY7fOw    密码：hzry
